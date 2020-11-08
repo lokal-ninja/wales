@@ -1,0 +1,4 @@
+---
+title: "Bangor Tyre Service"
+url: /bangor/bangor-tyre-service/
+---
