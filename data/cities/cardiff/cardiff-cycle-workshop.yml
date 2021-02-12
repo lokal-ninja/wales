@@ -1,6 +1,5 @@
 id: 4138767982
 type: node
-shop: bicycle
 latitude: 51.5014559
 longitude: -3.2041098000000003
 postcode: "CF14 3AY"
@@ -8,5 +7,5 @@ city: Cardiff
 street: "Clos Menter"
 housenumber: 
 phone: "+44 29 20616783"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-13:00"
 website: ""
