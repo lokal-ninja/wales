@@ -1,5 +1,5 @@
 ---
-title: "SCS"
+title: "ScS"
 url: /pontprennau/scs/
-shop: doityourself
+shop: furniture
 ---
