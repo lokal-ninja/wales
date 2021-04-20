@@ -1,11 +1,11 @@
-id: 93788675
-type: way
-latitude: 51.48246030000001
-longitude: -3.2103795
-postcode: "CF5 1JG"
+id: 6290748887
+type: node
+latitude: 51.4766124
+longitude: -3.1789961
+postcode: "CF10 1FS"
 city: Cardiff
-street: "Cowbridge Road East"
-housenumber: 425-427
-phone: "+44 (0)345 671 9289"
-opening_hours: "Mo-Su 06:00-23:00"
-website: ""
+street: "Central Square"
+housenumber: 3
+phone: "+44 3703 500 700"
+opening_hours: "Mo-Fr 08:00-17:00"
+website: "https://www.tesco.com/store-locator/uk/?bid=4876"
