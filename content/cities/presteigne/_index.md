@@ -1,6 +1,6 @@
 ---
 title: Presteigne
 url: /presteigne/
-latitude: 52.272484000000006
-longitude: -3.0052595
+latitude: 52.2724167
+longitude: -3.0059756
 ---
