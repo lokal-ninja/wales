@@ -1,5 +1,5 @@
 ---
-title: "sharps"
+title: "Sharps"
 url: /wrexham/sharps/
-shop: bed
+shop: furniture
 ---

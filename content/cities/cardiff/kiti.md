@@ -1,5 +1,5 @@
 ---
 title: "Kiti"
 url: /cardiff/kiti/
-shop: shop
+shop: clothes
 ---

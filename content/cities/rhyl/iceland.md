@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /rhyl/iceland/
-shop: supermarket
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /wrexham/onebelow/
-shop: convenience
+shop: variety store
 ---
