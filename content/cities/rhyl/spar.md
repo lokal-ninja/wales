@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /rhyl/spar/
-shop: convenience
+shop: supermarket
 ---

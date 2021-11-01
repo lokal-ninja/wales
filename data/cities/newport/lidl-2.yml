@@ -1,11 +1,11 @@
-id: 7865840867
-type: node
-latitude: 51.5713525
-longitude: -3.0128851
-postcode: "NP20 3BP"
+id: 40946840
+type: way
+latitude: 51.5716716
+longitude: -2.9945633000000003
+postcode: "NP20 2NZ"
 city: Newport
-street: "Cardiff Road"
-housenumber: 181
+street: "Docks Way"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00, Su 10:00-16:00"
+opening_hours: ""
 website: ""
