@@ -1,6 +1,6 @@
 ---
 title: scurlage
 url: /scurlage/
-latitude: 
-longitude: 
+latitude: 51.565
+longitude: -4.219
 ---

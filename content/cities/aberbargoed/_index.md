@@ -1,6 +1,6 @@
 ---
 title: Aberbargoed
 url: /aberbargoed/
-latitude: 51.6964927
-longitude: -3.2219184000000003
+latitude: 51.689
+longitude: -3.219
 ---

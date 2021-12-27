@@ -1,6 +1,6 @@
 ---
 title: Fforest-fach
 url: /fforest-fach/
-latitude: 
-longitude: 
+latitude: 51.64
+longitude: -3.986
 ---

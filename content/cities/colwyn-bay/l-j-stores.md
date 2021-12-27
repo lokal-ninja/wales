@@ -1,5 +1,5 @@
 ---
 title: "L J Stores"
 url: /colwyn-bay/l-j-stores/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pennant Stores"
 url: /maes-pennant/pennant-stores/
-shop: convenience
+shop: Lebensmittel
 ---

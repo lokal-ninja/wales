@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /bangor/specsavers/
-shop: optician
+shop: Optiker
 ---

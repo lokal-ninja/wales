@@ -1,6 +1,6 @@
 ---
 title: Llanwrst
 url: /llanwrst/
-latitude: 
-longitude: 
+latitude: 53.139
+longitude: -3.796
 ---

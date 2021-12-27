@@ -1,6 +1,6 @@
 ---
 title: Bargoed
 url: /bargoed/
-latitude: 
-longitude: 
+latitude: 51.688
+longitude: -3.229
 ---

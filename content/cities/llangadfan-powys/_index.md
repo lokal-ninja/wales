@@ -1,6 +1,6 @@
 ---
 title: Llangadfan Powys
 url: /llangadfan-powys/
-latitude: 
-longitude: 
+latitude: 52.686
+longitude: -3.465
 ---

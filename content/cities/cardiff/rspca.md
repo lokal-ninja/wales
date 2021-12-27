@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /cardiff/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

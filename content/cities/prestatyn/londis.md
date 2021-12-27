@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /prestatyn/londis/
-shop: convenience
+shop: Lebensmittel
 ---

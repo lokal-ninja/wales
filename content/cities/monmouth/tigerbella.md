@@ -1,5 +1,5 @@
 ---
 title: "Tigerbella"
 url: /monmouth/tigerbella/
-shop: clothes
+shop: Kleidung
 ---

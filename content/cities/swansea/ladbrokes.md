@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /swansea/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

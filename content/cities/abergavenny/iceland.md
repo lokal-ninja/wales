@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /abergavenny/iceland/
-shop: frozen food
+shop: Tiefkühl
 ---

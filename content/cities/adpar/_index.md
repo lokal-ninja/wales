@@ -1,6 +1,6 @@
 ---
 title: Adpar
 url: /adpar/
-latitude: 52.041796000000005
-longitude: -4.467999600000001
+latitude: 52.041
+longitude: -4.467
 ---

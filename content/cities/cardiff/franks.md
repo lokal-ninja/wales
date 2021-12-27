@@ -1,5 +1,5 @@
 ---
 title: "Franks"
 url: /cardiff/franks/
-shop: shop
+shop: Allgemein
 ---

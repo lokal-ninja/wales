@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /prestatyn/spar/
-shop: supermarket
+shop: Supermarkt
 ---

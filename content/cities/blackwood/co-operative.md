@@ -1,5 +1,5 @@
 ---
 title: "Co-operative"
 url: /blackwood/co-operative/
-shop: convenience
+shop: Lebensmittel
 ---

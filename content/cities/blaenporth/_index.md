@@ -1,6 +1,6 @@
 ---
 title: Blaenporth
 url: /blaenporth/
-latitude: 52.10850730000001
-longitude: -4.5382116
+latitude: 52.111
+longitude: -4.539
 ---

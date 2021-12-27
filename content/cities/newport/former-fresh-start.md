@@ -1,5 +1,5 @@
 ---
 title: "Former Fresh Start"
 url: /newport/former-fresh-start/
-shop: vacant
+shop: Leerstehend
 ---

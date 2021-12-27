@@ -1,6 +1,6 @@
 ---
 title: Cardiff
 url: /cardiff/
-latitude: 
-longitude: 
+latitude: 51.488
+longitude: -3.173
 ---

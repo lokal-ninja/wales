@@ -1,5 +1,5 @@
 ---
 title: "CCF"
 url: /tregaron/ccf/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

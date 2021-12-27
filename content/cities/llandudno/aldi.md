@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /llandudno/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

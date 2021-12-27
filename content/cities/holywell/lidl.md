@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /holywell/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

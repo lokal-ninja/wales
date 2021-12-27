@@ -1,6 +1,6 @@
 ---
 title: Tanygroes
 url: /tanygroes/
-latitude: 
-longitude: 
+latitude: 52.126
+longitude: -4.492
 ---

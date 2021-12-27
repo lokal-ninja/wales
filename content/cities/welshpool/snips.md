@@ -1,5 +1,5 @@
 ---
 title: "Snips"
 url: /welshpool/snips/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sugar"
 url: /caerphilly/sugar/
-shop: hairdresser
+shop: Friseur
 ---

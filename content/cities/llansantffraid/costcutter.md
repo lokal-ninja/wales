@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /llansantffraid/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

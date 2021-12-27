@@ -1,5 +1,5 @@
 ---
 title: "Poundbakery"
 url: /llandudno/poundbakery/
-shop: bakery
+shop: Bäckerei
 ---

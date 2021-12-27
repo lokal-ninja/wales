@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /abergele/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

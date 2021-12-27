@@ -1,6 +1,6 @@
 ---
 title: Cardigan / Aberteifi
 url: /cardigan-aberteifi/
-latitude: 
-longitude: 
+latitude: 52.08
+longitude: -4.658
 ---

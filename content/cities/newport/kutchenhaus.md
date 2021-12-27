@@ -1,5 +1,5 @@
 ---
 title: "Kutchenhaus"
 url: /newport/kutchenhaus/
-shop: kitchen
+shop: Küchen
 ---

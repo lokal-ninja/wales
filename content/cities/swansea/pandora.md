@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /swansea/pandora/
-shop: jewelry
+shop: Schmuck
 ---

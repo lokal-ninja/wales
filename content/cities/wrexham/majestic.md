@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /wrexham/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Polished"
 url: /barry/polished/
-shop: beauty
+shop: Kosmetik
 ---

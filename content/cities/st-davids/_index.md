@@ -1,6 +1,6 @@
 ---
 title: St David's
 url: /st-davids/
-latitude: 
-longitude: 
+latitude: 51.884
+longitude: -5.263
 ---

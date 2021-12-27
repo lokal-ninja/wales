@@ -1,5 +1,5 @@
 ---
 title: "Cambrian Photography"
 url: /colwyn-bay/cambrian-photography/
-shop: photo
+shop: Foto
 ---

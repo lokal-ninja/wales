@@ -1,5 +1,5 @@
 ---
 title: "Penhowe"
 url: /usk/penhowe/
-shop: antiques
+shop: Antiquitäten
 ---

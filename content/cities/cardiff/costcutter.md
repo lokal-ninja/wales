@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /cardiff/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

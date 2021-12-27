@@ -1,6 +1,6 @@
 ---
 title: Penmaenmawr
 url: /penmaenmawr/
-latitude: 53.268139500000004
-longitude: -3.9200268
+latitude: 53.277
+longitude: -3.899
 ---

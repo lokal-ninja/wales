@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /porthmadog/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

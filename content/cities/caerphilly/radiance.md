@@ -1,5 +1,5 @@
 ---
 title: "Radiance"
 url: /caerphilly/radiance/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bettws/londis/
-shop: convenience
+shop: Lebensmittel
 ---

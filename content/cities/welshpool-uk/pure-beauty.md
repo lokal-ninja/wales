@@ -1,5 +1,5 @@
 ---
 title: "Pure Beauty"
 url: /welshpool-uk/pure-beauty/
-shop: beauty
+shop: Kosmetik
 ---

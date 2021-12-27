@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /maesteg/specsavers/
-shop: optician
+shop: Optiker
 ---

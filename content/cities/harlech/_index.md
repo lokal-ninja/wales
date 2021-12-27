@@ -1,6 +1,6 @@
 ---
 title: Harlech
 url: /harlech/
-latitude: 52.8587665
-longitude: -4.10745
+latitude: 52.887
+longitude: -4.106
 ---

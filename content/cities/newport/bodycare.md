@@ -1,5 +1,5 @@
 ---
 title: "Bodycare"
 url: /newport/bodycare/
-shop: chemist
+shop: Drogerie
 ---

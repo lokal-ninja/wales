@@ -1,5 +1,5 @@
 ---
 title: "Razors"
 url: /bedwas/razors/
-shop: hairdresser
+shop: Friseur
 ---

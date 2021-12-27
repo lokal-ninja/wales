@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /swansea/clarks/
-shop: shoes
+shop: Schuhe
 ---

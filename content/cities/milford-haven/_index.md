@@ -1,6 +1,6 @@
 ---
 title: Milford Haven
 url: /milford-haven/
-latitude: 51.7117492
-longitude: -5.0293161
+latitude: 51.715
+longitude: -5.055
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Internacionale"
 url: /swansea/internacionale/
-shop: clothes
+shop: Kleidung
 ---

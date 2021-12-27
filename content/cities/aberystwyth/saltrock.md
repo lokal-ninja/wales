@@ -1,5 +1,5 @@
 ---
 title: "Saltrock"
 url: /aberystwyth/saltrock/
-shop: clothes
+shop: Kleidung
 ---

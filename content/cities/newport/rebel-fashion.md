@@ -1,5 +1,5 @@
 ---
 title: "Rebel Fashion"
 url: /newport/rebel-fashion/
-shop: clothes
+shop: Kleidung
 ---

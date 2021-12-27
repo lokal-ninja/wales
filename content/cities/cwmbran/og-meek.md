@@ -1,5 +1,5 @@
 ---
 title: "OG Meek"
 url: /cwmbran/og-meek/
-shop: shoes
+shop: Schuhe
 ---

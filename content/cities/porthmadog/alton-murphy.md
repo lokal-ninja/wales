@@ -1,5 +1,5 @@
 ---
 title: "Alton Murphy"
 url: /porthmadog/alton-murphy/
-shop: optician
+shop: Optiker
 ---

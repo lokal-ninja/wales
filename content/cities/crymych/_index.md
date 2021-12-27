@@ -1,6 +1,6 @@
 ---
 title: Crymych,
 url: /crymych/
-latitude: 
-longitude: 
+latitude: 51.978
+longitude: -4.642
 ---

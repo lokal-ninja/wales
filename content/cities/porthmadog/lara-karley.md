@@ -1,5 +1,5 @@
 ---
 title: "Lara Karley"
 url: /porthmadog/lara-karley/
-shop: hairdresser
+shop: Friseur
 ---

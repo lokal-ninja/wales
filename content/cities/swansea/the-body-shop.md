@@ -1,5 +1,5 @@
 ---
 title: "The Body Shop"
 url: /swansea/the-body-shop/
-shop: beauty
+shop: Kosmetik
 ---

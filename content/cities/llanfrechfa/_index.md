@@ -1,6 +1,6 @@
 ---
 title: Llanfrechfa
 url: /llanfrechfa/
-latitude: 51.637163900000004
-longitude: -2.9875088
+latitude: 51.646
+longitude: -3.001
 ---

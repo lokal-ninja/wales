@@ -1,5 +1,5 @@
 ---
 title: "ReStore"
 url: /barry/restore/
-shop: charity
+shop: Gebrauchtwaren
 ---

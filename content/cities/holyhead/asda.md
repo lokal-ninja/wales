@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /holyhead/asda/
-shop: supermarket
+shop: Supermarkt
 ---

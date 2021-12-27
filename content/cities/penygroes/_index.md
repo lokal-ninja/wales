@@ -1,6 +1,6 @@
 ---
 title: Penygroes
 url: /penygroes/
-latitude: 51.8034625
-longitude: -4.0528046
+latitude: 53.055
+longitude: -4.284
 ---

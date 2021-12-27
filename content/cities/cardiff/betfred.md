@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /cardiff/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

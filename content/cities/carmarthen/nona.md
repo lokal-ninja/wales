@@ -1,5 +1,5 @@
 ---
 title: "Nona"
 url: /carmarthen/nona/
-shop: jewelry
+shop: Schmuck
 ---

@@ -1,6 +1,6 @@
 ---
 title: Llangollen
 url: /llangollen/
-latitude: 52.9694033
-longitude: -3.1711111
+latitude: 52.97
+longitude: -3.17
 ---

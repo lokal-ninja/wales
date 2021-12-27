@@ -1,6 +1,6 @@
 ---
 title: Sketty
 url: /sketty/
-latitude: 
-longitude: 
+latitude: 51.616
+longitude: -4
 ---

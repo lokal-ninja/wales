@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /wrexham/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

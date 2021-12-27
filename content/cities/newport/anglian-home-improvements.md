@@ -1,5 +1,5 @@
 ---
 title: "Anglian Home Improvements"
 url: /newport/anglian-home-improvements/
-shop: vacant
+shop: Leerstehend
 ---

@@ -1,6 +1,6 @@
 ---
 title: Horeb
 url: /horeb/
-latitude: 51.93209220000001
-longitude: -4.163431800000001
+latitude: 52.053
+longitude: -4.331
 ---

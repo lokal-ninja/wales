@@ -1,6 +1,6 @@
 ---
 title: Pontselli
 url: /pontselli/
-latitude: 
-longitude: 
+latitude: 52.031
+longitude: -4.55
 ---

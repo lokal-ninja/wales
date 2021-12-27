@@ -1,6 +1,6 @@
 ---
 title: Hendreforgan
 url: /hendreforgan/
-latitude: 
-longitude: 
+latitude: 51.584
+longitude: -3.472
 ---

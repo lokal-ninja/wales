@@ -1,5 +1,5 @@
 ---
 title: "Teleflorist"
 url: /caerphilly/teleflorist/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

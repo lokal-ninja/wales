@@ -1,6 +1,6 @@
 ---
 title: Pontypool
 url: /pontypool/
-latitude: 51.7026571
-longitude: -3.0327511
+latitude: 51.693
+longitude: -3.021
 ---

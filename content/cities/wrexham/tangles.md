@@ -1,5 +1,5 @@
 ---
 title: "Tangles"
 url: /wrexham/tangles/
-shop: hairdresser
+shop: Friseur
 ---

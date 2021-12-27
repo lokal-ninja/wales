@@ -1,6 +1,6 @@
 ---
 title: Croespenmaen
 url: /croespenmaen/
-latitude: 
-longitude: 
+latitude: 51.684
+longitude: -3.164
 ---

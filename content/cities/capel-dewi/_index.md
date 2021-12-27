@@ -1,6 +1,6 @@
 ---
 title: Capel Dewi
 url: /capel-dewi/
-latitude: 52.421903500000006
-longitude: -4.0160197
+latitude: 52.059
+longitude: -4.26
 ---

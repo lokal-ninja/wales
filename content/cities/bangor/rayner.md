@@ -1,5 +1,5 @@
 ---
 title: "Rayner"
 url: /bangor/rayner/
-shop: shop
+shop: Allgemein
 ---

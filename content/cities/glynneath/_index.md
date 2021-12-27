@@ -1,6 +1,6 @@
 ---
 title: Glynneath
 url: /glynneath/
-latitude: 
-longitude: 
+latitude: 51.747
+longitude: -3.62
 ---

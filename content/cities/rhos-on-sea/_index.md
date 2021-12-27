@@ -1,6 +1,6 @@
 ---
 title: Rhos-On-Sea
 url: /rhos-on-sea/
-latitude: 
-longitude: 
+latitude: 53.308
+longitude: -3.756
 ---

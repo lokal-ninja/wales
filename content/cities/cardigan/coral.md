@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /cardigan/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

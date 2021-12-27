@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /carmarthen/greggs/
-shop: bakery
+shop: Bäckerei
 ---

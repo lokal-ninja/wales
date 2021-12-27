@@ -1,6 +1,6 @@
 ---
 title: Llandeilo
 url: /llandeilo/
-latitude: 51.885393500000006
-longitude: -3.9925144
+latitude: 51.884
+longitude: -3.992
 ---

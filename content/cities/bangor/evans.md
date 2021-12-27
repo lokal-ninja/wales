@@ -1,5 +1,5 @@
 ---
 title: "Evans"
 url: /bangor/evans/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Parsons"
 url: /usk/parsons/
-shop: bakery
+shop: Bäckerei
 ---

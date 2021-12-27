@@ -1,6 +1,6 @@
 ---
 title: Welshpool
 url: /welshpool/
-latitude: 52.660074200000004
-longitude: -3.1474212
+latitude: 52.662
+longitude: -3.143
 ---

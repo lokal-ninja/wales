@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /barry/asda/
-shop: supermarket
+shop: Supermarkt
 ---

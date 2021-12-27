@@ -1,5 +1,5 @@
 ---
 title: "Fringes"
 url: /caerphilly/fringes/
-shop: hairdresser
+shop: Friseur
 ---

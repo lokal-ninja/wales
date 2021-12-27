@@ -1,5 +1,5 @@
 ---
 title: "The Giftorium"
 url: /cenarth/the-giftorium/
-shop: gift
+shop: Andenken
 ---

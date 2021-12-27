@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /abergavenny/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

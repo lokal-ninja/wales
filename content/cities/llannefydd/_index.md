@@ -1,6 +1,6 @@
 ---
 title: Llannefydd
 url: /llannefydd/
-latitude: 53.2233011
-longitude: -3.5260269
+latitude: 53.223
+longitude: -3.502
 ---

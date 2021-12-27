@@ -1,6 +1,6 @@
 ---
 title: Conwy, North Wales
 url: /conwy-north-wales/
-latitude: 
-longitude: 
+latitude: 53.269
+longitude: -3.834
 ---

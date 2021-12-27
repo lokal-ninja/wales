@@ -1,6 +1,6 @@
 ---
 title: Wrexham
 url: /wrexham/
-latitude: 53.0465084
-longitude: -2.9937869000000004
+latitude: 53.05
+longitude: -3.003
 ---

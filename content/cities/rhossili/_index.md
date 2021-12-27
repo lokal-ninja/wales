@@ -1,6 +1,6 @@
 ---
 title: Rhossili
 url: /rhossili/
-latitude: 51.5690371
-longitude: -4.2861113
+latitude: 51.57
+longitude: -4.288
 ---

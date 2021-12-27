@@ -1,5 +1,5 @@
 ---
 title: "eVapor"
 url: /newport/evapor/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

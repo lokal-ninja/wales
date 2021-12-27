@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /caerphilly/peacocks/
-shop: clothes
+shop: Kleidung
 ---

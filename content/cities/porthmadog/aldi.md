@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /porthmadog/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

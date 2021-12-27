@@ -1,6 +1,6 @@
 ---
 title: Gilfach
 url: /gilfach/
-latitude: 51.6792603
-longitude: -3.2275163
+latitude: 51.679
+longitude: -3.227
 ---

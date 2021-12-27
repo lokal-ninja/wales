@@ -1,5 +1,5 @@
 ---
 title: "ColourField Catherine Lewis"
 url: /cardiff/colourfield-catherine-lewis/
-shop: craft
+shop: Basteln
 ---

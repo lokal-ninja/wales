@@ -1,6 +1,6 @@
 ---
 title: St Dogmaels
 url: /st-dogmaels/
-latitude: 52.081871500000005
-longitude: -4.6803483
+latitude: 52.082
+longitude: -4.682
 ---

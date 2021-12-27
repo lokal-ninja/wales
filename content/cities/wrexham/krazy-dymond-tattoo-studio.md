@@ -1,5 +1,5 @@
 ---
 title: "Krazy Dymond Tattoo Studio"
 url: /wrexham/krazy-dymond-tattoo-studio/
-shop: tattoo
+shop: Tattoo
 ---

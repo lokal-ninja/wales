@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /cardigan-aberteifi/jewson/
-shop: doityourself
+shop: Baumarkt
 ---

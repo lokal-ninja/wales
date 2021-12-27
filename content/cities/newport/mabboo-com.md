@@ -1,5 +1,5 @@
 ---
 title: "mabboo.com"
 url: /newport/mabboo-com/
-shop: shop
+shop: Allgemein
 ---

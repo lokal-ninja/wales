@@ -1,6 +1,6 @@
 ---
 title: Llandow
 url: /llandow/
-latitude: 51.449005
-longitude: -3.5222606
+latitude: 51.439
+longitude: -3.495
 ---

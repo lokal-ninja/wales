@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /bangor/whsmith/
-shop: books
+shop: Bücher
 ---

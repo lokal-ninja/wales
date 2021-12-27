@@ -1,5 +1,5 @@
 ---
 title: "Kashat"
 url: /cardiff/kashat/
-shop: houseware
+shop: Haushaltsartikel
 ---

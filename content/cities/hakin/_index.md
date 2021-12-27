@@ -1,6 +1,6 @@
 ---
 title: Hakin
 url: /hakin/
-latitude: 51.710146900000005
-longitude: -5.0451883
+latitude: 51.714
+longitude: -5.059
 ---

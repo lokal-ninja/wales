@@ -1,6 +1,6 @@
 ---
 title: Porthmadog
 url: /porthmadog/
-latitude: 52.925268200000005
-longitude: -4.1301929
+latitude: 52.925
+longitude: -4.129
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Newman"
 url: /porthmadog/newman/
-shop: bakery
+shop: Bäckerei
 ---

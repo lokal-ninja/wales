@@ -1,5 +1,5 @@
 ---
 title: "Beanfreaks"
 url: /cardiff/beanfreaks-2/
-shop: health food
+shop: Bioladen
 ---

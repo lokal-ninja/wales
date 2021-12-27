@@ -1,6 +1,6 @@
 ---
 title: Llay
 url: /llay/
-latitude: 53.0970796
-longitude: -2.9994725
+latitude: 53.095
+longitude: -2.997
 ---

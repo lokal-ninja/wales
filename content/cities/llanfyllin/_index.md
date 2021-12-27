@@ -1,6 +1,6 @@
 ---
 title: Llanfyllin
 url: /llanfyllin/
-latitude: 52.7669146
-longitude: -3.2717467
+latitude: 52.767
+longitude: -3.275
 ---

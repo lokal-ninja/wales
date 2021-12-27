@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /pontardawe/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lextan"
 url: /barry/lextan/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Grape Vine"
 url: /barry/the-grape-vine/
-shop: alcohol
+shop: Spirituosen
 ---

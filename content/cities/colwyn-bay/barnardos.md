@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /colwyn-bay/barnardos/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tropigaz"
 url: /cardiff/tropigaz/
-shop: shop
+shop: Allgemein
 ---

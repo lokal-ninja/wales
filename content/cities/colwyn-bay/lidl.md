@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /colwyn-bay/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

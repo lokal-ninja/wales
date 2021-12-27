@@ -1,5 +1,5 @@
 ---
 title: "Genius"
 url: /porthmadog/genius/
-shop: shop
+shop: Allgemein
 ---

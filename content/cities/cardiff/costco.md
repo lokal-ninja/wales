@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /cardiff/costco/
-shop: wholesale
+shop: Großhandel
 ---

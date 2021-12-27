@@ -1,6 +1,6 @@
 ---
 title: Bridgend
 url: /bridgend/
-latitude: 51.504984300000004
-longitude: -3.5756674000000004
+latitude: 51.508
+longitude: -3.579
 ---

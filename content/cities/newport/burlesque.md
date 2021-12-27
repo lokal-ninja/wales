@@ -1,5 +1,5 @@
 ---
 title: "Burlesque"
 url: /newport/burlesque/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /newport/warren-james/
-shop: jewelry
+shop: Schmuck
 ---

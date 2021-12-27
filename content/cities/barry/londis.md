@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /barry/londis/
-shop: convenience
+shop: Lebensmittel
 ---

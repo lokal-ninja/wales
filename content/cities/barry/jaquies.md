@@ -1,5 +1,5 @@
 ---
 title: "Jaquies"
 url: /barry/jaquies/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

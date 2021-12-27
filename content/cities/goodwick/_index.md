@@ -1,6 +1,6 @@
 ---
 title: Goodwick
 url: /goodwick/
-latitude: 
-longitude: 
+latitude: 52.003
+longitude: -4.993
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /bethesda/londis/
-shop: convenience
+shop: Lebensmittel
 ---

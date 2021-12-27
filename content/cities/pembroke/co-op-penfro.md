@@ -1,5 +1,5 @@
 ---
 title: "Co-Op Penfro"
 url: /pembroke/co-op-penfro/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Seabreezes"
 url: /barry/seabreezes/
-shop: laundry
+shop: Wäscherei
 ---

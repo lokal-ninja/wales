@@ -1,6 +1,6 @@
 ---
 title: Hugmore
 url: /hugmore/
-latitude: 
-longitude: 
+latitude: 53.061
+longitude: -2.933
 ---

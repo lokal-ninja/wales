@@ -1,5 +1,5 @@
 ---
 title: "We Cycle"
 url: /llandudno-junction/we-cycle/
-shop: bicycle
+shop: Fahrrad
 ---

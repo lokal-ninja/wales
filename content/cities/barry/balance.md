@@ -1,5 +1,5 @@
 ---
 title: "Balance"
 url: /barry/balance/
-shop: beauty
+shop: Kosmetik
 ---

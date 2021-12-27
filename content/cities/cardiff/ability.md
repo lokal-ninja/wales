@@ -1,5 +1,5 @@
 ---
 title: "Ability"
 url: /cardiff/ability/
-shop: shop
+shop: Allgemein
 ---

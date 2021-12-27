@@ -1,6 +1,6 @@
 ---
 title: Godrergraig
 url: /godrergraig/
-latitude: 
-longitude: 
+latitude: 51.761
+longitude: -3.79
 ---

@@ -1,5 +1,5 @@
 ---
 title: "sense"
 url: /barry/sense/
-shop: charity
+shop: Gebrauchtwaren
 ---

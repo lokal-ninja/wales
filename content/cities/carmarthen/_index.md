@@ -1,6 +1,6 @@
 ---
 title: Carmarthen
 url: /carmarthen/
-latitude: 51.8591257
-longitude: -4.3115907
+latitude: 51.822
+longitude: -4.149
 ---

@@ -1,6 +1,6 @@
 ---
 title: Llanrhystud
 url: /llanrhystud/
-latitude: 52.3056381
-longitude: -4.145037100000001
+latitude: 52.293
+longitude: -4.13
 ---

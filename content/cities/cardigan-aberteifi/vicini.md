@@ -1,5 +1,5 @@
 ---
 title: "Vicini"
 url: /cardigan-aberteifi/vicini/
-shop: clothes
+shop: Kleidung
 ---

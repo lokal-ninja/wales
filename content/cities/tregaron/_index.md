@@ -1,6 +1,6 @@
 ---
 title: Tregaron
 url: /tregaron/
-latitude: 52.2200293
-longitude: -3.9342811
+latitude: 52.222
+longitude: -3.936
 ---

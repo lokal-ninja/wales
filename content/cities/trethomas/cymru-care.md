@@ -1,5 +1,5 @@
 ---
 title: "Cymru Care"
 url: /trethomas/cymru-care/
-shop: charity
+shop: Gebrauchtwaren
 ---

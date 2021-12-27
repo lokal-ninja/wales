@@ -1,6 +1,6 @@
 ---
 title: Tonteg
 url: /tonteg/
-latitude: 
-longitude: 
+latitude: 51.57
+longitude: -3.311
 ---

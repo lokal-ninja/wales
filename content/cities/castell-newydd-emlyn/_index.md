@@ -1,6 +1,6 @@
 ---
 title: Castell Newydd Emlyn
 url: /castell-newydd-emlyn/
-latitude: 
-longitude: 
+latitude: 52.039
+longitude: -4.468
 ---

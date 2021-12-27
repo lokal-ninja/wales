@@ -1,6 +1,6 @@
 ---
 title: Pontprennau
 url: /pontprennau/
-latitude: 
-longitude: 
+latitude: 51.536
+longitude: -3.13
 ---

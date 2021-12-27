@@ -1,6 +1,6 @@
 ---
 title: Holyhead
 url: /holyhead/
-latitude: 53.310671500000005
-longitude: -4.6330966
+latitude: 53.303
+longitude: -4.629
 ---

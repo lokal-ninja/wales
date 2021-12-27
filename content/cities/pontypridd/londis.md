@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /pontypridd/londis/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /penybanc/spar/
-shop: convenience
+shop: Lebensmittel
 ---

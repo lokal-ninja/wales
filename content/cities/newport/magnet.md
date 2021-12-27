@@ -1,5 +1,5 @@
 ---
 title: "Magnet"
 url: /newport/magnet/
-shop: kitchen
+shop: Küchen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Morganstown
 url: /morganstown/
-latitude: 51.526555
-longitude: -3.2632664
+latitude: 51.53
+longitude: -3.258
 ---

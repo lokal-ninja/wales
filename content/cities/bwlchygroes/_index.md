@@ -1,6 +1,6 @@
 ---
 title: Bwlchygroes
 url: /bwlchygroes/
-latitude: 
-longitude: 
+latitude: 51.995
+longitude: -4.565
 ---

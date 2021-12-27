@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /cwmbran/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

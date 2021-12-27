@@ -1,5 +1,5 @@
 ---
 title: "Anthony"
 url: /swansea/anthony/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wellfield Bookshop"
 url: /cardiff/wellfield-bookshop/
-shop: books
+shop: Bücher
 ---

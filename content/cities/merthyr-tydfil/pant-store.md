@@ -1,5 +1,5 @@
 ---
 title: "Pant Store"
 url: /merthyr-tydfil/pant-store/
-shop: convenience
+shop: Lebensmittel
 ---

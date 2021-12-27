@@ -1,6 +1,6 @@
 ---
 title: Penarth
 url: /penarth/
-latitude: 51.435968
-longitude: -3.1733023
+latitude: 51.436
+longitude: -3.175
 ---

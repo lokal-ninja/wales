@@ -1,6 +1,6 @@
 ---
 title: Churchstoke
 url: /churchstoke/
-latitude: 52.5406077
-longitude: -3.0730301
+latitude: 52.537
+longitude: -3.064
 ---

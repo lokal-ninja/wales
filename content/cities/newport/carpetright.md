@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /newport/carpetright/
-shop: carpet
+shop: Teppiche
 ---

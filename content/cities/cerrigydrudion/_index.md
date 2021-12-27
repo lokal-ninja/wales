@@ -1,6 +1,6 @@
 ---
 title: Cerrigydrudion
 url: /cerrigydrudion/
-latitude: 53.025233500000006
-longitude: -3.5603628
+latitude: 53.024
+longitude: -3.561
 ---

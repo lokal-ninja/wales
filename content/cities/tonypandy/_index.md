@@ -1,6 +1,6 @@
 ---
 title: Tonypandy
 url: /tonypandy/
-latitude: 51.6246695
-longitude: -3.4595279000000003
+latitude: 51.631
+longitude: -3.454
 ---

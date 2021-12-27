@@ -1,6 +1,6 @@
 ---
 title: Haverfordwest
 url: /haverfordwest/
-latitude: 
-longitude: 
+latitude: 51.807
+longitude: -4.965
 ---

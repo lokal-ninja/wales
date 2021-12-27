@@ -1,6 +1,6 @@
 ---
 title: Newtown
 url: /newtown/
-latitude: 51.7829648
-longitude: -3.2028575000000004
+latitude: 52.51
+longitude: -3.32
 ---

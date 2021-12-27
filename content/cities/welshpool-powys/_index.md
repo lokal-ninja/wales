@@ -1,6 +1,6 @@
 ---
 title: Welshpool Powys
 url: /welshpool-powys/
-latitude: 
-longitude: 
+latitude: 52.66
+longitude: -3.146
 ---

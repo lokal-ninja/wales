@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /barry/wilko/
-shop: variety store
+shop: Kramladen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Penybanc
 url: /penybanc/
-latitude: 51.7876495
-longitude: -4.0057225
+latitude: 51.787
+longitude: -4.007
 ---

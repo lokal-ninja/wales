@@ -1,5 +1,5 @@
 ---
 title: "The Card Shop"
 url: /bettws/the-card-shop/
-shop: office supplies
+shop: Schreibwaren
 ---

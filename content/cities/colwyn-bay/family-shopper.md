@@ -1,5 +1,5 @@
 ---
 title: "Family Shopper"
 url: /colwyn-bay/family-shopper/
-shop: convenience
+shop: Lebensmittel
 ---

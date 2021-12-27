@@ -1,6 +1,6 @@
 ---
 title: Pwllheli
 url: /pwllheli/
-latitude: 52.888474900000006
-longitude: -4.4179146000000005
+latitude: 52.89
+longitude: -4.403
 ---

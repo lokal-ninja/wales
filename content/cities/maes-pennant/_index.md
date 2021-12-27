@@ -1,6 +1,6 @@
 ---
 title: Maes Pennant
 url: /maes-pennant/
-latitude: 
-longitude: 
+latitude: 53.307
+longitude: -3.258
 ---

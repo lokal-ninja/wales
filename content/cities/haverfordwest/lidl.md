@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /haverfordwest/lidl/
-shop: supermarket
+shop: Supermarkt
 ---

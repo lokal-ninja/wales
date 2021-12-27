@@ -1,5 +1,5 @@
 ---
 title: "Uni Market"
 url: /cardiff/uni-market/
-shop: supermarket
+shop: Supermarkt
 ---

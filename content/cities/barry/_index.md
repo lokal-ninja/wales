@@ -1,6 +1,6 @@
 ---
 title: barry
 url: /barry/
-latitude: 
-longitude: 
+latitude: 51.398
+longitude: -3.293
 ---

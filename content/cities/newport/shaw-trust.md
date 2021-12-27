@@ -1,5 +1,5 @@
 ---
 title: "Shaw Trust"
 url: /newport/shaw-trust/
-shop: charity
+shop: Gebrauchtwaren
 ---

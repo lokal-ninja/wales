@@ -1,5 +1,5 @@
 ---
 title: "Glanmor's"
 url: /trethomas/glanmors/
-shop: bakery
+shop: Bäckerei
 ---

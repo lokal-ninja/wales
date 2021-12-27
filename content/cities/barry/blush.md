@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /barry/blush/
-shop: beauty
+shop: Kosmetik
 ---
