@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
 url: /cardiff/waitrose/
-shop: Lebensmittel
+shop: convenience
 ---

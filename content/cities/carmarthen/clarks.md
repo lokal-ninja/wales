@@ -1,5 +1,5 @@
 ---
 title: "Clarks"
 url: /carmarthen/clarks/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CNE Supplies"
 url: /castell-newydd-emlyn-newcastle-emlyn/cne-supplies/
-shop: Eisenwaren
+shop: hardware
 ---

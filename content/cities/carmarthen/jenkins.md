@@ -1,5 +1,5 @@
 ---
 title: "Jenkins"
 url: /carmarthen/jenkins/
-shop: Bäckerei
+shop: bakery
 ---

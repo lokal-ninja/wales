@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /abergele/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

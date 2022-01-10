@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /denbigh/sense/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keepsakes"
 url: /cardiff/keepsakes/
-shop: Allgemein
+shop: shop
 ---

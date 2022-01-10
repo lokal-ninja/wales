@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /llandudno/poundstretcher/
-shop: Kramladen
+shop: variety store
 ---

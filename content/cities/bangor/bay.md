@@ -1,5 +1,5 @@
 ---
 title: "Bay"
 url: /bangor/bay/
-shop: Allgemein
+shop: shop
 ---

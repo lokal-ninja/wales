@@ -1,5 +1,5 @@
 ---
 title: "Vere Street Mini Market"
 url: /barry/vere-street-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

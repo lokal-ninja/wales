@@ -1,5 +1,5 @@
 ---
 title: "Charlies Stores Coed y Dinas"
 url: /welshpool/charlies-stores-coed-y-dinas/
-shop: Garten-Center
+shop: garden centre
 ---

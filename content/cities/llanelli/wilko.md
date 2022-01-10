@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /llanelli/wilko/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /porthmadog/wilko/
-shop: Kramladen
+shop: variety store
 ---

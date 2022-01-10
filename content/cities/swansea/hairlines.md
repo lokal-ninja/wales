@@ -1,5 +1,5 @@
 ---
 title: "Hairlines"
 url: /swansea/hairlines/
-shop: Kosmetik
+shop: beauty
 ---

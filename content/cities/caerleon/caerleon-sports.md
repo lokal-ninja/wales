@@ -1,5 +1,5 @@
 ---
 title: "Caerleon Sports"
 url: /caerleon/caerleon-sports/
-shop: Sport
+shop: sports
 ---

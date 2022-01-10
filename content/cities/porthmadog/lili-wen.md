@@ -1,5 +1,5 @@
 ---
 title: "Lili Wen"
 url: /porthmadog/lili-wen/
-shop: Blumen
+shop: florist
 ---

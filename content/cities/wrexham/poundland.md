@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /wrexham/poundland/
-shop: Kramladen
+shop: variety store
 ---

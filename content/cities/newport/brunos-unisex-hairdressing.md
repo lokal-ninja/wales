@@ -1,5 +1,5 @@
 ---
 title: "Brunos Unisex Hairdressing"
 url: /newport/brunos-unisex-hairdressing/
-shop: Friseur
+shop: hairdresser
 ---

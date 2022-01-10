@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /rhyl/poundland/
-shop: Kramladen
+shop: variety store
 ---

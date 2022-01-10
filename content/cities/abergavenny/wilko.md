@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /abergavenny/wilko/
-shop: Kramladen
+shop: variety store
 ---

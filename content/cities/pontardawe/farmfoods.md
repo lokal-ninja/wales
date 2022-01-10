@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /pontardawe/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

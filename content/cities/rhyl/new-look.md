@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /rhyl/new-look/
-shop: Kleidung
+shop: clothes
 ---

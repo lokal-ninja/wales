@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /newport/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

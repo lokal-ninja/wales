@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /cardiff/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

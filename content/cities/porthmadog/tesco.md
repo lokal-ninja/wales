@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /porthmadog/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

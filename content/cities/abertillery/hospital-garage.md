@@ -1,5 +1,5 @@
 ---
 title: "Hospital Garage"
 url: /abertillery/hospital-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

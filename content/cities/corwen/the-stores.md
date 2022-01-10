@@ -1,5 +1,5 @@
 ---
 title: "The Stores"
 url: /corwen/the-stores/
-shop: Lebensmittel
+shop: convenience
 ---

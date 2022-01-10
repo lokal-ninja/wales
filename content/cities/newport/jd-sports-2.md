@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /newport/jd-sports-2/
-shop: Sport
+shop: sports
 ---

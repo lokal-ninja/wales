@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /bangor/superdrug/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "BedWorld"
 url: /cardiff/bedworld/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outfit"
 url: /newport/outfit/
-shop: Kleidung
+shop: clothes
 ---

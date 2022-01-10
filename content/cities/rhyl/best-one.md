@@ -1,5 +1,5 @@
 ---
 title: "Best-One"
 url: /rhyl/best-one/
-shop: Lebensmittel
+shop: convenience
 ---

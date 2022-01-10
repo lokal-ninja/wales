@@ -1,5 +1,5 @@
 ---
 title: "Autotech BMW"
 url: /caerleon/autotech-bmw/
-shop: Autoteile
+shop: car parts
 ---

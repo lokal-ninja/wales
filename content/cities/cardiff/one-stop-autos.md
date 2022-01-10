@@ -1,5 +1,5 @@
 ---
 title: "One Stop Autos"
 url: /cardiff/one-stop-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

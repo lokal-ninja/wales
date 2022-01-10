@@ -1,5 +1,5 @@
 ---
 title: "EWM"
 url: /ebbw-vale/ewm/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cardiff Cycle Workshop"
 url: /cardiff/cardiff-cycle-workshop/
-shop: Fahrrad
+shop: bicycle
 ---

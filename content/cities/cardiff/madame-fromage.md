@@ -1,5 +1,5 @@
 ---
 title: "Madame Fromage"
 url: /cardiff/madame-fromage/
-shop: Lebensmittel
+shop: convenience
 ---

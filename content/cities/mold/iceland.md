@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /mold/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

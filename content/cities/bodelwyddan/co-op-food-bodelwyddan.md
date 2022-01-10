@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food - Bodelwyddan"
 url: /bodelwyddan/co-op-food-bodelwyddan/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NP Mini Market"
 url: /newport/np-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /colwyn-bay/whsmith/
-shop: Zeitungen
+shop: newsagent
 ---

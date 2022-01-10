@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /barry/jewson/
-shop: Baumarkt
+shop: doityourself
 ---

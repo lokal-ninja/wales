@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /bangor/select/
-shop: Kleidung
+shop: clothes
 ---

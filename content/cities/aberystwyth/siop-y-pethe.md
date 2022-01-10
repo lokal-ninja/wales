@@ -1,5 +1,5 @@
 ---
 title: "Siop Y Pethe"
 url: /aberystwyth/siop-y-pethe/
-shop: Andenken
+shop: gift
 ---

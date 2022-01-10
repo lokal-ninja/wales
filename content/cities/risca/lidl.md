@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /risca/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

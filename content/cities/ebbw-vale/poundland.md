@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /ebbw-vale/poundland/
-shop: Kramladen
+shop: variety store
 ---

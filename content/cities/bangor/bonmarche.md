@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /bangor/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

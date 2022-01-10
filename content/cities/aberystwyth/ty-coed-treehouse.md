@@ -1,5 +1,5 @@
 ---
 title: "Tŷ Coed / Treehouse"
 url: /aberystwyth/ty-coed-treehouse/
-shop: Supermarkt
+shop: supermarket
 ---

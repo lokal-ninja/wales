@@ -1,5 +1,5 @@
 ---
 title: "X Games Experience"
 url: /caerphilly/x-games-experience/
-shop: Videospiele
+shop: video games
 ---

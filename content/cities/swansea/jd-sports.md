@@ -1,5 +1,5 @@
 ---
 title: "JD Sports"
 url: /swansea/jd-sports/
-shop: Sport
+shop: sports
 ---

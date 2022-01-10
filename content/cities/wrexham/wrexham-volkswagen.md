@@ -1,5 +1,5 @@
 ---
 title: "Wrexham Volkswagen"
 url: /wrexham/wrexham-volkswagen/
-shop: Autohaus
+shop: car
 ---

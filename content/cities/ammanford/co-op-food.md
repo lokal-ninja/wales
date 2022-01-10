@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /ammanford/co-op-food/
-shop: Supermarkt
+shop: convenience
 ---

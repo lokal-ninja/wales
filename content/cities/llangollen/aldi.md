@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /llangollen/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

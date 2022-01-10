@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /maesteg/poundland/
-shop: Kramladen
+shop: variety store
 ---

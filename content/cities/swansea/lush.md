@@ -1,5 +1,5 @@
 ---
 title: "Lush"
 url: /swansea/lush/
-shop: Kosmetik
+shop: beauty
 ---

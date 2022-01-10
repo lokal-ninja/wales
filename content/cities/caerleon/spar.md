@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /caerleon/spar/
-shop: Lebensmittel
+shop: convenience
 ---

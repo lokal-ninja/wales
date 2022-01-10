@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /ebbw-vale/sports-direct/
-shop: Sport
+shop: sports
 ---

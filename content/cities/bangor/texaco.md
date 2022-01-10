@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /bangor/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

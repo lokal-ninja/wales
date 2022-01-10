@@ -1,5 +1,5 @@
 ---
 title: "Tuffins"
 url: /welshpool/tuffins/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpetright"
 url: /bangor/carpetright/
-shop: Teppiche
+shop: carpet
 ---

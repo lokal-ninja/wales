@@ -1,5 +1,5 @@
 ---
 title: "Green Refill Shop"
 url: /merthyr-tydfil/green-refill-shop/
-shop: Bioladen
+shop: health food
 ---

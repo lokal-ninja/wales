@@ -1,5 +1,5 @@
 ---
 title: "Fixit Power Tools"
 url: /colwyn-bay/fixit-power-tools/
-shop: Allgemein
+shop: shop
 ---

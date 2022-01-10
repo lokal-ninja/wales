@@ -1,5 +1,5 @@
 ---
 title: "ATS Wrexham"
 url: /wrexham/ats-wrexham/
-shop: Autowerkstatt
+shop: car repair
 ---

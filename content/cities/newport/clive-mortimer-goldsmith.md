@@ -1,5 +1,5 @@
 ---
 title: "Clive Mortimer Goldsmith"
 url: /newport/clive-mortimer-goldsmith/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /pembroke-dock/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

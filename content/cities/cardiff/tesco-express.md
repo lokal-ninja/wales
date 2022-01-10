@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /cardiff/tesco-express/
-shop: Supermarkt
+shop: convenience
 ---

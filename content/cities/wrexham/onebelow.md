@@ -1,5 +1,5 @@
 ---
 title: "OneBelow"
 url: /wrexham/onebelow/
-shop: Kramladen
+shop: variety store
 ---

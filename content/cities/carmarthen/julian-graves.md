@@ -1,5 +1,5 @@
 ---
 title: "Julian Graves"
 url: /carmarthen/julian-graves/
-shop: Supermarkt
+shop: supermarket
 ---

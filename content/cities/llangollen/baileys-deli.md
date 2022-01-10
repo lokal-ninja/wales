@@ -1,5 +1,5 @@
 ---
 title: "Bailey's Deli"
 url: /llangollen/baileys-deli/
-shop: Feinkost
+shop: deli
 ---

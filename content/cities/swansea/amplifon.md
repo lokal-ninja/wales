@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /swansea/amplifon/
-shop: Hörgeräte
+shop: hearing aids
 ---

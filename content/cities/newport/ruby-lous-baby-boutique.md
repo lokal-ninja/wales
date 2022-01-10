@@ -1,5 +1,5 @@
 ---
 title: "Ruby Lou's Baby Boutique"
 url: /newport/ruby-lous-baby-boutique/
-shop: Babysachen
+shop: baby goods
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leisuretime"
 url: /newport/leisuretime/
-shop: Reisebüro
+shop: travel agency
 ---

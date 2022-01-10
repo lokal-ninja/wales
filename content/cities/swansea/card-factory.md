@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /swansea/card-factory/
-shop: Andenken
+shop: gift
 ---

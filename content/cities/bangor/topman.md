@@ -1,5 +1,5 @@
 ---
 title: "Topman"
 url: /bangor/topman/
-shop: Kleidung
+shop: clothes
 ---

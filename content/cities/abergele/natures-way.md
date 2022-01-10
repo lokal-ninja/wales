@@ -1,5 +1,5 @@
 ---
 title: "Natures Way"
 url: /abergele/natures-way/
-shop: Kiosk
+shop: kiosk
 ---

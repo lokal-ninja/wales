@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /newport/iceland-3/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Welsh Rugby Union Ltd."
 url: /cardiff/welsh-rugby-union-ltd/
-shop: Sport
+shop: sports
 ---

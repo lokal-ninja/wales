@@ -1,5 +1,5 @@
 ---
 title: "Pure Vision"
 url: /bedwas/pure-vision/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coffiology"
 url: /caerleon/coffiology/
-shop: Kaffee
+shop: coffee
 ---

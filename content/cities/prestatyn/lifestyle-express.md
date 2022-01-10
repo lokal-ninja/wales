@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /prestatyn/lifestyle-express/
-shop: Lebensmittel
+shop: convenience
 ---

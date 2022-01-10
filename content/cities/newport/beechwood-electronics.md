@@ -1,5 +1,5 @@
 ---
 title: "Beechwood Electronics"
 url: /newport/beechwood-electronics/
-shop: Elektronik
+shop: electronics
 ---

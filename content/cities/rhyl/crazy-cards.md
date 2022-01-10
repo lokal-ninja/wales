@@ -1,5 +1,5 @@
 ---
 title: "Crazy Cards"
 url: /rhyl/crazy-cards/
-shop: Allgemein
+shop: shop
 ---

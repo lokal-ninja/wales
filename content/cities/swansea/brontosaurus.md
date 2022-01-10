@@ -1,5 +1,5 @@
 ---
 title: "Brontosaurus"
 url: /swansea/brontosaurus/
-shop: Bioladen
+shop: health food
 ---

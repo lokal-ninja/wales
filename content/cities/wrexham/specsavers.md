@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /wrexham/specsavers/
-shop: Optiker
+shop: optician
 ---

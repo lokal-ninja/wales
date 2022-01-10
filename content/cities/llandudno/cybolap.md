@@ -1,5 +1,5 @@
 ---
 title: "Cybolap"
 url: /llandudno/cybolap/
-shop: Computer
+shop: computer
 ---

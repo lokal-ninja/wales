@@ -1,5 +1,5 @@
 ---
 title: "Accessorize"
 url: /bangor/accessorize/
-shop: Allgemein
+shop: shop
 ---

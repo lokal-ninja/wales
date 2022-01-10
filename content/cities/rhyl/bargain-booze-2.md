@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /rhyl/bargain-booze-2/
-shop: Spirituosen
+shop: alcohol
 ---

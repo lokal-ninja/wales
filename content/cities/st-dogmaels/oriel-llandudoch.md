@@ -1,5 +1,5 @@
 ---
 title: "Oriel Llandudoch"
 url: /st-dogmaels/oriel-llandudoch/
-shop: Kunst
+shop: art
 ---

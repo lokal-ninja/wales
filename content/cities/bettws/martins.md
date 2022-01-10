@@ -1,5 +1,5 @@
 ---
 title: "Martin's"
 url: /bettws/martins/
-shop: Zeitungen
+shop: newsagent
 ---

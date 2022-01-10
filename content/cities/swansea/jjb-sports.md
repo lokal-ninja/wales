@@ -1,5 +1,5 @@
 ---
 title: "JJB Sports"
 url: /swansea/jjb-sports/
-shop: Sport
+shop: sports
 ---

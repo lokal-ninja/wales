@@ -1,5 +1,5 @@
 ---
 title: "Butterflies"
 url: /barry/butterflies/
-shop: Andenken
+shop: gift
 ---

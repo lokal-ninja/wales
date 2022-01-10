@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bangor/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

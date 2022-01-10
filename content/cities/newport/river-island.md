@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /newport/river-island/
-shop: Kleidung
+shop: clothes
 ---

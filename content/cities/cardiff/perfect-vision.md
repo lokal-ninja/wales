@@ -1,5 +1,5 @@
 ---
 title: "Perfect Vision"
 url: /cardiff/perfect-vision/
-shop: Optiker
+shop: optician
 ---

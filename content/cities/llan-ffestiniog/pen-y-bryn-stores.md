@@ -1,5 +1,5 @@
 ---
 title: "Pen-y-Bryn Stores"
 url: /llan-ffestiniog/pen-y-bryn-stores/
-shop: Lebensmittel
+shop: convenience
 ---

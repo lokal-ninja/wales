@@ -1,5 +1,5 @@
 ---
 title: "Laporsa"
 url: /newport/laporsa/
-shop: Fliesen
+shop: tiles
 ---

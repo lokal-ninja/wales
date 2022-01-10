@@ -1,5 +1,5 @@
 ---
 title: "Paperway"
 url: /bangor/paperway/
-shop: Allgemein
+shop: shop
 ---

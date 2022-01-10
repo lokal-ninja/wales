@@ -1,5 +1,5 @@
 ---
 title: "Celtic Classics Garage"
 url: /llanllwni/celtic-classics-garage/
-shop: Autohaus
+shop: car
 ---

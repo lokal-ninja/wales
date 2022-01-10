@@ -1,5 +1,5 @@
 ---
 title: "Ceir Clwydian"
 url: /denbigh/ceir-clwydian/
-shop: Autohaus
+shop: car
 ---

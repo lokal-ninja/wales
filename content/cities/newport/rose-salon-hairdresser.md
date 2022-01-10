@@ -1,5 +1,5 @@
 ---
 title: "Rose Salon Hairdresser"
 url: /newport/rose-salon-hairdresser/
-shop: Friseur
+shop: hairdresser
 ---

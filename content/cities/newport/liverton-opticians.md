@@ -1,5 +1,5 @@
 ---
 title: "Liverton Opticians"
 url: /newport/liverton-opticians/
-shop: Optiker
+shop: optician
 ---

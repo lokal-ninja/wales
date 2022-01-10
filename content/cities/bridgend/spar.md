@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /bridgend/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Entertainer"
 url: /wrexham/the-entertainer/
-shop: Spielzeug
+shop: toys
 ---

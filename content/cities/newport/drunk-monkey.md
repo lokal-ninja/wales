@@ -1,5 +1,5 @@
 ---
 title: "Drunk Monkey"
 url: /newport/drunk-monkey/
-shop: Tattoo
+shop: tattoo
 ---

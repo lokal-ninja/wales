@@ -1,5 +1,5 @@
 ---
 title: "Clare's"
 url: /llandudno/clares/
-shop: Warenhaus
+shop: department store
 ---

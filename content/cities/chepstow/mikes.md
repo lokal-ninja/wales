@@ -1,5 +1,5 @@
 ---
 title: "Mike's"
 url: /chepstow/mikes/
-shop: Süßwaren
+shop: confectionery
 ---

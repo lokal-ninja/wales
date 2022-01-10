@@ -1,5 +1,5 @@
 ---
 title: "Heart of the Home"
 url: /newport/heart-of-the-home/
-shop: Haushaltsartikel
+shop: houseware
 ---

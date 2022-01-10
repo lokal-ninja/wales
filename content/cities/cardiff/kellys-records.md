@@ -1,5 +1,5 @@
 ---
 title: "Kellys Records"
 url: /cardiff/kellys-records/
-shop: Musik
+shop: music
 ---

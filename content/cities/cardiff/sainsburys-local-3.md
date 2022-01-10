@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's Local"
 url: /cardiff/sainsburys-local-3/
-shop: Lebensmittel
+shop: convenience
 ---

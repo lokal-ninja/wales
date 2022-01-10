@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /penmaenmawr/spar/
-shop: Supermarkt
+shop: supermarket
 ---

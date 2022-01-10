@@ -1,5 +1,5 @@
 ---
 title: "Budgens"
 url: /monmouth/budgens/
-shop: Supermarkt
+shop: supermarket
 ---

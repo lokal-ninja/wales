@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /malpas/premier/
-shop: Lebensmittel
+shop: convenience
 ---

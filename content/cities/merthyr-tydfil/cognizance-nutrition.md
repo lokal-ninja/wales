@@ -1,5 +1,5 @@
 ---
 title: "Cognizance Nutrition"
 url: /merthyr-tydfil/cognizance-nutrition/
-shop: Allgemein
+shop: nutrition supplements
 ---

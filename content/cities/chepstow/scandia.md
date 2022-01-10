@@ -1,5 +1,5 @@
 ---
 title: "Scandia"
 url: /chepstow/scandia/
-shop: Schuhe
+shop: shoes
 ---

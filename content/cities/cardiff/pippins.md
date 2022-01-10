@@ -1,5 +1,5 @@
 ---
 title: "Pippins"
 url: /cardiff/pippins/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

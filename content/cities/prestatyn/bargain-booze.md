@@ -1,5 +1,5 @@
 ---
 title: "Bargain Booze"
 url: /prestatyn/bargain-booze/
-shop: Spirituosen
+shop: alcohol
 ---

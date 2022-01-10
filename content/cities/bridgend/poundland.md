@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bridgend/poundland/
-shop: Kramladen
+shop: variety store
 ---

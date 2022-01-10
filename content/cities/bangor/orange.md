@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /bangor/orange/
-shop: Handy
+shop: mobile phone
 ---

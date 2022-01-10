@@ -1,5 +1,5 @@
 ---
 title: "STOCK IT Ltd"
 url: /newport/stock-it-ltd/
-shop: Computer
+shop: computer
 ---

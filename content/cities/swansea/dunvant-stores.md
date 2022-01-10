@@ -1,5 +1,5 @@
 ---
 title: "Dunvant Stores"
 url: /swansea/dunvant-stores/
-shop: Lebensmittel
+shop: convenience
 ---

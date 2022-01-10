@@ -1,5 +1,5 @@
 ---
 title: "Fresh and Fine Foods"
 url: /glynneath/fresh-and-fine-foods/
-shop: Supermarkt
+shop: supermarket
 ---

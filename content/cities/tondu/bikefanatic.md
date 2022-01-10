@@ -1,5 +1,5 @@
 ---
 title: "Bikefanatic"
 url: /tondu/bikefanatic/
-shop: Fahrrad
+shop: bicycle
 ---

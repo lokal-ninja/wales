@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /colwyn-bay/peacocks/
-shop: Kleidung
+shop: clothes
 ---

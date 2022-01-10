@@ -1,5 +1,5 @@
 ---
 title: "Chapz Barbershop"
 url: /newport/chapz-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

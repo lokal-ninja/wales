@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /wrexham/spar/
-shop: Lebensmittel
+shop: convenience
 ---

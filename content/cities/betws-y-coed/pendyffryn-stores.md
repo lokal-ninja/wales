@@ -1,5 +1,5 @@
 ---
 title: "Pendyffryn Stores"
 url: /betws-y-coed/pendyffryn-stores/
-shop: Lebensmittel
+shop: convenience
 ---

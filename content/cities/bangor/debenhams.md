@@ -1,5 +1,5 @@
 ---
 title: "Debenhams"
 url: /bangor/debenhams/
-shop: Warenhaus
+shop: department store
 ---

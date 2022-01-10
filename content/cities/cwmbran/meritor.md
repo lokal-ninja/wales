@@ -1,5 +1,5 @@
 ---
 title: "Meritor"
 url: /cwmbran/meritor/
-shop: Autoteile
+shop: car parts
 ---

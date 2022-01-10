@@ -1,5 +1,5 @@
 ---
 title: "Anchor Motors"
 url: /bethesda/anchor-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

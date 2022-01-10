@@ -1,5 +1,5 @@
 ---
 title: "Dutton Yarns"
 url: /swansea/dutton-yarns/
-shop: Textil
+shop: fabric
 ---

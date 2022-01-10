@@ -1,5 +1,5 @@
 ---
 title: "Festival Park"
 url: /ebbw-vale/festival-park/
-shop: Einkaufszentrum
+shop: mall
 ---

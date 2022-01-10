@@ -1,5 +1,5 @@
 ---
 title: "Llanishen Garage"
 url: /cardiff/llanishen-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

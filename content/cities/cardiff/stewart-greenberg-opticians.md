@@ -1,5 +1,5 @@
 ---
 title: "Stewart Greenberg Opticians"
 url: /cardiff/stewart-greenberg-opticians/
-shop: Optiker
+shop: optician
 ---

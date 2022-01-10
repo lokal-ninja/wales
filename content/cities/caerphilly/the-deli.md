@@ -1,5 +1,5 @@
 ---
 title: "The Deli"
 url: /caerphilly/the-deli/
-shop: Feinkost
+shop: deli
 ---

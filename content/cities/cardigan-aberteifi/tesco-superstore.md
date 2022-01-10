@@ -1,5 +1,5 @@
 ---
 title: "Tesco Superstore"
 url: /cardigan-aberteifi/tesco-superstore/
-shop: Supermarkt
+shop: supermarket
 ---

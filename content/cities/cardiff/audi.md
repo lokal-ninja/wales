@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /cardiff/audi/
-shop: Autohaus
+shop: car
 ---

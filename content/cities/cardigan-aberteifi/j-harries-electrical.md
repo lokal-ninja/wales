@@ -1,5 +1,5 @@
 ---
 title: "J Harries Electrical"
 url: /cardigan-aberteifi/j-harries-electrical/
-shop: Elektrisch
+shop: electrical
 ---

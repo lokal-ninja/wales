@@ -1,5 +1,5 @@
 ---
 title: "Evolve"
 url: /barry/evolve/
-shop: Kosmetik
+shop: beauty
 ---

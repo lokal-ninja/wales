@@ -1,5 +1,5 @@
 ---
 title: "Westgate Travel Worldchoice"
 url: /talbot-green/westgate-travel-worldchoice/
-shop: Reisebüro
+shop: travel agency
 ---

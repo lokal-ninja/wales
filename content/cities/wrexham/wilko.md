@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /wrexham/wilko/
-shop: Kramladen
+shop: variety store
 ---

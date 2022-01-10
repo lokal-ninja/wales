@@ -1,5 +1,5 @@
 ---
 title: "Bagnalls"
 url: /barry/bagnalls/
-shop: Friseur
+shop: hairdresser
 ---

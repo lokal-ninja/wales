@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /newport/betfred-3/
-shop: Wettbüro
+shop: bookmaker
 ---

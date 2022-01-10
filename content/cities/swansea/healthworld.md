@@ -1,5 +1,5 @@
 ---
 title: "Healthworld"
 url: /swansea/healthworld/
-shop: Gesundheit
+shop: health
 ---

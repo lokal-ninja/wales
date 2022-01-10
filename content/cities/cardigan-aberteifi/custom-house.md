@@ -1,5 +1,5 @@
 ---
 title: "Custom House"
 url: /cardigan-aberteifi/custom-house/
-shop: Kunst
+shop: art
 ---

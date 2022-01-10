@@ -1,5 +1,5 @@
 ---
 title: "David Morgan"
 url: /trethomas/david-morgan/
-shop: Eisenwaren
+shop: hardware
 ---

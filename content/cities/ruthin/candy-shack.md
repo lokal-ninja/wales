@@ -1,5 +1,5 @@
 ---
 title: "Candy Shack"
 url: /ruthin/candy-shack/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beautiful U"
 url: /barry/beautiful-u/
-shop: Kosmetik
+shop: beauty
 ---

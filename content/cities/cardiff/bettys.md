@@ -1,5 +1,5 @@
 ---
 title: "Betty's"
 url: /cardiff/bettys/
-shop: Blumen
+shop: florist
 ---

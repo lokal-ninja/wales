@@ -1,5 +1,5 @@
 ---
 title: "Caprice"
 url: /bangor/caprice/
-shop: Möbel
+shop: furniture
 ---

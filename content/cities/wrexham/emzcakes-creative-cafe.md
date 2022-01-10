@@ -1,5 +1,5 @@
 ---
 title: "Emzcakes Creative Café"
 url: /wrexham/emzcakes-creative-cafe/
-shop: Bäckerei
+shop: bakery
 ---

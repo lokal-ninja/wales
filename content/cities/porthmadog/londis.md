@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /porthmadog/londis/
-shop: Lebensmittel
+shop: convenience
 ---

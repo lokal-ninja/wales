@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /cardiff/ramsdens/
-shop: Allgemein
+shop: shop
 ---

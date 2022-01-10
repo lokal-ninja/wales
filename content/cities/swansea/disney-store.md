@@ -1,5 +1,5 @@
 ---
 title: "Disney Store"
 url: /swansea/disney-store/
-shop: Andenken
+shop: gift
 ---

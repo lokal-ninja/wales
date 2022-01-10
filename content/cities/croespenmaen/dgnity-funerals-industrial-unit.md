@@ -1,5 +1,5 @@
 ---
 title: "Dgnity Funerals Industrial Unit"
 url: /croespenmaen/dgnity-funerals-industrial-unit/
-shop: Bestattungen
+shop: funeral directors
 ---

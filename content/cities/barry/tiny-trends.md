@@ -1,5 +1,5 @@
 ---
 title: "Tiny Trends"
 url: /barry/tiny-trends/
-shop: Babysachen
+shop: baby goods
 ---

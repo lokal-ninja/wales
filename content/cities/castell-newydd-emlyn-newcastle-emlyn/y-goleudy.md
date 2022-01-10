@@ -1,5 +1,5 @@
 ---
 title: "Y Goleudy"
 url: /castell-newydd-emlyn-newcastle-emlyn/y-goleudy/
-shop: Lampen
+shop: lamps
 ---

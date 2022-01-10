@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /machynlleth/spar/
-shop: Lebensmittel
+shop: convenience
 ---

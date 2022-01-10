@@ -1,5 +1,5 @@
 ---
 title: "Virgin Media"
 url: /swansea/virgin-media/
-shop: Handy
+shop: mobile phone
 ---

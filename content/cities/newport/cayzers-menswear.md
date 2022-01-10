@@ -1,5 +1,5 @@
 ---
 title: "Cayzer's Menswear"
 url: /newport/cayzers-menswear/
-shop: Kleidung
+shop: clothes
 ---

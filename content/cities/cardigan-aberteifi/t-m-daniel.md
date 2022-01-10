@@ -1,5 +1,5 @@
 ---
 title: "T.M. Daniel"
 url: /cardigan-aberteifi/t-m-daniel/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodsheds"
 url: /barry/goodsheds/
-shop: Einkaufszentrum
+shop: mall
 ---

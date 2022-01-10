@@ -1,5 +1,5 @@
 ---
 title: "CPW"
 url: /bangor/cpw/
-shop: Allgemein
+shop: shop
 ---

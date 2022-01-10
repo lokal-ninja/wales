@@ -1,5 +1,5 @@
 ---
 title: "Drift-in"
 url: /cardiff/drift-in/
-shop: Wäscherei
+shop: laundry
 ---

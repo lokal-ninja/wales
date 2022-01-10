@@ -1,5 +1,5 @@
 ---
 title: "CiCi"
 url: /cardigan-aberteifi/cici/
-shop: Kleidung
+shop: clothes
 ---

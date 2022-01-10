@@ -1,5 +1,5 @@
 ---
 title: "Mike's Shop"
 url: /cardigan-aberteifi/mikes-shop/
-shop: Kramladen
+shop: variety store
 ---

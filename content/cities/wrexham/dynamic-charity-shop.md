@@ -1,5 +1,5 @@
 ---
 title: "Dynamic Charity Shop"
 url: /wrexham/dynamic-charity-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

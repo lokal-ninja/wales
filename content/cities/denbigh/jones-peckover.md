@@ -1,5 +1,5 @@
 ---
 title: "Jones Peckover"
 url: /denbigh/jones-peckover/
-shop: Immobilien
+shop: estate agent
 ---

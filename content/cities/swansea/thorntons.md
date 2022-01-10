@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /swansea/thorntons/
-shop: Süßwaren
+shop: confectionery
 ---

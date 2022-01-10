@@ -1,5 +1,5 @@
 ---
 title: "Jackie"
 url: /cardigan-aberteifi/jackie/
-shop: Friseur
+shop: hairdresser
 ---

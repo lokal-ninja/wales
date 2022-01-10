@@ -1,5 +1,5 @@
 ---
 title: "Shop Wales"
 url: /cardiff/shop-wales/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Victoria Park Store"
 url: /cardiff/victoria-park-store/
-shop: Lebensmittel
+shop: convenience
 ---

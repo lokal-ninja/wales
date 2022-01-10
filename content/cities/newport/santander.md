@@ -1,5 +1,5 @@
 ---
 title: "Santander"
 url: /newport/santander/
-shop: Leiher
+shop: pawnbroker
 ---

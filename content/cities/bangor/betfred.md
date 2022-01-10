@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /bangor/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

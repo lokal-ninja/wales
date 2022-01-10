@@ -1,5 +1,5 @@
 ---
 title: "Sunfit Nutrition"
 url: /trethomas/sunfit-nutrition/
-shop: Kosmetik
+shop: beauty
 ---

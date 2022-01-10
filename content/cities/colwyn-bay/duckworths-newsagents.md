@@ -1,5 +1,5 @@
 ---
 title: "Duckworths Newsagents"
 url: /colwyn-bay/duckworths-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

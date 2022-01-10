@@ -1,5 +1,5 @@
 ---
 title: "Muddy Pawz"
 url: /barry/muddy-pawz/
-shop: Tiersalon
+shop: pet grooming
 ---

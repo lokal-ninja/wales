@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /cwmbran/asda/
-shop: Supermarkt
+shop: supermarket
 ---

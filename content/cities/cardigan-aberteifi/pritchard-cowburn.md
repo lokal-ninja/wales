@@ -1,5 +1,5 @@
 ---
 title: "Pritchard–Cowburn"
 url: /cardigan-aberteifi/pritchard-cowburn/
-shop: Optiker
+shop: optician
 ---

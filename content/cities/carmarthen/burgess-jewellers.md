@@ -1,5 +1,5 @@
 ---
 title: "Burgess Jewellers"
 url: /carmarthen/burgess-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

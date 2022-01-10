@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
 url: /cardiff/wilko/
-shop: Kramladen
+shop: variety store
 ---

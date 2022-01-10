@@ -1,5 +1,5 @@
 ---
 title: "Stars"
 url: /aberystwyth/stars/
-shop: Andenken
+shop: gift
 ---

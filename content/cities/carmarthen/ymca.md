@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /carmarthen/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

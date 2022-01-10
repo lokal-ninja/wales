@@ -1,5 +1,5 @@
 ---
 title: "Laserwise"
 url: /cardiff/laserwise/
-shop: Kosmetik
+shop: beauty
 ---

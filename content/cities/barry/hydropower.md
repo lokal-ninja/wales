@@ -1,5 +1,5 @@
 ---
 title: "HydroPower"
 url: /barry/hydropower/
-shop: Pool
+shop: swimming pool
 ---

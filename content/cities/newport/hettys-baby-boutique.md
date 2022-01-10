@@ -1,5 +1,5 @@
 ---
 title: "Hetty's Baby Boutique"
 url: /newport/hettys-baby-boutique/
-shop: Babysachen
+shop: baby goods
 ---

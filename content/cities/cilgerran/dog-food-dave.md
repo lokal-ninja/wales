@@ -1,5 +1,5 @@
 ---
 title: "Dog Food Dave"
 url: /cilgerran/dog-food-dave/
-shop: Tiere
+shop: pet
 ---

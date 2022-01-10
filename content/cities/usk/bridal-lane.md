@@ -1,5 +1,5 @@
 ---
 title: "Bridal Lane"
 url: /usk/bridal-lane/
-shop: Kleidung
+shop: clothes
 ---

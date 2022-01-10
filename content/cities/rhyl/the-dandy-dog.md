@@ -1,5 +1,5 @@
 ---
 title: "The Dandy Dog"
 url: /rhyl/the-dandy-dog/
-shop: Tiere
+shop: pet
 ---

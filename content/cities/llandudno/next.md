@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /llandudno/next/
-shop: Kleidung
+shop: clothes
 ---

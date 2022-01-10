@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /wrexham/game/
-shop: Videospiele
+shop: video games
 ---

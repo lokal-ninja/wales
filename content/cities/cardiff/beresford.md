@@ -1,5 +1,5 @@
 ---
 title: "Beresford"
 url: /cardiff/beresford/
-shop: Optiker
+shop: optician
 ---

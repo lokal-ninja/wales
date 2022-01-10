@@ -1,5 +1,5 @@
 ---
 title: "Tenovus Cancer Care"
 url: /caerphilly/tenovus-cancer-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

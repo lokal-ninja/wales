@@ -1,5 +1,5 @@
 ---
 title: "Goodwash"
 url: /barry/goodwash/
-shop: Kosmetik
+shop: beauty
 ---

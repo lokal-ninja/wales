@@ -1,5 +1,5 @@
 ---
 title: "What!"
 url: /caerphilly/what/
-shop: Kramladen
+shop: variety store
 ---

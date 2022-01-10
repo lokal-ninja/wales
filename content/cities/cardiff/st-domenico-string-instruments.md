@@ -1,5 +1,5 @@
 ---
 title: "St Domenico String Instruments"
 url: /cardiff/st-domenico-string-instruments/
-shop: Instrumente
+shop: musical instrument
 ---

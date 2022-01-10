@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
 url: /pembroke/mccolls/
-shop: Lebensmittel
+shop: convenience
 ---

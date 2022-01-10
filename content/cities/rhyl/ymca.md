@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /rhyl/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

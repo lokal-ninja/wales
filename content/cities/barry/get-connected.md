@@ -1,5 +1,5 @@
 ---
 title: "Get Connected"
 url: /barry/get-connected/
-shop: Handy
+shop: mobile phone
 ---

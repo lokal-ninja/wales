@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /cardiff/scs/
-shop: Möbel
+shop: furniture
 ---

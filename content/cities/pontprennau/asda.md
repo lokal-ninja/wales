@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /pontprennau/asda/
-shop: Supermarkt
+shop: supermarket
 ---

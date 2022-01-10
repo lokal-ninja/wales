@@ -1,5 +1,5 @@
 ---
 title: "Beauty in the Bottle"
 url: /barry/beauty-in-the-bottle/
-shop: Kosmetik
+shop: beauty
 ---

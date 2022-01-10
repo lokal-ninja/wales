@@ -1,5 +1,5 @@
 ---
 title: "Card Centre"
 url: /swansea/card-centre/
-shop: Andenken
+shop: gift
 ---

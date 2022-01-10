@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
 url: /porthmadog/barnardos/
-shop: Gebrauchtwaren
+shop: charity
 ---

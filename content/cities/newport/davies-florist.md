@@ -1,5 +1,5 @@
 ---
 title: "Davies Florist"
 url: /newport/davies-florist/
-shop: Blumen
+shop: florist
 ---

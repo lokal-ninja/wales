@@ -1,5 +1,5 @@
 ---
 title: "Wilkinson"
 url: /haverfordwest/wilkinson/
-shop: Warenhaus
+shop: department store
 ---

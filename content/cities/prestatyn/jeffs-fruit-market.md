@@ -1,5 +1,5 @@
 ---
 title: "Jeffs Fruit Market"
 url: /prestatyn/jeffs-fruit-market/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

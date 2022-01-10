@@ -1,5 +1,5 @@
 ---
 title: "Thomson"
 url: /caerphilly/thomson/
-shop: Reisebüro
+shop: travel agency
 ---

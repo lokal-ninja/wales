@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /bangor/oxfam/
-shop: Gebrauchtwaren
+shop: charity
 ---

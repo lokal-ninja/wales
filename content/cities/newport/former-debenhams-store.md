@@ -1,5 +1,5 @@
 ---
 title: "Former Debenhams store"
 url: /newport/former-debenhams-store/
-shop: Leerstehend
+shop: vacant
 ---

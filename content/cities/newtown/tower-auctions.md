@@ -1,5 +1,5 @@
 ---
 title: "Tower Auctions"
 url: /newtown/tower-auctions/
-shop: Auktionshaus
+shop: auction house
 ---

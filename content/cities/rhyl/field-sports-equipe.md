@@ -1,5 +1,5 @@
 ---
 title: "Field Sports Equipe"
 url: /rhyl/field-sports-equipe/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quality Carpets Direct"
 url: /caerphilly/quality-carpets-direct/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cappelli Hair Studio"
 url: /welshpool/cappelli-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

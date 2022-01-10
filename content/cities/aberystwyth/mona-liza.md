@@ -1,5 +1,5 @@
 ---
 title: "Mona Liza"
 url: /aberystwyth/mona-liza/
-shop: Andenken
+shop: gift
 ---
