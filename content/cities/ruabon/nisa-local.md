@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
-url: /llandovery/nisa-local/
+url: /ruabon/nisa-local/
 shop: convenience
 ---
