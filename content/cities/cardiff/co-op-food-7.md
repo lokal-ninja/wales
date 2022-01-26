@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
 url: /cardiff/co-op-food-7/
-shop: convenience
+shop: supermarket
 ---
