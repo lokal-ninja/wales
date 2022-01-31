@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /pontardawe/argos/
-shop: shop
+shop: catalogue
 ---
