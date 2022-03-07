@@ -1,6 +1,6 @@
 ---
 title: Mold
 url: /mold/
-latitude: 53.165
-longitude: -3.142
+latitude: 53.166
+longitude: -3.143
 ---
