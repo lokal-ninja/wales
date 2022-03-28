@@ -1,6 +1,6 @@
 ---
 title: Caernarfon
 url: /caernarfon/
-latitude: 53.14
-longitude: -4.273
+latitude: 53.134
+longitude: -4.271
 ---
