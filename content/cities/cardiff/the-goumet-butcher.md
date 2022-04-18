@@ -1,5 +1,5 @@
 ---
-title: "The goumet butcher"
+title: "The Goumet Butcher"
 url: /cardiff/the-goumet-butcher/
 shop: butcher
 ---
