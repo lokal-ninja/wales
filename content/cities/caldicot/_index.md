@@ -1,6 +1,6 @@
 ---
 title: Caldicot
 url: /caldicot/
-latitude: 51.591
-longitude: -2.75
+latitude: 51.59
+longitude: -2.753
 ---
