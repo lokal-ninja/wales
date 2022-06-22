@@ -1,4 +1,4 @@
-baseURL = "https://gb.shoogle.net/wales"
+baseURL = "https://gb.shoogle.net/wales/"
 languageCode = "en-US"
 title = "Wales"
 theme = "ln-base"
