@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /caernarfon/iceland/
-shop: supermarket
+shop: frozen food
 ---
