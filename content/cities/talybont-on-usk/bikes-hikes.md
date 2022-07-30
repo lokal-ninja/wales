@@ -1,5 +1,5 @@
 ---
 title: "Bikes + Hikes"
-url: /brecon/bikes-hikes/
+url: /talybont-on-usk/bikes-hikes/
 shop: bicycle
 ---

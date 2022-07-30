@@ -1,5 +1,5 @@
 ---
 title: "Mollie's"
-url: /welshpool-powys/mollies/
+url: /welshpool/mollies/
 shop: confectionery
 ---
