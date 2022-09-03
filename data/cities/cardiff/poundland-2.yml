@@ -1,11 +1,11 @@
-id: 8607930054
-type: node
-latitude: 51.48305
-longitude: -3.17257
-postcode: "CF10 2BJ"
+id: 785472844
+type: way
+latitude: 51.49292
+longitude: -3.14498
+postcode: "CF24 1PQ"
 city: Cardiff
-street: "Queen Street"
-housenumber: 121-123
+street: "Newport Road"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 07:30-19:00; Su 11:00-17:00"
+opening_hours: ""
 website: ""
