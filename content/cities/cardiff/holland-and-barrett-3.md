@@ -1,5 +1,5 @@
 ---
 title: "Holland & Barrett"
-url: /denbigh/holland-and-barrett/
+url: /cardiff/holland-and-barrett-3/
 shop: health food
 ---
