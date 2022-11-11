@@ -1,5 +1,5 @@
 ---
-title: "The television and movie store"
+title: "The Television and Movie Store"
 url: /cwmbran/the-television-and-movie-store/
-shop: variety store
+shop: books
 ---
