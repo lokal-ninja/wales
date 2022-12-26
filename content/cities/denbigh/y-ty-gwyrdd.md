@@ -1,5 +1,5 @@
 ---
 title: "Y Tŷ Gwyrdd"
 url: /denbigh/y-ty-gwyrdd/
-shop: convenience
+shop: shop
 ---
