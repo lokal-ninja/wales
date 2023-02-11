@@ -1,5 +1,5 @@
 ---
 title: "R.J.Davies Motor Repairs"
-url: /pontypridd/r-j-davies-motor-repairs-2/
+url: /pontypridd/r-j-davies-motor-repairs/
 shop: car repair
 ---
