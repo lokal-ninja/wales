@@ -7,5 +7,5 @@ city: Newport
 street: "Pencarn Way"
 housenumber: 
 phone: "+44 1633 815 571"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-22:00; Su 10:00-16:00"
+opening_hours: "Mo-Sa 06:00-00:00; Su 10:00-16:00"
 website: ""
