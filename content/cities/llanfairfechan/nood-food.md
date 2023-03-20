@@ -1,5 +1,5 @@
 ---
 title: "Nood Food"
 url: /llanfairfechan/nood-food/
-shop: supermarket
+shop: shop
 ---

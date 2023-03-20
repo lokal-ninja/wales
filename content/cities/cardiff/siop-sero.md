@@ -1,5 +1,5 @@
 ---
 title: "Siop Sero"
 url: /cardiff/siop-sero/
-shop: supermarket
+shop: shop
 ---
