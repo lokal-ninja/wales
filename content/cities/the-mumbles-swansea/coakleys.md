@@ -1,5 +1,5 @@
 ---
-title: "Coakley's"
+title: "Coakleys"
 url: /the-mumbles-swansea/coakleys/
 shop: seafood
 ---
