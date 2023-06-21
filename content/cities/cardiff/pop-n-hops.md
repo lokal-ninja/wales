@@ -1,5 +1,5 @@
 ---
 title: "Pop 'n' Hops"
 url: /cardiff/pop-n-hops/
-shop: music
+shop: alcohol
 ---
