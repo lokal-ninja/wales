@@ -1,5 +1,5 @@
 ---
-title: "Best-One"
+title: "Best-one"
 url: /aberdare/best-one/
 shop: convenience
 ---
