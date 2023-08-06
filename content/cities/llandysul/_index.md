@@ -1,6 +1,6 @@
 ---
 title: Llandysul
 url: /llandysul/
-latitude: 52.169
-longitude: -4.365
+latitude: 52.075
+longitude: -4.362
 ---
