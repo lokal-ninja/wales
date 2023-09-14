@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
-url: /cardiff/whsmith/
+url: /cardiff/whsmith-albany-road/
 shop: newsagent
 ---

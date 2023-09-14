@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
-url: /llanelli/home-bargains/
+url: /llanelli/home-bargains-heol-stanllyd/
 shop: variety store
 ---

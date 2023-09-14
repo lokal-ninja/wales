@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /cardiff/iceland/
+url: /cardiff/iceland-cowbridge-road-east/
 shop: frozen food
 ---

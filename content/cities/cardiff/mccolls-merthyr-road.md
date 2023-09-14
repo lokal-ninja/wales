@@ -1,5 +1,5 @@
 ---
 title: "McColl's"
-url: /cardiff/mccolls/
+url: /cardiff/mccolls-merthyr-road/
 shop: convenience
 ---

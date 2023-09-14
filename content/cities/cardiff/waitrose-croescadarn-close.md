@@ -1,5 +1,5 @@
 ---
 title: "Waitrose"
-url: /cardiff/waitrose/
+url: /cardiff/waitrose-croescadarn-close/
 shop: supermarket
 ---

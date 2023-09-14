@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /newport/premier/
+url: /newport/premier-chepstow-road/
 shop: convenience
 ---

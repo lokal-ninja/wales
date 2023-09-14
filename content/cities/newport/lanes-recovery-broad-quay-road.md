@@ -1,5 +1,5 @@
 ---
 title: "Lanes Recovery"
-url: /newport/lanes-recovery/
+url: /newport/lanes-recovery-broad-quay-road/
 shop: car repair
 ---

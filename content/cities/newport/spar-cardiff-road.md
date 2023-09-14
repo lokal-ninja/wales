@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /newport/spar/
+url: /newport/spar-cardiff-road/
 shop: supermarket
 ---

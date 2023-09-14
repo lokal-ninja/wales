@@ -1,5 +1,5 @@
 ---
 title: "BedWorld"
-url: /cardiff/bedworld/
+url: /cardiff/bedworld-leckwith-road/
 shop: bed
 ---

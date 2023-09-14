@@ -1,5 +1,5 @@
 ---
 title: "The Works"
-url: /llanelli/the-works/
+url: /llanelli/the-works-stepney-street/
 shop: books
 ---

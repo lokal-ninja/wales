@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /cardiff/premier/
+url: /cardiff/premier-north-road/
 shop: convenience
 ---

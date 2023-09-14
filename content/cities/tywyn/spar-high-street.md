@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /tywyn/spar/
+url: /tywyn/spar-high-street/
 shop: supermarket
 ---

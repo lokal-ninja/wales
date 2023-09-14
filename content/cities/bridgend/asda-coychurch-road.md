@@ -1,5 +1,5 @@
 ---
 title: "Asda"
-url: /bridgend/asda/
+url: /bridgend/asda-coychurch-road/
 shop: supermarket
 ---

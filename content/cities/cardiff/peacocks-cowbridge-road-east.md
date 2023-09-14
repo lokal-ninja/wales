@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
-url: /cardiff/peacocks/
+url: /cardiff/peacocks-cowbridge-road-east/
 shop: clothes
 ---

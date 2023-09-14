@@ -1,5 +1,5 @@
 ---
 title: "Londis"
-url: /newport/londis/
+url: /newport/londis-chepstow-road/
 shop: convenience
 ---

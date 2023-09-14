@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
-url: /cardiff/ramsdens/
+url: /cardiff/ramsdens-cowbridge-road-east/
 shop: pawnbroker
 ---

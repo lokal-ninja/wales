@@ -1,5 +1,5 @@
 ---
 title: "Wilko"
-url: /cardiff/wilko/
+url: /cardiff/wilko-ferry-road/
 shop: variety store
 ---

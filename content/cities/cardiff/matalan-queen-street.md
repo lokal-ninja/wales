@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
-url: /cardiff/matalan/
+url: /cardiff/matalan-queen-street/
 shop: clothes
 ---

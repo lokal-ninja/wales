@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
-url: /cardiff/iceland/
+url: /cardiff/iceland-albany-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jenkins"
-url: /ammanford/jenkins/
+url: /ammanford/jenkins-quay-street/
 shop: bakery
 ---

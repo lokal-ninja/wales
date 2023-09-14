@@ -1,5 +1,5 @@
 ---
 title: "Barnardo's"
-url: /newport/barnardos/
+url: /newport/barnardos-malpas-road/
 shop: charity
 ---

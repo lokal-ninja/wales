@@ -1,5 +1,5 @@
 ---
 title: "The Range"
-url: /cardiff/the-range/
+url: /cardiff/the-range-newport-road/
 shop: houseware
 ---

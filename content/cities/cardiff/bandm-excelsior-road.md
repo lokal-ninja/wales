@@ -1,5 +1,5 @@
 ---
 title: "B&M"
-url: /cardiff/bandm/
+url: /cardiff/bandm-excelsior-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /ruabon/spar/
+url: /ruabon/spar-james-park-way/
 shop: convenience
 ---

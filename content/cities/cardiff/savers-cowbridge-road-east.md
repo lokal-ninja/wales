@@ -1,5 +1,5 @@
 ---
 title: "Savers"
-url: /cardiff/savers/
+url: /cardiff/savers-cowbridge-road-east/
 shop: chemist
 ---

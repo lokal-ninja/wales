@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
-url: /newport/lifestyle-express/
+url: /newport/lifestyle-express-commercial-road/
 shop: convenience
 ---

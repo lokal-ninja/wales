@@ -1,5 +1,5 @@
 ---
 title: "Boots"
-url: /newport/boots/
+url: /newport/boots-central-avenue/
 shop: chemist
 ---

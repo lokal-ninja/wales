@@ -1,5 +1,5 @@
 ---
 title: "Next"
-url: /newport/next/
+url: /newport/next-seven-stiles-avenue/
 shop: clothes
 ---
