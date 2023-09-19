@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /trethomas/spar-newport-road/
+url: /newport/spar-larch-grove/
 shop: convenience
 ---
