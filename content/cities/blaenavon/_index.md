@@ -1,6 +1,6 @@
 ---
 title: Blaenavon
 url: /blaenavon/
-latitude: 51.774
+latitude: 51.773
 longitude: -3.084
 ---

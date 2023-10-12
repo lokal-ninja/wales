@@ -1,6 +1,6 @@
 ---
 title: Llanelli
 url: /llanelli/
-latitude: 51.675
-longitude: -4.14
+latitude: 51.797
+longitude: -4.083
 ---
