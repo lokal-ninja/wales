@@ -1,6 +1,6 @@
 ---
 title: Caerleon
 url: /caerleon/
-latitude: 51.615
-longitude: -2.967
+latitude: 51.619
+longitude: -2.96
 ---

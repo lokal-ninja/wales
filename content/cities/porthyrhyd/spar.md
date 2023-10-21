@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /newport/spar-larch-grove/
+url: /porthyrhyd/spar/
 shop: convenience
 ---
