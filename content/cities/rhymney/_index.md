@@ -1,6 +1,6 @@
 ---
 title: Rhymney
 url: /rhymney/
-latitude: 51.763
-longitude: -3.286
+latitude: 51.758
+longitude: -3.283
 ---
