@@ -1,6 +1,6 @@
 ---
 title: Newbridge
 url: /newbridge/
-latitude: 51.665
-longitude: -3.146
+latitude: 51.664
+longitude: -3.147
 ---
