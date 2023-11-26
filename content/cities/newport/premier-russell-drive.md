@@ -1,5 +1,5 @@
 ---
 title: "Premier"
-url: /malpas/premier/
+url: /newport/premier-russell-drive/
 shop: convenience
 ---
