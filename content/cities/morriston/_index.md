@@ -1,6 +1,6 @@
 ---
 title: Morriston
 url: /morriston/
-latitude: 51.67
-longitude: -3.921
+latitude: 51.668
+longitude: -3.919
 ---
