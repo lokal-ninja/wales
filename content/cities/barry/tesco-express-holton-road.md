@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /newport/tesco-express-malpas-road/
+url: /barry/tesco-express-holton-road/
 shop: convenience
 ---
