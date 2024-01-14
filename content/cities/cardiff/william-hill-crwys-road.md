@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /llandudno/william-hill-vaughan-street/
+url: /cardiff/william-hill-crwys-road/
 shop: bookmaker
 ---
