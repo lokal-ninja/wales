@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /wrexham/betfred-queen-street/
+url: /wrexham/betfred-regent-street/
 shop: bookmaker
 ---
