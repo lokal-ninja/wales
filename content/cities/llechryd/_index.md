@@ -1,6 +1,6 @@
 ---
 title: Llechryd
 url: /llechryd/
-latitude: 52.065
-longitude: -4.605
+latitude: 52.064
+longitude: -4.603
 ---
