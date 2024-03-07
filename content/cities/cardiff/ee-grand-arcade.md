@@ -1,5 +1,5 @@
 ---
 title: "EE"
-url: /wrexham/ee/
+url: /cardiff/ee-grand-arcade/
 shop: mobile phone
 ---
