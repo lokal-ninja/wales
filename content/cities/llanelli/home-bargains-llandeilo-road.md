@@ -1,5 +1,5 @@
 ---
 title: "Home Bargains"
-url: /llanelli/home-bargains-vaughan-street/
+url: /llanelli/home-bargains-llandeilo-road/
 shop: variety store
 ---
