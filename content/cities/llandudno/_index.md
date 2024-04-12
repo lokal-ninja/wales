@@ -1,6 +1,6 @@
 ---
 title: Llandudno
 url: /llandudno/
-latitude: 53.321
-longitude: -3.828
+latitude: 53.313
+longitude: -3.83
 ---
