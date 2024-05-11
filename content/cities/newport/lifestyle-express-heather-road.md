@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
-url: /newport/lifestyle-express-somerton-road/
+url: /newport/lifestyle-express-heather-road/
 shop: convenience
 ---
