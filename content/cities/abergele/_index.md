@@ -1,6 +1,6 @@
 ---
 title: Abergele
 url: /abergele/
-latitude: 53.294
-longitude: -3.582
+latitude: 53.193
+longitude: -3.685
 ---

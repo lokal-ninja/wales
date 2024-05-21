@@ -1,6 +1,6 @@
 ---
 title: Porthcawl
 url: /porthcawl/
-latitude: 51.489
-longitude: -3.722
+latitude: 51.476
+longitude: -3.705
 ---
