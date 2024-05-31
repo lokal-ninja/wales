@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /cardiff/tesco-express-salisbury-road/
+url: /barry/tesco-express-barry-road/
 shop: convenience
 ---
