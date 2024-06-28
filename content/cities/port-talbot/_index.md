@@ -1,6 +1,6 @@
 ---
 title: Port Talbot
 url: /port-talbot/
-latitude: 51.597
-longitude: -3.784
+latitude: 51.596
+longitude: -3.783
 ---

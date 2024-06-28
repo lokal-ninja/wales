@@ -1,6 +1,6 @@
 ---
 title: Dinas Powys
 url: /dinas-powys/
-latitude: 51.433
+latitude: 51.434
 longitude: -3.209
 ---

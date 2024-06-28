@@ -1,6 +1,6 @@
 ---
 title: Blaenau Ffestiniog
 url: /blaenau-ffestiniog/
-latitude: 52.994
-longitude: -3.935
+latitude: 52.995
+longitude: -3.938
 ---

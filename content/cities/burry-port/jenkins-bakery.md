@@ -1,5 +1,5 @@
 ---
-title: "Jenkin's Bakery"
+title: "Jenkins Bakery"
 url: /burry-port/jenkins-bakery/
 shop: bakery
 ---
