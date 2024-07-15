@@ -1,6 +1,6 @@
 ---
 title: Llandudno Junction
 url: /llandudno-junction/
-latitude: 53.291
-longitude: -3.822
+latitude: 53.284
+longitude: -3.803
 ---
