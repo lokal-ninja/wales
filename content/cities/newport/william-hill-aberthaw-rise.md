@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /cardiff/william-hill-wellfield-road/
+url: /newport/william-hill-aberthaw-rise/
 shop: bookmaker
 ---

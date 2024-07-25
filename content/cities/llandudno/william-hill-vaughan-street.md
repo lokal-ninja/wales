@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /newport/william-hill-skinner-street/
+url: /llandudno/william-hill-vaughan-street/
 shop: bookmaker
 ---
