@@ -1,6 +1,6 @@
 ---
 title: Mountain Ash
 url: /mountain-ash/
-latitude: 51.683
-longitude: -3.379
+latitude: 51.684
+longitude: -3.381
 ---
