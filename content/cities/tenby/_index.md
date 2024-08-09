@@ -1,6 +1,6 @@
 ---
 title: Tenby
 url: /tenby/
-latitude: 51.657
-longitude: -4.812
+latitude: 51.703
+longitude: -4.721
 ---

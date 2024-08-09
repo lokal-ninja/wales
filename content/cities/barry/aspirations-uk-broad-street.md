@@ -1,5 +1,5 @@
 ---
 title: "Aspirations UK"
-url: /barry/aspirations-uk-high-street/
+url: /barry/aspirations-uk-broad-street/
 shop: furniture
 ---
