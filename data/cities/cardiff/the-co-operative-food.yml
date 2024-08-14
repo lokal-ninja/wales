@@ -1,11 +1,11 @@
-id: 1873107858
-type: node
-latitude: 51.52909
-longitude: -3.18784
-postcode: "CF14 5LU"
+id: 105804098
+type: way
+latitude: 51.51204
+longitude: -3.21937
+postcode: "CF14 1DH"
 city: Cardiff
-street: "Station Road"
-housenumber: 46-48
-phone: "+44 29 2075 2230"
-opening_hours: "Mo-Su,PH 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CF14-5LU/46-48-station-road"
+street: "Merthyr Road"
+housenumber: 34-38
+phone: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+website: "https://www.coop.co.uk/store-finder/CF14-1DH/34-40-merthyr-road"
