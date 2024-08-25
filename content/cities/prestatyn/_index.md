@@ -1,6 +1,6 @@
 ---
 title: Prestatyn
 url: /prestatyn/
-latitude: 53.34
-longitude: -3.41
+latitude: 53.335
+longitude: -3.428
 ---

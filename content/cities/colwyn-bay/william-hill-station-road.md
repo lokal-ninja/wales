@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /newport/william-hill-aberthaw-rise/
+url: /colwyn-bay/william-hill-station-road/
 shop: bookmaker
 ---
