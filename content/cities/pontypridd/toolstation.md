@@ -1,5 +1,5 @@
 ---
 title: "Toolstation"
 url: /pontypridd/toolstation/
-shop: doityourself
+shop: Baumarkt
 ---

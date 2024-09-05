@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /newport/spar-bettws-centre/
-shop: supermarket
+shop: Supermarkt
 ---

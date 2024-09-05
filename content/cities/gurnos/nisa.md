@@ -1,5 +1,5 @@
 ---
 title: "Nisa"
 url: /gurnos/nisa/
-shop: convenience
+shop: Lebensmittel
 ---

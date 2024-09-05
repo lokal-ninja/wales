@@ -1,5 +1,5 @@
 ---
 title: "Clintons"
 url: /cardiff/clintons/
-shop: gift
+shop: Andenken
 ---

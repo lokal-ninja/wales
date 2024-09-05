@@ -1,5 +1,5 @@
 ---
 title: "Corp Market"
 url: /cardiff/corp-market/
-shop: mall
+shop: Einkaufszentrum
 ---

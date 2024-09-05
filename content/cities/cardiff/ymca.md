@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /cardiff/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

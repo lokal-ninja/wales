@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /criccieth/spar/
-shop: convenience
+shop: Lebensmittel
 ---

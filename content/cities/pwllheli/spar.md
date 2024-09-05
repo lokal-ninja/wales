@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pwllheli/spar/
-shop: supermarket
+shop: Supermarkt
 ---

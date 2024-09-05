@@ -1,5 +1,5 @@
 ---
 title: "Botanica"
 url: /aberystwyth/botanica/
-shop: florist
+shop: Blumen
 ---

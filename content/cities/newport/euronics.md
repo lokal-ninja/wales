@@ -1,5 +1,5 @@
 ---
 title: "Euronics"
 url: /newport/euronics/
-shop: electronics
+shop: Elektronik
 ---

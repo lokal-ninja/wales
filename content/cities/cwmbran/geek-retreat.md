@@ -1,5 +1,5 @@
 ---
 title: "Geek Retreat"
 url: /cwmbran/geek-retreat/
-shop: collector
+shop: Sammler
 ---

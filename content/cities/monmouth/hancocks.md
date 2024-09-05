@@ -1,5 +1,5 @@
 ---
 title: "Hancocks"
 url: /monmouth/hancocks/
-shop: butcher
+shop: Metzgerei
 ---

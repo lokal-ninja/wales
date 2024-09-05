@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /cardiff/one-stop-schooner-way/
-shop: convenience
+shop: Lebensmittel
 ---

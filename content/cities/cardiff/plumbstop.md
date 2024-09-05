@@ -1,5 +1,5 @@
 ---
 title: "Plumbstop"
 url: /cardiff/plumbstop/
-shop: bathroom
+shop: Badezimmer
 ---

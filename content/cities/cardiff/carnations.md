@@ -1,5 +1,5 @@
 ---
 title: "Carnations"
 url: /cardiff/carnations/
-shop: florist
+shop: Blumen
 ---

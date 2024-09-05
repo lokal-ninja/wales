@@ -1,5 +1,5 @@
 ---
 title: "LBS"
 url: /cardiff/lbs/
-shop: trade
+shop: Baustoffe
 ---

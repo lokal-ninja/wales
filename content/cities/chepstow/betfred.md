@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /chepstow/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

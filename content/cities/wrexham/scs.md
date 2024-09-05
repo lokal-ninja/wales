@@ -1,5 +1,5 @@
 ---
 title: "ScS"
 url: /wrexham/scs/
-shop: furniture
+shop: Möbel
 ---

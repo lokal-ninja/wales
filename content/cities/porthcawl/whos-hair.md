@@ -1,5 +1,5 @@
 ---
 title: "Who's Hair"
 url: /porthcawl/whos-hair/
-shop: hairdresser
+shop: Friseur
 ---

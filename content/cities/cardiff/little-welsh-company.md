@@ -1,5 +1,5 @@
 ---
 title: "Little Welsh Company"
 url: /cardiff/little-welsh-company/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Caldikidz"
 url: /caldicot/caldikidz/
-shop: baby goods
+shop: Babysachen
 ---

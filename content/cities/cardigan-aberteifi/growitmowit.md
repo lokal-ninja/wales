@@ -1,5 +1,5 @@
 ---
 title: "growitmowit"
 url: /cardigan-aberteifi/growitmowit/
-shop: doityourself
+shop: Baumarkt
 ---

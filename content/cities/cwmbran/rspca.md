@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /cwmbran/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

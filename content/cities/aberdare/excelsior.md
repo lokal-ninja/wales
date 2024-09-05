@@ -1,5 +1,5 @@
 ---
 title: "Excelsior"
 url: /aberdare/excelsior/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Strands"
 url: /cardiff/strands/
-shop: hairdresser
+shop: Friseur
 ---

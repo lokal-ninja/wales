@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /clydach/spar/
-shop: supermarket
+shop: Supermarkt
 ---

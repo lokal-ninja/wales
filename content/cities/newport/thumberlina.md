@@ -1,5 +1,5 @@
 ---
 title: "Thumberlina"
 url: /newport/thumberlina/
-shop: sewing
+shop: Nähzubehör
 ---

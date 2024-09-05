@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /chepstow/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

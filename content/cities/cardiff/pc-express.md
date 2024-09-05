@@ -1,5 +1,5 @@
 ---
 title: "PC Express"
 url: /cardiff/pc-express/
-shop: computer
+shop: Computer
 ---

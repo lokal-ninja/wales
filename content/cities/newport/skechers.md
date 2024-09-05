@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /newport/skechers/
-shop: shoes
+shop: Schuhe
 ---

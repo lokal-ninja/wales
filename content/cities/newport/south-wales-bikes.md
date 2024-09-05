@@ -1,5 +1,5 @@
 ---
 title: "South Wales Bikes"
 url: /newport/south-wales-bikes/
-shop: bicycle
+shop: Fahrrad
 ---

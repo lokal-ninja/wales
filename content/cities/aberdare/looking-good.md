@@ -1,5 +1,5 @@
 ---
 title: "Looking Good"
 url: /aberdare/looking-good/
-shop: beauty
+shop: Kosmetik
 ---

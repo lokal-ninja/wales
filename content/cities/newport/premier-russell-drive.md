@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /newport/premier-russell-drive/
-shop: convenience
+shop: Lebensmittel
 ---

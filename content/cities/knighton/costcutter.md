@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /knighton/costcutter/
-shop: supermarket
+shop: Supermarkt
 ---

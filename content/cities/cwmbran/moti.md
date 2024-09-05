@@ -1,5 +1,5 @@
 ---
 title: "Moti"
 url: /cwmbran/moti/
-shop: sports
+shop: Sport
 ---

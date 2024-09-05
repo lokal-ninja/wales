@@ -1,5 +1,5 @@
 ---
 title: "Smokescreen"
 url: /barry/smokescreen/
-shop: shop
+shop: Allgemein
 ---

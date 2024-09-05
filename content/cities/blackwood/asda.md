@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /blackwood/asda/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /porthcawl/ymca/
-shop: charity
+shop: Gebrauchtwaren
 ---

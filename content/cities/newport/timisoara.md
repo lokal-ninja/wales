@@ -1,5 +1,5 @@
 ---
 title: "Timisoara"
 url: /newport/timisoara/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /abertillery/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /barry/ramsdens/
-shop: pawnbroker
+shop: Leiher
 ---

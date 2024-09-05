@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /haverfordwest/londis/
-shop: convenience
+shop: Lebensmittel
 ---

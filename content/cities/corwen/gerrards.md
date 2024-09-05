@@ -1,5 +1,5 @@
 ---
 title: "Gerrards"
 url: /corwen/gerrards/
-shop: bakery
+shop: Bäckerei
 ---

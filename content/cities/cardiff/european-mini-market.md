@@ -1,5 +1,5 @@
 ---
 title: "European Mini Market"
 url: /cardiff/european-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

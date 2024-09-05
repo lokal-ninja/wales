@@ -1,5 +1,5 @@
 ---
 title: "City Vape"
 url: /newport/city-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

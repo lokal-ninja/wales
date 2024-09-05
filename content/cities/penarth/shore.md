@@ -1,5 +1,5 @@
 ---
 title: "Shore"
 url: /penarth/shore/
-shop: gift
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /llanelli/argos/
-shop: catalogue
+shop: Katalog
 ---

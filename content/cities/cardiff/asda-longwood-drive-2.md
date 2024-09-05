@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /cardiff/asda-longwood-drive-2/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motorpod"
 url: /newport/motorpod/
-shop: car
+shop: Autohaus
 ---

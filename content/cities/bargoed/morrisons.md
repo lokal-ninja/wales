@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /bargoed/morrisons/
-shop: supermarket
+shop: Supermarkt
 ---

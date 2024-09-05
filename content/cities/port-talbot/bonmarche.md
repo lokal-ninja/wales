@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /port-talbot/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

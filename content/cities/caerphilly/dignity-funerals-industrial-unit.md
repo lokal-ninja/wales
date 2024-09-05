@@ -1,5 +1,5 @@
 ---
 title: "Dignity Funerals Industrial Unit"
 url: /caerphilly/dignity-funerals-industrial-unit/
-shop: funeral directors
+shop: Bestattungen
 ---

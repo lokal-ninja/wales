@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /cwmbran/halfords/
-shop: car parts
+shop: Autoteile
 ---

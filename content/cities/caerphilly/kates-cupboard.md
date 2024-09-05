@@ -1,5 +1,5 @@
 ---
 title: "Kate's Cupboard"
 url: /caerphilly/kates-cupboard/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chris Walters Barbershop"
 url: /aberdare/chris-walters-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

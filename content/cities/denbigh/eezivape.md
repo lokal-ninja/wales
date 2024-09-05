@@ -1,5 +1,5 @@
 ---
 title: "Eezivape"
 url: /denbigh/eezivape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

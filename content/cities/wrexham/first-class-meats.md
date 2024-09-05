@@ -1,5 +1,5 @@
 ---
 title: "First Class Meats"
 url: /wrexham/first-class-meats/
-shop: butcher
+shop: Metzgerei
 ---

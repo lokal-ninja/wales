@@ -1,5 +1,5 @@
 ---
 title: "The Baker's Dozen"
 url: /cardiff/the-bakers-dozen/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwiksave"
 url: /bangor/kwiksave/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /cwmbran/peacocks/
-shop: clothes
+shop: Kleidung
 ---

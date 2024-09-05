@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /haverfordwest/currys/
-shop: electronics
+shop: Elektronik
 ---

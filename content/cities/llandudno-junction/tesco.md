@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /llandudno-junction/tesco/
-shop: supermarket
+shop: Supermarkt
 ---

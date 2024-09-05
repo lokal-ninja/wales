@@ -1,5 +1,5 @@
 ---
 title: "Lindy's Laundrette"
 url: /llanelli/lindys-laundrette/
-shop: laundry
+shop: Wäscherei
 ---

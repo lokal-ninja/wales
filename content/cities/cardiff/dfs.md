@@ -1,5 +1,5 @@
 ---
 title: "DFS"
 url: /cardiff/dfs/
-shop: furniture
+shop: Möbel
 ---

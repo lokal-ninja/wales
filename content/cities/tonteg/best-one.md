@@ -1,5 +1,5 @@
 ---
 title: "Best-one"
 url: /tonteg/best-one/
-shop: convenience
+shop: Lebensmittel
 ---

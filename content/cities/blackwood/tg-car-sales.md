@@ -1,5 +1,5 @@
 ---
 title: "TG Car Sales"
 url: /blackwood/tg-car-sales/
-shop: car
+shop: Autohaus
 ---

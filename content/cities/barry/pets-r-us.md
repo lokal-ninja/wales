@@ -1,5 +1,5 @@
 ---
 title: "Pets 'R' Us"
 url: /barry/pets-r-us/
-shop: pet
+shop: Tiere
 ---

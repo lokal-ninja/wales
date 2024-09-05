@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /pontypool/peacocks/
-shop: clothes
+shop: Kleidung
 ---

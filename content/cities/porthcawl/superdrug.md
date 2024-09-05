@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /porthcawl/superdrug/
-shop: chemist
+shop: Drogerie
 ---

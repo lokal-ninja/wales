@@ -1,5 +1,5 @@
 ---
 title: "Barry Satellite Telecraft"
 url: /barry/barry-satellite-telecraft/
-shop: electronics
+shop: Elektronik
 ---

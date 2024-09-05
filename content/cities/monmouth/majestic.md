@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /monmouth/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

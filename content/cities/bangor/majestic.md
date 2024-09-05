@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /bangor/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

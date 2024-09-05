@@ -1,5 +1,5 @@
 ---
 title: "Honeypot"
 url: /carmarthen/honeypot/
-shop: clothes
+shop: Kleidung
 ---

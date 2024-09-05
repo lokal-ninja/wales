@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pontypridd/spar/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Splott Mini Market"
 url: /cardiff/splott-mini-market/
-shop: convenience
+shop: Lebensmittel
 ---

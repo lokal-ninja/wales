@@ -1,5 +1,5 @@
 ---
 title: "Brandon Tool Hire"
 url: /newport/brandon-tool-hire/
-shop: tools
+shop: Werkzeuge
 ---

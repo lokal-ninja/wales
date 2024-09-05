@@ -1,5 +1,5 @@
 ---
 title: "Tanforhesgen"
 url: /harlech/tanforhesgen/
-shop: shop
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /welshpool/specsavers/
-shop: optician
+shop: Optiker
 ---

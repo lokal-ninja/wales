@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /cwmbran/ee/
-shop: mobile phone
+shop: Handy
 ---

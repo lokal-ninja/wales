@@ -1,5 +1,5 @@
 ---
 title: "Italus"
 url: /cardiff/italus/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /aberdare/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

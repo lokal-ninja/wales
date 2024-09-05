@@ -1,5 +1,5 @@
 ---
 title: "Menkind"
 url: /cwmbran/menkind/
-shop: toys
+shop: Spielzeug
 ---

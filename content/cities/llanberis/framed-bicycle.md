@@ -1,5 +1,5 @@
 ---
 title: "Framed Bicycle"
 url: /llanberis/framed-bicycle/
-shop: bicycle
+shop: Fahrrad
 ---

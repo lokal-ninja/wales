@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /blaenau-ffestiniog/londis/
-shop: supermarket
+shop: Supermarkt
 ---

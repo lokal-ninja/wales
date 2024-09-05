@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
 url: /cardiff/bauhaus/
-shop: hairdresser
+shop: Friseur
 ---

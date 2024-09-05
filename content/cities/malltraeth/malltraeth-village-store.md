@@ -1,5 +1,5 @@
 ---
 title: "Malltraeth Village Store"
 url: /malltraeth/malltraeth-village-store/
-shop: convenience
+shop: Lebensmittel
 ---

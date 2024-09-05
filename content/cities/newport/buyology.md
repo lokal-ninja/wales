@@ -1,5 +1,5 @@
 ---
 title: "Buyology"
 url: /newport/buyology/
-shop: doityourself
+shop: Baumarkt
 ---

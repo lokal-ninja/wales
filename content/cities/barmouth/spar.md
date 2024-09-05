@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /barmouth/spar/
-shop: supermarket
+shop: Supermarkt
 ---

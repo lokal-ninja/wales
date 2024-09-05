@@ -1,5 +1,5 @@
 ---
 title: "Sugar"
 url: /newport/sugar/
-shop: confectionery
+shop: Süßwaren
 ---

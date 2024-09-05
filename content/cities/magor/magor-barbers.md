@@ -1,5 +1,5 @@
 ---
 title: "Magor Barbers"
 url: /magor/magor-barbers/
-shop: hairdresser
+shop: Friseur
 ---

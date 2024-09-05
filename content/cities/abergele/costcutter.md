@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /abergele/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ocean Beach Grill"
 url: /saundersfoot/ocean-beach-grill/
-shop: coffee
+shop: Kaffee
 ---

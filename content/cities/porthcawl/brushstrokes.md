@@ -1,5 +1,5 @@
 ---
 title: "Brushstrokes"
 url: /porthcawl/brushstrokes/
-shop: interior decoration
+shop: Raumausstattung
 ---

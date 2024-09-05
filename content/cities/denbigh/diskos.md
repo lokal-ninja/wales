@@ -1,5 +1,5 @@
 ---
 title: "Diskos"
 url: /denbigh/diskos/
-shop: variety store
+shop: Kramladen
 ---

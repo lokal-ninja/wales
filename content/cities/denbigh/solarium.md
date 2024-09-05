@@ -1,5 +1,5 @@
 ---
 title: "Solarium"
 url: /denbigh/solarium/
-shop: beauty
+shop: Kosmetik
 ---

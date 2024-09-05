@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /monmouth/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

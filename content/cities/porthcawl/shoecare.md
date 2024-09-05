@@ -1,5 +1,5 @@
 ---
 title: "Shoecare"
 url: /porthcawl/shoecare/
-shop: shoes
+shop: Schuhe
 ---

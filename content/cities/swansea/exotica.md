@@ -1,5 +1,5 @@
 ---
 title: "EXOTICA"
 url: /swansea/exotica/
-shop: supermarket
+shop: Supermarkt
 ---

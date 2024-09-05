@@ -1,5 +1,5 @@
 ---
 title: "Saltrock"
 url: /swansea/saltrock/
-shop: clothes
+shop: Kleidung
 ---

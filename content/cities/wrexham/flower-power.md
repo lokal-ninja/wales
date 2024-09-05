@@ -1,5 +1,5 @@
 ---
 title: "Flower Power"
 url: /wrexham/flower-power/
-shop: florist
+shop: Blumen
 ---

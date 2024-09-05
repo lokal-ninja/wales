@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /colwyn-bay/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

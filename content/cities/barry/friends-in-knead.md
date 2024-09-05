@@ -1,5 +1,5 @@
 ---
 title: "Friends in Knead"
 url: /barry/friends-in-knead/
-shop: bakery
+shop: Bäckerei
 ---

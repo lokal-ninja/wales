@@ -1,5 +1,5 @@
 ---
 title: "Fox's Hairdressing"
 url: /porthcawl/foxs-hairdressing/
-shop: hairdresser
+shop: Friseur
 ---

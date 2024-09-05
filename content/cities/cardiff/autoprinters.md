@@ -1,5 +1,5 @@
 ---
 title: "AutoPrinters"
 url: /cardiff/autoprinters/
-shop: copyshop
+shop: Kopieren
 ---

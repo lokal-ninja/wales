@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /cwmbran/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

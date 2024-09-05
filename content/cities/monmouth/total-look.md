@@ -1,5 +1,5 @@
 ---
 title: "Total Look"
 url: /monmouth/total-look/
-shop: hairdresser
+shop: Friseur
 ---

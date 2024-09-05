@@ -1,5 +1,5 @@
 ---
 title: "Dickens Station Motors"
 url: /mold/dickens-station-motors/
-shop: car
+shop: Autohaus
 ---

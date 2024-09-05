@@ -1,5 +1,5 @@
 ---
 title: "Adam's"
 url: /cardiff/adams/
-shop: hairdresser
+shop: Friseur
 ---

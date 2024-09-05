@@ -1,5 +1,5 @@
 ---
 title: "Cefndy-Medequip Service Centre"
 url: /newport/cefndy-medequip-service-centre/
-shop: medical supply
+shop: Sanitätshaus
 ---

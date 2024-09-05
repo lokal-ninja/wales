@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /dolgellau/spar/
-shop: convenience
+shop: Lebensmittel
 ---

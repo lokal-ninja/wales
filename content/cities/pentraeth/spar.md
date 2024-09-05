@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /pentraeth/spar/
-shop: convenience
+shop: Lebensmittel
 ---

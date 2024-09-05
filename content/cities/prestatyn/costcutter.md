@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /prestatyn/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

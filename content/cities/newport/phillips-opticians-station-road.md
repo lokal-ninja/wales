@@ -1,5 +1,5 @@
 ---
 title: "Phillips Opticians"
 url: /newport/phillips-opticians-station-road/
-shop: optician
+shop: Optiker
 ---

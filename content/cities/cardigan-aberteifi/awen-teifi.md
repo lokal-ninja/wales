@@ -1,5 +1,5 @@
 ---
 title: "Awen Teifi"
 url: /cardigan-aberteifi/awen-teifi/
-shop: toys
+shop: Spielzeug
 ---

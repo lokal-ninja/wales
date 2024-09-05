@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /barry/bonmarche/
-shop: clothes
+shop: Kleidung
 ---

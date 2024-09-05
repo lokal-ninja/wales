@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /blackwood/boots/
-shop: chemist
+shop: Drogerie
 ---

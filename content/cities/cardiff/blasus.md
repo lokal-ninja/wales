@@ -1,5 +1,5 @@
 ---
 title: "Blasus"
 url: /cardiff/blasus/
-shop: garden centre
+shop: Garten-Center
 ---

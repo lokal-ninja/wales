@@ -1,5 +1,5 @@
 ---
 title: "Happy Tails"
 url: /porthcawl/happy-tails/
-shop: pet
+shop: Tiere
 ---

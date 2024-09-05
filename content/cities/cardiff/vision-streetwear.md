@@ -1,5 +1,5 @@
 ---
 title: "Vision Streetwear"
 url: /cardiff/vision-streetwear/
-shop: clothes
+shop: Kleidung
 ---

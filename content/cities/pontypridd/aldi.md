@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /pontypridd/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

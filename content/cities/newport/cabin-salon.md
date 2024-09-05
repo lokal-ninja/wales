@@ -1,5 +1,5 @@
 ---
 title: "Cabin Salon"
 url: /newport/cabin-salon/
-shop: hairdresser
+shop: Friseur
 ---

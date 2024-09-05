@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /pentraeth/headlines/
-shop: hairdresser
+shop: Friseur
 ---

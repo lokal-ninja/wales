@@ -1,5 +1,5 @@
 ---
 title: "Tredici"
 url: /beaumaris/tredici/
-shop: deli
+shop: Feinkost
 ---

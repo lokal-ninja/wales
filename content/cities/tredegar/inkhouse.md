@@ -1,5 +1,5 @@
 ---
 title: "Inkhouse"
 url: /tredegar/inkhouse/
-shop: tattoo
+shop: Tattoo
 ---

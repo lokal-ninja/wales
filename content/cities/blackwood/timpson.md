@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /blackwood/timpson/
-shop: locksmith
+shop: Schlüsseldienst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Daniel Morris"
 url: /denbigh/daniel-morris/
-shop: butcher
+shop: Metzgerei
 ---

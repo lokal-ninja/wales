@@ -1,5 +1,5 @@
 ---
 title: "Wanaag Trading Limited"
 url: /cardiff/wanaag-trading-limited/
-shop: convenience
+shop: Lebensmittel
 ---

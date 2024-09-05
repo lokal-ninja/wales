@@ -1,5 +1,5 @@
 ---
 title: "Majestic"
 url: /cardiff/majestic/
-shop: alcohol
+shop: Spirituosen
 ---

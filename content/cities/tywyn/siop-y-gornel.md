@@ -1,5 +1,5 @@
 ---
 title: "Siop-y-gornel"
 url: /tywyn/siop-y-gornel/
-shop: alcohol
+shop: Spirituosen
 ---

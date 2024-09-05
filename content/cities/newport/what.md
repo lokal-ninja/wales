@@ -1,5 +1,5 @@
 ---
 title: "What!"
 url: /newport/what/
-shop: supermarket
+shop: Supermarkt
 ---

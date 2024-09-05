@@ -1,5 +1,5 @@
 ---
 title: "North Books"
 url: /hereford/north-books/
-shop: books
+shop: Bücher
 ---

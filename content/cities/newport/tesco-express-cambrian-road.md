@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /newport/tesco-express-cambrian-road/
-shop: convenience
+shop: Lebensmittel
 ---

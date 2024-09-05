@@ -1,5 +1,5 @@
 ---
 title: "Electric Age"
 url: /wrexham/electric-age/
-shop: tattoo
+shop: Tattoo
 ---

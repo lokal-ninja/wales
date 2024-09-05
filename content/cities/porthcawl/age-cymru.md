@@ -1,5 +1,5 @@
 ---
 title: "Age Cymru"
 url: /porthcawl/age-cymru/
-shop: charity
+shop: Gebrauchtwaren
 ---

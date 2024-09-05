@@ -1,5 +1,5 @@
 ---
 title: "Lifestyle Express"
 url: /menai-bridge/lifestyle-express/
-shop: convenience
+shop: Lebensmittel
 ---

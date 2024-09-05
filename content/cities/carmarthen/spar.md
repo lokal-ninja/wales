@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /carmarthen/spar/
-shop: convenience
+shop: Lebensmittel
 ---

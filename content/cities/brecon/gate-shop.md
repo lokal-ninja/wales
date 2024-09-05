@@ -1,5 +1,5 @@
 ---
 title: "Gate Shop"
 url: /brecon/gate-shop/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marmaris"
 url: /monmouth/marmaris/
-shop: hairdresser
+shop: Friseur
 ---

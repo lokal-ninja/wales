@@ -1,5 +1,5 @@
 ---
 title: "The Baron Barbershop"
 url: /porthmadog/the-baron-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

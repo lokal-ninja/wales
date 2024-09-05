@@ -1,5 +1,5 @@
 ---
 title: "Rowlands"
 url: /rhyl/rowlands/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

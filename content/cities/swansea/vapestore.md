@@ -1,5 +1,5 @@
 ---
 title: "VapeStore"
 url: /swansea/vapestore/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

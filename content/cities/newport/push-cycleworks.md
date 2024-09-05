@@ -1,5 +1,5 @@
 ---
 title: "Push Cycleworks"
 url: /newport/push-cycleworks/
-shop: bicycle
+shop: Fahrrad
 ---

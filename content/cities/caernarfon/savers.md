@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /caernarfon/savers/
-shop: chemist
+shop: Drogerie
 ---

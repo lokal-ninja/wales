@@ -1,5 +1,5 @@
 ---
 title: "Summer Nails"
 url: /blackwood/summer-nails/
-shop: beauty
+shop: Kosmetik
 ---

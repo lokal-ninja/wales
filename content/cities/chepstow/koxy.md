@@ -1,5 +1,5 @@
 ---
 title: "Koxy"
 url: /chepstow/koxy/
-shop: gift
+shop: Andenken
 ---

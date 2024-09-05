@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /rhyl/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

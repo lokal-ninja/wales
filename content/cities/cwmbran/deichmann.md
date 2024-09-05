@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /cwmbran/deichmann/
-shop: shoes
+shop: Schuhe
 ---

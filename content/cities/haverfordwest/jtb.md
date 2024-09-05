@@ -1,5 +1,5 @@
 ---
 title: "JTB"
 url: /haverfordwest/jtb/
-shop: hairdresser
+shop: Friseur
 ---

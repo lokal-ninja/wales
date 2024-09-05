@@ -1,5 +1,5 @@
 ---
 title: "Brodwaith"
 url: /betws-y-coed/brodwaith/
-shop: clothes
+shop: Kleidung
 ---

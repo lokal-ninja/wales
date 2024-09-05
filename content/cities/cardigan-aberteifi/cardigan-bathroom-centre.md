@@ -1,5 +1,5 @@
 ---
 title: "Cardigan Bathroom Centre"
 url: /cardigan-aberteifi/cardigan-bathroom-centre/
-shop: bathroom
+shop: Badezimmer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moving Sounds"
 url: /newport/moving-sounds/
-shop: electrical
+shop: Elektrisch
 ---

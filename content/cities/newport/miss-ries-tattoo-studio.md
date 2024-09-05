@@ -1,5 +1,5 @@
 ---
 title: "Miss Rie's Tattoo Studio"
 url: /newport/miss-ries-tattoo-studio/
-shop: tattoo
+shop: Tattoo
 ---

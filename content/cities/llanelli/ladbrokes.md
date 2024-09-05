@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /llanelli/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

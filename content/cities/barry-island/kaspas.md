@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /barry-island/kaspas/
-shop: confectionery
+shop: Süßwaren
 ---

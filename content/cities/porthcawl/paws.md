@@ -1,5 +1,5 @@
 ---
 title: "Paws"
 url: /porthcawl/paws/
-shop: charity
+shop: Gebrauchtwaren
 ---

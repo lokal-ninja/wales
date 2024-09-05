@@ -1,5 +1,5 @@
 ---
 title: "Petsmartz"
 url: /porthcawl/petsmartz/
-shop: pet
+shop: Tiere
 ---

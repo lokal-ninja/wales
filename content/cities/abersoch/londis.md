@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /abersoch/londis/
-shop: convenience
+shop: Lebensmittel
 ---

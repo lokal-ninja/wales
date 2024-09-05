@@ -1,5 +1,5 @@
 ---
 title: "Easterbrooks"
 url: /bridgend/easterbrooks/
-shop: candles
+shop: Kerzen
 ---

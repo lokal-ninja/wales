@@ -1,5 +1,5 @@
 ---
 title: "Roots Florist"
 url: /ton-pentre/roots-florist/
-shop: florist
+shop: Blumen
 ---

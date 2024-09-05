@@ -1,5 +1,5 @@
 ---
 title: "Ann Summers"
 url: /swansea/ann-summers/
-shop: erotic
+shop: Erotik
 ---

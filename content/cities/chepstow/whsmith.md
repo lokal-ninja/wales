@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /chepstow/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

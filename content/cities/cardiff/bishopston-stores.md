@@ -1,5 +1,5 @@
 ---
 title: "Bishopston Stores"
 url: /cardiff/bishopston-stores/
-shop: convenience
+shop: Lebensmittel
 ---

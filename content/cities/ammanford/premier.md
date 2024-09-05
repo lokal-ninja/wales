@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /ammanford/premier/
-shop: convenience
+shop: Lebensmittel
 ---

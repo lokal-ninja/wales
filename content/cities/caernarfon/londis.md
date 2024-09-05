@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /caernarfon/londis/
-shop: convenience
+shop: Lebensmittel
 ---

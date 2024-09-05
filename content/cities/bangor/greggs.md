@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /bangor/greggs/
-shop: bakery
+shop: Bäckerei
 ---

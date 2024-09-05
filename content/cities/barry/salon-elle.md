@@ -1,5 +1,5 @@
 ---
 title: "Salon Elle"
 url: /barry/salon-elle/
-shop: hairdresser
+shop: Friseur
 ---

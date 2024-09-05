@@ -1,5 +1,5 @@
 ---
 title: "Ananya Thai Massage Treatments"
 url: /cardiff/ananya-thai-massage-treatments/
-shop: massage
+shop: Massage
 ---

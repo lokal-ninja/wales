@@ -1,5 +1,5 @@
 ---
 title: "PDSA"
 url: /newport/pdsa/
-shop: charity
+shop: Gebrauchtwaren
 ---

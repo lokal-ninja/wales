@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /carmarthen/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

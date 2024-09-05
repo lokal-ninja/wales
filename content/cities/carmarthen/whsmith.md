@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /carmarthen/whsmith/
-shop: books
+shop: Bücher
 ---

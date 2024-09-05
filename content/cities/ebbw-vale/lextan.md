@@ -1,5 +1,5 @@
 ---
 title: "Lextan"
 url: /ebbw-vale/lextan/
-shop: beauty
+shop: Kosmetik
 ---

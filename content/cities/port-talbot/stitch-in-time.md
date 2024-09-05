@@ -1,5 +1,5 @@
 ---
 title: "Stitch in Time"
 url: /port-talbot/stitch-in-time/
-shop: tailor
+shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /caernarfon/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

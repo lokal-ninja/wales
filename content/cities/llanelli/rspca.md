@@ -1,5 +1,5 @@
 ---
 title: "RSPCA"
 url: /llanelli/rspca/
-shop: charity
+shop: Gebrauchtwaren
 ---

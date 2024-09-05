@@ -1,5 +1,5 @@
 ---
 title: "Green Fingers"
 url: /denbigh/green-fingers/
-shop: garden centre
+shop: Garten-Center
 ---

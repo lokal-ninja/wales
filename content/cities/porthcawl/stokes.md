@@ -1,5 +1,5 @@
 ---
 title: "Stokes"
 url: /porthcawl/stokes/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /brynmawr/asda/
-shop: supermarket
+shop: Supermarkt
 ---

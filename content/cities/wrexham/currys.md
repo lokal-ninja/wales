@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /wrexham/currys/
-shop: electronics
+shop: Elektronik
 ---

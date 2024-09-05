@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /aberystwyth/specsavers/
-shop: optician
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blacks"
 url: /cardiff/blacks/
-shop: outdoor
+shop: Outdoor
 ---

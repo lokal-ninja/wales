@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /monmouth/ladbrokes/
-shop: bookmaker
+shop: Wettbüro
 ---

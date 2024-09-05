@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /porthmadog/spar/
-shop: convenience
+shop: Lebensmittel
 ---

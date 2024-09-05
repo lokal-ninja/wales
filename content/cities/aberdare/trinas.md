@@ -1,5 +1,5 @@
 ---
 title: "Trina's"
 url: /aberdare/trinas/
-shop: clothes
+shop: Kleidung
 ---

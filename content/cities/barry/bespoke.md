@@ -1,5 +1,5 @@
 ---
 title: "Bespoke"
 url: /barry/bespoke/
-shop: jewelry
+shop: Schmuck
 ---

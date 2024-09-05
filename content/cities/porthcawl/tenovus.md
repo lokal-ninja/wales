@@ -1,5 +1,5 @@
 ---
 title: "Tenovus"
 url: /porthcawl/tenovus/
-shop: charity
+shop: Gebrauchtwaren
 ---

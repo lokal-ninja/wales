@@ -1,5 +1,5 @@
 ---
 title: "Max Spielmann"
 url: /cwmbran/max-spielmann/
-shop: photo
+shop: Foto
 ---

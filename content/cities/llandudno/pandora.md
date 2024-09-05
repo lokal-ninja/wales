@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /llandudno/pandora/
-shop: jewelry
+shop: Schmuck
 ---

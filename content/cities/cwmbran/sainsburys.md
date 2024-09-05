@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /cwmbran/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

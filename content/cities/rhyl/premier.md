@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /rhyl/premier/
-shop: convenience
+shop: Lebensmittel
 ---

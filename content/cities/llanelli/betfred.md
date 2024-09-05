@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /llanelli/betfred/
-shop: bookmaker
+shop: Wettbüro
 ---

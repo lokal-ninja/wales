@@ -1,5 +1,5 @@
 ---
 title: "Rogers and Taylor"
 url: /bow-street/rogers-and-taylor/
-shop: agrarian
+shop: Landwirtschaftlich
 ---

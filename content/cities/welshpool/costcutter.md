@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /welshpool/costcutter/
-shop: convenience
+shop: Lebensmittel
 ---

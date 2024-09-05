@@ -1,5 +1,5 @@
 ---
 title: "Newsbox"
 url: /cardiff/newsbox/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /pontypridd/screwfix/
-shop: doityourself
+shop: Baumarkt
 ---

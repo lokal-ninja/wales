@@ -1,5 +1,5 @@
 ---
 title: "Rivington"
 url: /tywyn/rivington/
-shop: outdoor
+shop: Outdoor
 ---

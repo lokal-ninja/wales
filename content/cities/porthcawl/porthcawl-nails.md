@@ -1,5 +1,5 @@
 ---
 title: "Porthcawl Nails"
 url: /porthcawl/porthcawl-nails/
-shop: beauty
+shop: Kosmetik
 ---

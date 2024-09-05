@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /llanelli/jollyes/
-shop: pet
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "USC"
 url: /wrexham/usc/
-shop: clothes
+shop: Kleidung
 ---

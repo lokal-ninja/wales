@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /rhyl/sainsburys/
-shop: supermarket
+shop: Supermarkt
 ---

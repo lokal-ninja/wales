@@ -1,5 +1,5 @@
 ---
 title: "Haircraft"
 url: /denbigh/haircraft/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /bangor/game/
-shop: video games
+shop: Videospiele
 ---

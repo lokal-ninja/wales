@@ -1,5 +1,5 @@
 ---
 title: "Rokit"
 url: /cardiff/rokit/
-shop: clothes
+shop: Kleidung
 ---

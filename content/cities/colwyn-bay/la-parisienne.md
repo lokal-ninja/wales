@@ -1,5 +1,5 @@
 ---
 title: "La Parisienne"
 url: /colwyn-bay/la-parisienne/
-shop: pastry
+shop: Konditorei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peter Owen Jones Photography"
 url: /llanelli/peter-owen-jones-photography/
-shop: photo
+shop: Foto
 ---

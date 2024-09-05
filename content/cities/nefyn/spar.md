@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /nefyn/spar/
-shop: convenience
+shop: Lebensmittel
 ---

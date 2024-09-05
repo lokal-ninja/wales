@@ -1,5 +1,5 @@
 ---
 title: "The Orchard"
 url: /wrexham/the-orchard/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

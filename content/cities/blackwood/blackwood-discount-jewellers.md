@@ -1,5 +1,5 @@
 ---
 title: "Blackwood Discount Jewellers"
 url: /blackwood/blackwood-discount-jewellers/
-shop: jewelry
+shop: Schmuck
 ---

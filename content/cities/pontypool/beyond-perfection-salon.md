@@ -1,5 +1,5 @@
 ---
 title: "Beyond Perfection Salon"
 url: /pontypool/beyond-perfection-salon/
-shop: hairdresser
+shop: Friseur
 ---

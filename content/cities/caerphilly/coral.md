@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /caerphilly/coral/
-shop: bookmaker
+shop: Wettbüro
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H G Thomas Motors"
 url: /glan-yr-afon/h-g-thomas-motors/
-shop: convenience
+shop: Lebensmittel
 ---

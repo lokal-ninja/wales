@@ -1,5 +1,5 @@
 ---
 title: "Thorntons"
 url: /cardigan-aberteifi/thorntons/
-shop: confectionery
+shop: Süßwaren
 ---

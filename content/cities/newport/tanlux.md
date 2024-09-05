@@ -1,5 +1,5 @@
 ---
 title: "Tanlux"
 url: /newport/tanlux/
-shop: beauty
+shop: Kosmetik
 ---

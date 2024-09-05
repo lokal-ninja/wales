@@ -1,5 +1,5 @@
 ---
 title: "HMV"
 url: /cardiff/hmv/
-shop: music
+shop: Musik
 ---

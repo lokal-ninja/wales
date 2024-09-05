@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /haverfordwest/boots/
-shop: chemist
+shop: Drogerie
 ---

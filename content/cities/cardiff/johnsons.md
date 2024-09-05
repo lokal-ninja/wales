@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /cardiff/johnsons/
-shop: laundry
+shop: Wäscherei
 ---

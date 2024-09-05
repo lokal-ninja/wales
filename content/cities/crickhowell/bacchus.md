@@ -1,5 +1,5 @@
 ---
 title: "Bacchus"
 url: /crickhowell/bacchus/
-shop: alcohol
+shop: Spirituosen
 ---

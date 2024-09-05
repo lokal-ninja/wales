@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /llandudno/premier/
-shop: convenience
+shop: Lebensmittel
 ---

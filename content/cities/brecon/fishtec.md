@@ -1,5 +1,5 @@
 ---
 title: "Fishtec"
 url: /brecon/fishtec/
-shop: fishing
+shop: Angeln
 ---

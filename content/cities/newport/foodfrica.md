@@ -1,5 +1,5 @@
 ---
 title: "Foodfrica"
 url: /newport/foodfrica/
-shop: convenience
+shop: Lebensmittel
 ---

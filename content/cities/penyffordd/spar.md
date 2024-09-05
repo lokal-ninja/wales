@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /penyffordd/spar/
-shop: convenience
+shop: Lebensmittel
 ---

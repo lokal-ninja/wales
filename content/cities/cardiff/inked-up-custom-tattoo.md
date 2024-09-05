@@ -1,5 +1,5 @@
 ---
 title: "Inked Up Custom Tattoo"
 url: /cardiff/inked-up-custom-tattoo/
-shop: tattoo
+shop: Tattoo
 ---

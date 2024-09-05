@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /blackwood/specsavers/
-shop: optician
+shop: Optiker
 ---

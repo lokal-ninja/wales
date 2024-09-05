@@ -1,5 +1,5 @@
 ---
 title: "Pak Butchers"
 url: /cardiff/pak-butchers/
-shop: butcher
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /blackwood/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

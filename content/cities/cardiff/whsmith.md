@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /cardiff/whsmith/
-shop: newsagent
+shop: Zeitungen
 ---

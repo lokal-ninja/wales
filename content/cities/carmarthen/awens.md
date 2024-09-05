@@ -1,5 +1,5 @@
 ---
 title: "Awens"
 url: /carmarthen/awens/
-shop: clothes
+shop: Kleidung
 ---
