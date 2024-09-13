@@ -1,5 +1,5 @@
 ---
 title: "Reaper"
 url: /cardiff/reaper/
-shop: Gewürze
+shop: spices
 ---

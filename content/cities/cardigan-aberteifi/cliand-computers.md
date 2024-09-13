@@ -1,5 +1,5 @@
 ---
 title: "Cliand Computers"
 url: /cardigan-aberteifi/cliand-computers/
-shop: Computer
+shop: computer
 ---

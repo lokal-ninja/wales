@@ -1,5 +1,5 @@
 ---
 title: "John Williams"
 url: /aberbargoed/john-williams/
-shop: Bestattungen
+shop: funeral directors
 ---

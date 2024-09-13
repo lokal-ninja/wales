@@ -1,5 +1,5 @@
 ---
 title: "Carlton"
 url: /caernarfon/carlton/
-shop: Bäckerei
+shop: bakery
 ---

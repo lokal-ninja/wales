@@ -1,5 +1,5 @@
 ---
 title: "Scafftag"
 url: /barry/scafftag/
-shop: Eisenwaren
+shop: hardware
 ---

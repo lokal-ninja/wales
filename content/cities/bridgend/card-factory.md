@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /bridgend/card-factory/
-shop: Andenken
+shop: gift
 ---

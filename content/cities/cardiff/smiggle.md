@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /cardiff/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

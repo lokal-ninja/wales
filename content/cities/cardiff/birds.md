@@ -1,5 +1,5 @@
 ---
 title: "Birds"
 url: /cardiff/birds/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

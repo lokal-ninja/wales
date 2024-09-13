@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
 url: /newport/william-hill-chepstow-road/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Drakes Autos"
 url: /newport/drakes-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

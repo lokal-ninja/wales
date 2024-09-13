@@ -1,5 +1,5 @@
 ---
 title: "Islwyn Evans"
 url: /llanrhystud/islwyn-evans/
-shop: Autohaus
+shop: car
 ---

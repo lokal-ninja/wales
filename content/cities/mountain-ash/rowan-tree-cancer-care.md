@@ -1,5 +1,5 @@
 ---
 title: "Rowan Tree Cancer Care"
 url: /mountain-ash/rowan-tree-cancer-care/
-shop: Gebrauchtwaren
+shop: charity
 ---

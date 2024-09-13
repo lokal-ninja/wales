@@ -1,5 +1,5 @@
 ---
 title: "EV Carpets"
 url: /porthcawl/ev-carpets/
-shop: Teppiche
+shop: carpet
 ---

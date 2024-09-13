@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /monmouth/vision-express/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /abergele/savers/
-shop: Drogerie
+shop: chemist
 ---

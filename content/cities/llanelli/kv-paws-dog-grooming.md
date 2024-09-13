@@ -1,5 +1,5 @@
 ---
 title: "KV Paws Dog Grooming"
 url: /llanelli/kv-paws-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /llanrwst/spar/
-shop: Supermarkt
+shop: supermarket
 ---

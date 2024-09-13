@@ -1,5 +1,5 @@
 ---
 title: "Animal Instinct"
 url: /ton-pentre/animal-instinct/
-shop: Tiere
+shop: pet
 ---

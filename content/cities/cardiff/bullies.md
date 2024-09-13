@@ -1,5 +1,5 @@
 ---
 title: "Bullies"
 url: /cardiff/bullies/
-shop: Friseur
+shop: hairdresser
 ---

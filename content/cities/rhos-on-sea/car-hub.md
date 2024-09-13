@@ -1,5 +1,5 @@
 ---
 title: "Car Hub"
 url: /rhos-on-sea/car-hub/
-shop: Autowerkstatt
+shop: car repair
 ---

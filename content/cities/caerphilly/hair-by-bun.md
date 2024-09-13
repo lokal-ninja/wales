@@ -1,5 +1,5 @@
 ---
 title: "Hair by Bun"
 url: /caerphilly/hair-by-bun/
-shop: Friseur
+shop: hairdresser
 ---

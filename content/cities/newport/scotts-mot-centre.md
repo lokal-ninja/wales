@@ -1,5 +1,5 @@
 ---
 title: "Scott's MOT Centre"
 url: /newport/scotts-mot-centre/
-shop: Autowerkstatt
+shop: car repair
 ---

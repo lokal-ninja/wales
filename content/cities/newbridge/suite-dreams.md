@@ -1,5 +1,5 @@
 ---
 title: "Suite Dreams"
 url: /newbridge/suite-dreams/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /haverfordwest/vodafone/
-shop: Handy
+shop: mobile phone
 ---

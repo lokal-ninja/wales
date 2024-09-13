@@ -1,5 +1,5 @@
 ---
 title: "Brown Bear Games"
 url: /newport/brown-bear-games/
-shop: Spiele
+shop: games
 ---

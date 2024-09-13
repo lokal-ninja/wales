@@ -1,5 +1,5 @@
 ---
 title: "Burdens"
 url: /cardiff/burdens/
-shop: Baustoffe
+shop: trade
 ---

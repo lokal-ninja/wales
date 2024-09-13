@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /llangefni/spar/
-shop: Dorfladen
+shop: general
 ---

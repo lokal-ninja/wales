@@ -1,5 +1,5 @@
 ---
 title: "Bark"
 url: /denbigh/bark/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belle Donne Gallesi"
 url: /barry/belle-donne-gallesi/
-shop: Friseur
+shop: hairdresser
 ---

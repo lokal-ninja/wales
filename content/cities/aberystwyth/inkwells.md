@@ -1,5 +1,5 @@
 ---
 title: "Inkwells"
 url: /aberystwyth/inkwells/
-shop: Basteln
+shop: craft
 ---

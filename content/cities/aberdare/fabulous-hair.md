@@ -1,5 +1,5 @@
 ---
 title: "Fabulous Hair"
 url: /aberdare/fabulous-hair/
-shop: Friseur
+shop: hairdresser
 ---

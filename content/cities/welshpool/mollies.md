@@ -1,5 +1,5 @@
 ---
 title: "Mollie's"
 url: /welshpool/mollies/
-shop: Süßwaren
+shop: confectionery
 ---

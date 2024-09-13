@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /cardiff/tesco-express-maes-y-coed-road/
-shop: Lebensmittel
+shop: convenience
 ---

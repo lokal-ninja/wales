@@ -1,5 +1,5 @@
 ---
 title: "Becws Islyn Bakery"
 url: /aberdaron/becws-islyn-bakery/
-shop: Bäckerei
+shop: bakery
 ---

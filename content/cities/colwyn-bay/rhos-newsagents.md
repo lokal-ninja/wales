@@ -1,5 +1,5 @@
 ---
 title: "Rhos Newsagents"
 url: /colwyn-bay/rhos-newsagents/
-shop: Zeitungen
+shop: newsagent
 ---

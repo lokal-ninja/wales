@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /brynmawr/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

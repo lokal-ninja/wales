@@ -1,5 +1,5 @@
 ---
 title: "Beer Buster"
 url: /newport/beer-buster/
-shop: Lebensmittel
+shop: convenience
 ---

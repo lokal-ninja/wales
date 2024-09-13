@@ -1,5 +1,5 @@
 ---
 title: "Beauty Therapy Clinic"
 url: /newport/beauty-therapy-clinic/
-shop: Kosmetik
+shop: beauty
 ---

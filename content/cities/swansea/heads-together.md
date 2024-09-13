@@ -1,5 +1,5 @@
 ---
 title: "Heads Together"
 url: /swansea/heads-together/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miss Holmes"
 url: /barry/miss-holmes/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baravelli's"
 url: /conwy/baravellis/
-shop: Schokolade
+shop: chocolate
 ---

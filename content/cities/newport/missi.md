@@ -1,5 +1,5 @@
 ---
 title: "Missi"
 url: /newport/missi/
-shop: Kleidung
+shop: clothes
 ---

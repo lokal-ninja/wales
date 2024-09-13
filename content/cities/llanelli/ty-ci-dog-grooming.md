@@ -1,5 +1,5 @@
 ---
 title: "Tŷ Ci Dog Grooming"
 url: /llanelli/ty-ci-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Magee"
 url: /carmarthen/magee/
-shop: Kleidung
+shop: clothes
 ---

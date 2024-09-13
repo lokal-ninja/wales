@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /wrexham/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

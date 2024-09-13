@@ -1,5 +1,5 @@
 ---
 title: "Andrew Michael"
 url: /cardiff/andrew-michael/
-shop: Friseur
+shop: hairdresser
 ---

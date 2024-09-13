@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /pwllheli/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

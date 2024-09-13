@@ -1,5 +1,5 @@
 ---
 title: "E-clipz"
 url: /denbigh/e-clipz/
-shop: Friseur
+shop: hairdresser
 ---

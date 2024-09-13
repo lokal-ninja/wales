@@ -1,5 +1,5 @@
 ---
 title: "Steve’s Baits"
 url: /newport/steves-baits/
-shop: Angeln
+shop: fishing
 ---

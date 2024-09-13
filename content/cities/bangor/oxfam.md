@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
 url: /bangor/oxfam/
-shop: Leerstehend
+shop: vacant
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Londis"
 url: /ruabon/londis/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beau Belle"
 url: /newport/beau-belle/
-shop: Kosmetik
+shop: beauty
 ---

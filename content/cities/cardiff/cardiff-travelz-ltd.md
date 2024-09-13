@@ -1,5 +1,5 @@
 ---
 title: "Cardiff Travelz Ltd"
 url: /cardiff/cardiff-travelz-ltd/
-shop: Reisebüro
+shop: travel agency
 ---

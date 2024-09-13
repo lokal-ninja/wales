@@ -1,5 +1,5 @@
 ---
 title: "Becws Alun"
 url: /penmaenmawr/becws-alun/
-shop: Bäckerei
+shop: bakery
 ---

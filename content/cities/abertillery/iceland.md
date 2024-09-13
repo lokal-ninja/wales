@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /abertillery/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

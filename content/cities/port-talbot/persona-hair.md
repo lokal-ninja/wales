@@ -1,5 +1,5 @@
 ---
 title: "Persona Hair"
 url: /port-talbot/persona-hair/
-shop: Friseur
+shop: hairdresser
 ---

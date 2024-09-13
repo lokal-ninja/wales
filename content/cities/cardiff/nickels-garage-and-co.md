@@ -1,5 +1,5 @@
 ---
 title: "Nickel's Garage and Co."
 url: /cardiff/nickels-garage-and-co/
-shop: Autowerkstatt
+shop: car repair
 ---

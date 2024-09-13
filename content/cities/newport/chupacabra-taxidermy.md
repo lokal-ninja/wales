@@ -1,5 +1,5 @@
 ---
 title: "Chupacabra Taxidermy"
 url: /newport/chupacabra-taxidermy/
-shop: Andenken
+shop: gift
 ---

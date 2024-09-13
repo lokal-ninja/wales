@@ -1,5 +1,5 @@
 ---
 title: "GSF Car Parts"
 url: /cardiff/gsf-car-parts/
-shop: Autoteile
+shop: car parts
 ---

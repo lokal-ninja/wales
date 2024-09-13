@@ -1,5 +1,5 @@
 ---
 title: "Madoc Books"
 url: /llandudno/madoc-books/
-shop: Bücher
+shop: books
 ---

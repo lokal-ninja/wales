@@ -1,5 +1,5 @@
 ---
 title: "Dylan's"
 url: /haverfordwest/dylans/
-shop: Allgemein
+shop: shop
 ---

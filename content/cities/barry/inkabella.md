@@ -1,5 +1,5 @@
 ---
 title: "Inkabella"
 url: /barry/inkabella/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /rhyl/select/
-shop: Kleidung
+shop: clothes
 ---

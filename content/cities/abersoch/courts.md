@@ -1,5 +1,5 @@
 ---
 title: "Court’s"
 url: /abersoch/courts/
-shop: Zeitungen
+shop: newsagent
 ---

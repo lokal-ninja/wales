@@ -1,5 +1,5 @@
 ---
 title: "Hair Storm"
 url: /saundersfoot/hair-storm/
-shop: Friseur
+shop: hairdresser
 ---

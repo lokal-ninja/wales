@@ -1,5 +1,5 @@
 ---
 title: "Kitty's Imaginarium"
 url: /porthcawl/kittys-imaginarium/
-shop: Andenken
+shop: gift
 ---

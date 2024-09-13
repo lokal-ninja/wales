@@ -1,5 +1,5 @@
 ---
 title: "ATS Tyres"
 url: /newport/ats-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

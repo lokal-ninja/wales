@@ -1,5 +1,5 @@
 ---
 title: "Carrot Cruncher"
 url: /castell-newydd-emlyn-newcastle-emlyn/carrot-cruncher/
-shop: Gemüse & Obst
+shop: greengrocer
 ---

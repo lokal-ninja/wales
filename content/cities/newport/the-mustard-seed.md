@@ -1,5 +1,5 @@
 ---
 title: "The Mustard Seed"
 url: /newport/the-mustard-seed/
-shop: Süßwaren
+shop: confectionery
 ---

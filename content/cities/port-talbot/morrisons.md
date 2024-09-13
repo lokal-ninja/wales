@@ -1,5 +1,5 @@
 ---
 title: "Morrisons"
 url: /port-talbot/morrisons/
-shop: Supermarkt
+shop: supermarket
 ---

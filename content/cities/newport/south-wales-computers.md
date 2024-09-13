@@ -1,5 +1,5 @@
 ---
 title: "South Wales Computers"
 url: /newport/south-wales-computers/
-shop: Computer
+shop: computer
 ---

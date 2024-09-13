@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /barry/premier/
-shop: Lebensmittel
+shop: convenience
 ---

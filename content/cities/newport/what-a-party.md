@@ -1,5 +1,5 @@
 ---
 title: "What A Party"
 url: /newport/what-a-party/
-shop: Partyzubehör
+shop: party
 ---

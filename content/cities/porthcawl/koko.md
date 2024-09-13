@@ -1,5 +1,5 @@
 ---
 title: "Koko"
 url: /porthcawl/koko/
-shop: Schmuck
+shop: jewelry
 ---

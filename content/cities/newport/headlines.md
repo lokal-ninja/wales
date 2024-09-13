@@ -1,5 +1,5 @@
 ---
 title: "Headlines"
 url: /newport/headlines/
-shop: Friseur
+shop: hairdresser
 ---

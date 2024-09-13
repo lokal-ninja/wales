@@ -1,5 +1,5 @@
 ---
 title: "Cancer Research UK"
 url: /cardiff/cancer-research-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

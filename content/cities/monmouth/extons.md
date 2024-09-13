@@ -1,5 +1,5 @@
 ---
 title: "Extons"
 url: /monmouth/extons/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /llanelli/vodafone/
-shop: Handy
+shop: mobile phone
 ---

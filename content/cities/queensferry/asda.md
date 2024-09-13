@@ -1,5 +1,5 @@
 ---
 title: "Asda"
 url: /queensferry/asda/
-shop: Supermarkt
+shop: supermarket
 ---

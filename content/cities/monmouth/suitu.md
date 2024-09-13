@@ -1,5 +1,5 @@
 ---
 title: "SuitU"
 url: /monmouth/suitu/
-shop: Kleidung
+shop: clothes
 ---

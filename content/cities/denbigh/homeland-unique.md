@@ -1,5 +1,5 @@
 ---
 title: "Homeland Unique"
 url: /denbigh/homeland-unique/
-shop: Gebrauchtwaren
+shop: charity
 ---

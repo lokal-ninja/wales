@@ -1,5 +1,5 @@
 ---
 title: "Brow Room"
 url: /newport/brow-room/
-shop: Kosmetik
+shop: beauty
 ---

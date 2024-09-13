@@ -1,5 +1,5 @@
 ---
 title: "Naturally Perfect"
 url: /penparc/naturally-perfect/
-shop: Kosmetik
+shop: beauty
 ---

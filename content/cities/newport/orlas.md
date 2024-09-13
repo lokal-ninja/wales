@@ -1,5 +1,5 @@
 ---
 title: "Orla's"
 url: /newport/orlas/
-shop: Konditorei
+shop: pastry
 ---

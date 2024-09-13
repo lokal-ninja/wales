@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
 url: /cardiff/tesco-express-delta-street/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Allsta Motors"
 url: /barry/allsta-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

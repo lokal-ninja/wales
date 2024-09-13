@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /barry/peacocks/
-shop: Kleidung
+shop: clothes
 ---

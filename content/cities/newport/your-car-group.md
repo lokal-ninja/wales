@@ -1,5 +1,5 @@
 ---
 title: "Your Car Group"
 url: /newport/your-car-group/
-shop: Autohaus
+shop: car
 ---

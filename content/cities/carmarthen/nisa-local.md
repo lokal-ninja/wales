@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /carmarthen/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /mold/poundland/
-shop: Kramladen
+shop: variety store
 ---

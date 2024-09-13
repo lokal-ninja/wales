@@ -1,5 +1,5 @@
 ---
 title: "Thoughts"
 url: /newport/thoughts/
-shop: Andenken
+shop: gift
 ---

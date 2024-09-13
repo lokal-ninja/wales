@@ -1,5 +1,5 @@
 ---
 title: "Tyddyn Teg Farm"
 url: /caernarfon/tyddyn-teg-farm/
-shop: Hofladen
+shop: farm
 ---

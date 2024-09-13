@@ -1,5 +1,5 @@
 ---
 title: "Pound Stop"
 url: /merthyr-tydfil/pound-stop/
-shop: Allgemein
+shop: shop
 ---

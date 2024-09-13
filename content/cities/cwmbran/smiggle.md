@@ -1,5 +1,5 @@
 ---
 title: "Smiggle"
 url: /cwmbran/smiggle/
-shop: Schreibwaren
+shop: office supplies
 ---

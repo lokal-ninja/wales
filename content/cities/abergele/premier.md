@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /abergele/premier/
-shop: Lebensmittel
+shop: convenience
 ---

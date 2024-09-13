@@ -1,5 +1,5 @@
 ---
 title: "Serenity Beauty Salon"
 url: /trethomas/serenity-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

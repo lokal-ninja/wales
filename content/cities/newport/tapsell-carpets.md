@@ -1,5 +1,5 @@
 ---
 title: "Tapsell Carpets"
 url: /newport/tapsell-carpets/
-shop: Teppiche
+shop: carpet
 ---

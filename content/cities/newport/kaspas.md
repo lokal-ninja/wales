@@ -1,5 +1,5 @@
 ---
 title: "Kaspa's"
 url: /newport/kaspas/
-shop: Süßwaren
+shop: confectionery
 ---

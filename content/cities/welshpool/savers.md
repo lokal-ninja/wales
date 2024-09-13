@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /welshpool/savers/
-shop: Drogerie
+shop: chemist
 ---

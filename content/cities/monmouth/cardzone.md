@@ -1,5 +1,5 @@
 ---
 title: "Cardzone"
 url: /monmouth/cardzone/
-shop: Andenken
+shop: gift
 ---

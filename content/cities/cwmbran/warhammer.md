@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /cwmbran/warhammer/
-shop: Spiele
+shop: games
 ---

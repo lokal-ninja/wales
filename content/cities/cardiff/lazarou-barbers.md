@@ -1,5 +1,5 @@
 ---
 title: "Lazarou Barbers"
 url: /cardiff/lazarou-barbers/
-shop: Friseur
+shop: hairdresser
 ---

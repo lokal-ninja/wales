@@ -1,5 +1,5 @@
 ---
 title: "Primark"
 url: /llanelli/primark/
-shop: Kleidung
+shop: clothes
 ---

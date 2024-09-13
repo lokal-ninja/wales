@@ -1,5 +1,5 @@
 ---
 title: "Roman"
 url: /cwmbran/roman/
-shop: Kleidung
+shop: clothes
 ---

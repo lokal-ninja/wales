@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /wrexham/pandora/
-shop: Schmuck
+shop: jewelry
 ---

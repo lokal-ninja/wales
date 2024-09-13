@@ -1,5 +1,5 @@
 ---
 title: "Sports Direct"
 url: /cardiff/sports-direct-leckwith-road/
-shop: Sport
+shop: sports
 ---

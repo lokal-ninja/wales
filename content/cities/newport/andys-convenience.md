@@ -1,5 +1,5 @@
 ---
 title: "Andy's Convenience"
 url: /newport/andys-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

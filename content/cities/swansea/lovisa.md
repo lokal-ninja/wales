@@ -1,5 +1,5 @@
 ---
 title: "Lovisa"
 url: /swansea/lovisa/
-shop: Schmuck
+shop: jewelry
 ---

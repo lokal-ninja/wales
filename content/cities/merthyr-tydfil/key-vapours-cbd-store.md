@@ -1,5 +1,5 @@
 ---
 title: "Key Vapours CBD Store"
 url: /merthyr-tydfil/key-vapours-cbd-store/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

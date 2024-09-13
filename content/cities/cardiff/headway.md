@@ -1,5 +1,5 @@
 ---
 title: "Headway"
 url: /cardiff/headway/
-shop: Friseur
+shop: hairdresser
 ---

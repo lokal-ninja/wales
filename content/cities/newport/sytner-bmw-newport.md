@@ -1,5 +1,5 @@
 ---
 title: "Sytner BMW Newport"
 url: /newport/sytner-bmw-newport/
-shop: Autohaus
+shop: car
 ---

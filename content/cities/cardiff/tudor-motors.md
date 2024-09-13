@@ -1,5 +1,5 @@
 ---
 title: "Tudor Motors"
 url: /cardiff/tudor-motors/
-shop: Lebensmittel
+shop: convenience
 ---

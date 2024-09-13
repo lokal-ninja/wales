@@ -1,5 +1,5 @@
 ---
 title: "Bliss"
 url: /blackwood/bliss/
-shop: Kosmetik
+shop: beauty
 ---

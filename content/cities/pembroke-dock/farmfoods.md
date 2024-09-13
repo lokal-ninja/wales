@@ -1,5 +1,5 @@
 ---
 title: "Farmfoods"
 url: /pembroke-dock/farmfoods/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roe Motor Repairs"
 url: /newport/roe-motor-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

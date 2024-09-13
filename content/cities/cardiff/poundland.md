@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /cardiff/poundland/
-shop: Kramladen
+shop: variety store
 ---

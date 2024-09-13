@@ -1,5 +1,5 @@
 ---
 title: "Huws Gray"
 url: /mochdre/huws-gray/
-shop: Baustoffe
+shop: trade
 ---

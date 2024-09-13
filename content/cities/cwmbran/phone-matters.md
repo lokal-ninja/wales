@@ -1,5 +1,5 @@
 ---
 title: "Phone Matters"
 url: /cwmbran/phone-matters/
-shop: Handy
+shop: mobile phone
 ---

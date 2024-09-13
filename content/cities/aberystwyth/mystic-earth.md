@@ -1,5 +1,5 @@
 ---
 title: "Mystic Earth"
 url: /aberystwyth/mystic-earth/
-shop: Esoterik
+shop: esoteric
 ---

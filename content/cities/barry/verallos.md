@@ -1,5 +1,5 @@
 ---
 title: "Verallo's"
 url: /barry/verallos/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peter Morgan"
 url: /bridgend/peter-morgan/
-shop: Immobilien
+shop: estate agent
 ---

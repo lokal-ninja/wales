@@ -1,5 +1,5 @@
 ---
 title: "Pout Pod Aesthetics"
 url: /newport/pout-pod-aesthetics/
-shop: Kosmetik
+shop: beauty
 ---

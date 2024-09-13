@@ -1,5 +1,5 @@
 ---
 title: "Ebenezer Chapel"
 url: /llanelli/ebenezer-chapel/
-shop: Antiquitäten
+shop: antiques
 ---

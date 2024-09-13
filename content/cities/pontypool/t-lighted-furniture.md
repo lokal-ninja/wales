@@ -1,5 +1,5 @@
 ---
 title: "T-Lighted Furniture"
 url: /pontypool/t-lighted-furniture/
-shop: Möbel
+shop: furniture
 ---

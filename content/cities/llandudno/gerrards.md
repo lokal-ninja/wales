@@ -1,5 +1,5 @@
 ---
 title: "Gerrards"
 url: /llandudno/gerrards/
-shop: Bäckerei
+shop: bakery
 ---

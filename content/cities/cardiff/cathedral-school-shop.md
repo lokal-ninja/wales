@@ -1,5 +1,5 @@
 ---
 title: "Cathedral School Shop"
 url: /cardiff/cathedral-school-shop/
-shop: Allgemein
+shop: shop
 ---

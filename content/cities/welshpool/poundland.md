@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /welshpool/poundland/
-shop: Kramladen
+shop: variety store
 ---

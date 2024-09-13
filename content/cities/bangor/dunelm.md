@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /bangor/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

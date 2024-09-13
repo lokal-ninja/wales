@@ -1,5 +1,5 @@
 ---
 title: "New Look"
 url: /cwmbran/new-look/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "W.T Motors"
 url: /bargoed/w-t-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

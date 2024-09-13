@@ -1,5 +1,5 @@
 ---
 title: "South Wales Echo"
 url: /barry/south-wales-echo/
-shop: Zeitungen
+shop: newsagent
 ---

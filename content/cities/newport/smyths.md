@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /newport/smyths/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Royal Barbers"
 url: /newport/royal-barbers/
-shop: Friseur
+shop: hairdresser
 ---

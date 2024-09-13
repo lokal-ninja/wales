@@ -1,5 +1,5 @@
 ---
 title: "All About You"
 url: /barry/all-about-you/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jewson"
 url: /aberdare/jewson/
-shop: Baustoffe
+shop: trade
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /cardiff/aldi-newport-road/
-shop: Supermarkt
+shop: supermarket
 ---

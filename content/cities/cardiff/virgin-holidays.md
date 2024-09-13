@@ -1,5 +1,5 @@
 ---
 title: "Virgin Holidays"
 url: /cardiff/virgin-holidays/
-shop: Reisebüro
+shop: travel agency
 ---

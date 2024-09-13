@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /rhyl/game/
-shop: Videospiele
+shop: video games
 ---

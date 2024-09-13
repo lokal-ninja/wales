@@ -1,5 +1,5 @@
 ---
 title: "Tremorfa Superstore"
 url: /cardiff/tremorfa-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

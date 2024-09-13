@@ -1,5 +1,5 @@
 ---
 title: "Pen-y-Bryn Autos"
 url: /denbigh/pen-y-bryn-autos/
-shop: Autowerkstatt
+shop: car repair
 ---

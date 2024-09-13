@@ -1,5 +1,5 @@
 ---
 title: "Nu Dub South Wales"
 url: /newport/nu-dub-south-wales/
-shop: Autowerkstatt
+shop: car repair
 ---

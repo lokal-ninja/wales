@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /cardigan-aberteifi/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decoridea"
 url: /newport/decoridea/
-shop: Raumausstattung
+shop: interior decoration
 ---

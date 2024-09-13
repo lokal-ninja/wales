@@ -1,5 +1,5 @@
 ---
 title: "VPZ"
 url: /newport/vpz/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

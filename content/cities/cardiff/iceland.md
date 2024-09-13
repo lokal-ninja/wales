@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /cardiff/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

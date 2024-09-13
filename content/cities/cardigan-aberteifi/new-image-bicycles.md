@@ -1,5 +1,5 @@
 ---
 title: "New Image Bicycles"
 url: /cardigan-aberteifi/new-image-bicycles/
-shop: Fahrrad
+shop: bicycle
 ---

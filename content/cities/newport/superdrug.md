@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /newport/superdrug/
-shop: Drogerie
+shop: chemist
 ---

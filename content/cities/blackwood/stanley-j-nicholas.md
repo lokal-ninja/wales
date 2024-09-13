@@ -1,5 +1,5 @@
 ---
 title: "Stanley J Nicholas"
 url: /blackwood/stanley-j-nicholas/
-shop: Bestattungen
+shop: funeral directors
 ---

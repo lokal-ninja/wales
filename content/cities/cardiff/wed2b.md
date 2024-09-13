@@ -1,5 +1,5 @@
 ---
 title: "WED2B"
 url: /cardiff/wed2b/
-shop: Kleidung
+shop: clothes
 ---

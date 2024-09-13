@@ -1,5 +1,5 @@
 ---
 title: "Timpson"
 url: /monmouth/timpson/
-shop: Schuhe
+shop: shoes
 ---

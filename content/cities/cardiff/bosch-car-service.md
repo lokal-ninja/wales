@@ -1,5 +1,5 @@
 ---
 title: "Bosch Car Service"
 url: /cardiff/bosch-car-service/
-shop: Autowerkstatt
+shop: car repair
 ---

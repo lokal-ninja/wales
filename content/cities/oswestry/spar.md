@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /oswestry/spar/
-shop: Lebensmittel
+shop: convenience
 ---

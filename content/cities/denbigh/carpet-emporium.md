@@ -1,5 +1,5 @@
 ---
 title: "Carpet Emporium"
 url: /denbigh/carpet-emporium/
-shop: Teppiche
+shop: carpet
 ---

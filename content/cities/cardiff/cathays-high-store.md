@@ -1,5 +1,5 @@
 ---
 title: "Cathays High Store"
 url: /cardiff/cathays-high-store/
-shop: Kleidung
+shop: clothes
 ---

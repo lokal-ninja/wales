@@ -1,5 +1,5 @@
 ---
 title: "The Borough Arms"
 url: /barry/the-borough-arms/
-shop: Leerstehend
+shop: vacant
 ---

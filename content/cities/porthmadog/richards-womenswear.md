@@ -1,5 +1,5 @@
 ---
 title: "Richards Womenswear"
 url: /porthmadog/richards-womenswear/
-shop: Kleidung
+shop: clothes
 ---

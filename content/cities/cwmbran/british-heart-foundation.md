@@ -1,5 +1,5 @@
 ---
 title: "British Heart Foundation"
 url: /cwmbran/british-heart-foundation/
-shop: Gebrauchtwaren
+shop: charity
 ---

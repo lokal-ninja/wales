@@ -1,5 +1,5 @@
 ---
 title: "Jeff's Jewellers"
 url: /porthcawl/jeffs-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

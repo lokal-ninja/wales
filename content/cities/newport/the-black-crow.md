@@ -1,5 +1,5 @@
 ---
 title: "The Black Crow"
 url: /newport/the-black-crow/
-shop: Tattoo
+shop: tattoo
 ---

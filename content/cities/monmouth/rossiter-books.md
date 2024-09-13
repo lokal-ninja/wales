@@ -1,5 +1,5 @@
 ---
 title: "Rossiter Books"
 url: /monmouth/rossiter-books/
-shop: Bücher
+shop: books
 ---

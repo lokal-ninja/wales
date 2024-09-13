@@ -1,5 +1,5 @@
 ---
 title: "Rejuva"
 url: /rhyl/rejuva/
-shop: Kosmetik
+shop: beauty
 ---

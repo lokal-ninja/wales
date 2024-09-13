@@ -1,5 +1,5 @@
 ---
 title: "Windsor Jewellers"
 url: /aberdare/windsor-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

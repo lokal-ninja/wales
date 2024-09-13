@@ -1,5 +1,5 @@
 ---
 title: "Radyr Garage Ltd"
 url: /cardiff/radyr-garage-ltd/
-shop: Autowerkstatt
+shop: car repair
 ---

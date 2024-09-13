@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /porthmadog/savers/
-shop: Drogerie
+shop: chemist
 ---

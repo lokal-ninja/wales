@@ -1,5 +1,5 @@
 ---
 title: "Abrahams And Family"
 url: /swansea/abrahams-and-family/
-shop: Feinkost
+shop: deli
 ---

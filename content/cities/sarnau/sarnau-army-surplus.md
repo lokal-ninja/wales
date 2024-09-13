@@ -1,5 +1,5 @@
 ---
 title: "Sarnau Army Surplus"
 url: /sarnau/sarnau-army-surplus/
-shop: Militär
+shop: military
 ---

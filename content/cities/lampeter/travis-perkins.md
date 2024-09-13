@@ -1,5 +1,5 @@
 ---
 title: "Travis Perkins"
 url: /lampeter/travis-perkins/
-shop: Allgemein
+shop: shop
 ---

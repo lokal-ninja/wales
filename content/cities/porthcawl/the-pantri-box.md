@@ -1,5 +1,5 @@
 ---
 title: "The Pantri Box"
 url: /porthcawl/the-pantri-box/
-shop: Allgemein
+shop: shop
 ---

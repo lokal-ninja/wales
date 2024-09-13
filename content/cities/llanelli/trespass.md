@@ -1,5 +1,5 @@
 ---
 title: "Trespass"
 url: /llanelli/trespass/
-shop: Outdoor
+shop: outdoor
 ---

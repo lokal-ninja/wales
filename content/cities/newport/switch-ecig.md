@@ -1,5 +1,5 @@
 ---
 title: "Switch Ecig"
 url: /newport/switch-ecig/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

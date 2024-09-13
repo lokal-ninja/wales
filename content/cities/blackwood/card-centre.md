@@ -1,5 +1,5 @@
 ---
 title: "Card Centre"
 url: /blackwood/card-centre/
-shop: Andenken
+shop: gift
 ---

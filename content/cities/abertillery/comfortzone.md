@@ -1,5 +1,5 @@
 ---
 title: "ComfortZone"
 url: /abertillery/comfortzone/
-shop: Möbel
+shop: furniture
 ---

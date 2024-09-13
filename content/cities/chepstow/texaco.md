@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /chepstow/texaco/
-shop: Allgemein
+shop: shop
 ---

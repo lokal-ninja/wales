@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /porthcawl/poundland/
-shop: Kramladen
+shop: variety store
 ---

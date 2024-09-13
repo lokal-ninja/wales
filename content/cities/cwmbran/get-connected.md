@@ -1,5 +1,5 @@
 ---
 title: "Get Connected"
 url: /cwmbran/get-connected/
-shop: Handy
+shop: mobile phone
 ---

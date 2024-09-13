@@ -1,5 +1,5 @@
 ---
 title: "Boots"
 url: /abertillery/boots/
-shop: Drogerie
+shop: chemist
 ---

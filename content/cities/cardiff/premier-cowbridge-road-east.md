@@ -1,5 +1,5 @@
 ---
 title: "Premier"
 url: /cardiff/premier-cowbridge-road-east/
-shop: Lebensmittel
+shop: convenience
 ---

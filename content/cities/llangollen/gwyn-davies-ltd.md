@@ -1,5 +1,5 @@
 ---
 title: "Gwyn Davies Ltd"
 url: /llangollen/gwyn-davies-ltd/
-shop: Metzgerei
+shop: butcher
 ---

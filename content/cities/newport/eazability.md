@@ -1,5 +1,5 @@
 ---
 title: "Eazability"
 url: /newport/eazability/
-shop: Haushaltsgeräte
+shop: appliance
 ---

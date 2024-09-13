@@ -1,5 +1,5 @@
 ---
 title: "Bowshers Garage"
 url: /cardiff/bowshers-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

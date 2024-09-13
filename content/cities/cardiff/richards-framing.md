@@ -1,5 +1,5 @@
 ---
 title: "Richard's Framing"
 url: /cardiff/richards-framing/
-shop: Rahmen
+shop: frame
 ---

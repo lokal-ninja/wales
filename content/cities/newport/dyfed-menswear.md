@@ -1,5 +1,5 @@
 ---
 title: "Dyfed Menswear"
 url: /newport/dyfed-menswear/
-shop: Kleidung
+shop: clothes
 ---

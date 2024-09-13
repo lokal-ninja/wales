@@ -1,5 +1,5 @@
 ---
 title: "Cards in the City"
 url: /cardiff/cards-in-the-city/
-shop: Schreibwaren
+shop: office supplies
 ---

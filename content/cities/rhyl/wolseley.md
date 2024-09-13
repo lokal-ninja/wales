@@ -1,5 +1,5 @@
 ---
 title: "Wolseley"
 url: /rhyl/wolseley/
-shop: Baustoffe
+shop: trade
 ---

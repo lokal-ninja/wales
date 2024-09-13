@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /newport/game/
-shop: Videospiele
+shop: video games
 ---

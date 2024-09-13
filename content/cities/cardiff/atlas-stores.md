@@ -1,5 +1,5 @@
 ---
 title: "Atlas Stores"
 url: /cardiff/atlas-stores/
-shop: Lebensmittel
+shop: convenience
 ---

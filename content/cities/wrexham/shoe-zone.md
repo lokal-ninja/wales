@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /wrexham/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

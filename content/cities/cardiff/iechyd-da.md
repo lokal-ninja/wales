@@ -1,5 +1,5 @@
 ---
 title: "Iechyd Da"
 url: /cardiff/iechyd-da/
-shop: Bioladen
+shop: health food
 ---

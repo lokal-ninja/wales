@@ -1,5 +1,5 @@
 ---
 title: "The Dispensary"
 url: /cwmbran/the-dispensary/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

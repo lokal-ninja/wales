@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /haverfordwest/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

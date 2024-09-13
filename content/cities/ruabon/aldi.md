@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ruabon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

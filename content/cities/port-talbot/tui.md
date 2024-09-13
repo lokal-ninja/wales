@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /port-talbot/tui/
-shop: Reisebüro
+shop: travel agency
 ---

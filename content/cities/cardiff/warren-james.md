@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /cardiff/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

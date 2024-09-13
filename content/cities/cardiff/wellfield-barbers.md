@@ -1,5 +1,5 @@
 ---
 title: "Wellfield Barbers"
 url: /cardiff/wellfield-barbers/
-shop: Friseur
+shop: hairdresser
 ---

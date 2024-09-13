@@ -1,5 +1,5 @@
 ---
 title: "Walls Truck Services"
 url: /newport/walls-truck-services/
-shop: Autowerkstatt
+shop: car repair
 ---

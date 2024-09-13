@@ -1,5 +1,5 @@
 ---
 title: "Becketts Auto Services"
 url: /cwmbran/becketts-auto-services/
-shop: Autowerkstatt
+shop: car repair
 ---

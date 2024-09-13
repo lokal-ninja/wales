@@ -1,5 +1,5 @@
 ---
 title: "Phoenix Community Furniture Scheme"
 url: /newtown/phoenix-community-furniture-scheme/
-shop: Möbel
+shop: furniture
 ---

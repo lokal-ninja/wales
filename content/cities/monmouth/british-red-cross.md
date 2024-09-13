@@ -1,5 +1,5 @@
 ---
 title: "British Red Cross"
 url: /monmouth/british-red-cross/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goldsmiths"
 url: /cardiff/goldsmiths/
-shop: Schmuck
+shop: jewelry
 ---

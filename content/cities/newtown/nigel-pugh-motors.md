@@ -1,5 +1,5 @@
 ---
 title: "Nigel Pugh Motors"
 url: /newtown/nigel-pugh-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

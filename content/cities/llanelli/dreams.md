@@ -1,5 +1,5 @@
 ---
 title: "Dreams"
 url: /llanelli/dreams/
-shop: Betten
+shop: bed
 ---

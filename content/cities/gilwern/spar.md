@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /gilwern/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ridhi's Beauty"
 url: /cardiff/ridhis-beauty/
-shop: Kosmetik
+shop: beauty
 ---

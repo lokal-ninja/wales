@@ -1,5 +1,5 @@
 ---
 title: "Postbox"
 url: /aberdare/postbox/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cazanofa Tailor Sewing Services"
 url: /newport/cazanofa-tailor-sewing-services/
-shop: Schneiderei
+shop: tailor
 ---

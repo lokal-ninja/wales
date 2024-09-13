@@ -1,5 +1,5 @@
 ---
 title: "The Italian Job"
 url: /newport/the-italian-job/
-shop: Spirituosen
+shop: alcohol
 ---

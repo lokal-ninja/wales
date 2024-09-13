@@ -1,5 +1,5 @@
 ---
 title: "Olawa Wrexham Bakeshop"
 url: /wrexham/olawa-wrexham-bakeshop/
-shop: Bäckerei
+shop: bakery
 ---

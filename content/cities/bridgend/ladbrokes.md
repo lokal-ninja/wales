@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /bridgend/ladbrokes/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Teifi Valley Shooting Supplies"
 url: /llechryd/teifi-valley-shooting-supplies/
-shop: Waffen
+shop: weapons
 ---

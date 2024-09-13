@@ -1,5 +1,5 @@
 ---
 title: "Coral"
 url: /llanelli/coral/
-shop: Wettbüro
+shop: bookmaker
 ---

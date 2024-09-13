@@ -1,5 +1,5 @@
 ---
 title: "Guy's Barber Shop"
 url: /newport/guys-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

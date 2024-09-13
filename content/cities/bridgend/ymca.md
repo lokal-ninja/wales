@@ -1,5 +1,5 @@
 ---
 title: "YMCA"
 url: /bridgend/ymca/
-shop: Gebrauchtwaren
+shop: charity
 ---

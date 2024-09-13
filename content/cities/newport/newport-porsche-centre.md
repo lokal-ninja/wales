@@ -1,5 +1,5 @@
 ---
 title: "Newport Porsche Centre"
 url: /newport/newport-porsche-centre/
-shop: Autohaus
+shop: car
 ---

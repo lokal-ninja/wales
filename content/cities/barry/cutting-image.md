@@ -1,5 +1,5 @@
 ---
 title: "Cutting Image"
 url: /barry/cutting-image/
-shop: Friseur
+shop: hairdresser
 ---

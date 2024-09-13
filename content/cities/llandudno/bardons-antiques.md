@@ -1,5 +1,5 @@
 ---
 title: "Bardons Antiques"
 url: /llandudno/bardons-antiques/
-shop: Antiquitäten
+shop: antiques
 ---

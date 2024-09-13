@@ -1,5 +1,5 @@
 ---
 title: "Rob Santwris Carpets"
 url: /newport/rob-santwris-carpets/
-shop: Teppiche
+shop: carpet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OneBeyond"
 url: /cardiff/onebeyond/
-shop: Kramladen
+shop: variety store
 ---

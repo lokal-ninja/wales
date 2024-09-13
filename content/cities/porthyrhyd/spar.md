@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /porthyrhyd/spar/
-shop: Lebensmittel
+shop: convenience
 ---

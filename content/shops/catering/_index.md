@@ -1,5 +1,5 @@
 ---
-title: Catering
+title: catering
 url: /catering/
 icon: other
 ---

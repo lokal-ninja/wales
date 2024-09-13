@@ -1,5 +1,5 @@
 ---
 title: "Welshpool Jewellers"
 url: /welshpool/welshpool-jewellers/
-shop: Schmuck
+shop: jewelry
 ---

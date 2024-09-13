@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /cwmbran/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siop Botanic"
 url: /lampeter/siop-botanic/
-shop: Blumen
+shop: florist
 ---

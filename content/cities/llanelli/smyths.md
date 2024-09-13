@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /llanelli/smyths/
-shop: Spielzeug
+shop: toys
 ---

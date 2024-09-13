@@ -1,5 +1,5 @@
 ---
 title: "Frank Lloyd"
 url: /welshpool/frank-lloyd/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /haverfordwest/poundland/
-shop: Kramladen
+shop: variety store
 ---

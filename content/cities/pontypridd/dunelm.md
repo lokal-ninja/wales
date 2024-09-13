@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /pontypridd/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

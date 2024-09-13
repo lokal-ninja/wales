@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /bangor/poundland/
-shop: Kramladen
+shop: variety store
 ---

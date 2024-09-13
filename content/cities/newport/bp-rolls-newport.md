@@ -1,5 +1,5 @@
 ---
 title: "BP Rolls Newport"
 url: /newport/bp-rolls-newport/
-shop: Autowerkstatt
+shop: car repair
 ---

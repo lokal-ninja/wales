@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /caldicot/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

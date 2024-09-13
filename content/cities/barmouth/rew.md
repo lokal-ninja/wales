@@ -1,5 +1,5 @@
 ---
 title: "Rew"
 url: /barmouth/rew/
-shop: Kleidung
+shop: clothes
 ---

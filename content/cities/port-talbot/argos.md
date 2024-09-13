@@ -1,5 +1,5 @@
 ---
 title: "Argos"
 url: /port-talbot/argos/
-shop: Katalog
+shop: catalogue
 ---

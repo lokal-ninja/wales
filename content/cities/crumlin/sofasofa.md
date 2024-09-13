@@ -1,5 +1,5 @@
 ---
 title: "SofaSofa"
 url: /crumlin/sofasofa/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Crouch"
 url: /cardiff/crouch/
-shop: Schmuck
+shop: jewelry
 ---

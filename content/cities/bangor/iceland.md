@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /bangor/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menai Seafood Company"
 url: /porth-penrhyn/menai-seafood-company/
-shop: Fisch
+shop: seafood
 ---

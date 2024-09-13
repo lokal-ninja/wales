@@ -1,5 +1,5 @@
 ---
 title: "Electromend"
 url: /barry/electromend/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

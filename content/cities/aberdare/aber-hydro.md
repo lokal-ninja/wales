@@ -1,5 +1,5 @@
 ---
 title: "Aber Hydro"
 url: /aberdare/aber-hydro/
-shop: Garten-Center
+shop: garden centre
 ---

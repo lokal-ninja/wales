@@ -1,5 +1,5 @@
 ---
 title: "Hollywood Nails"
 url: /cwmbran/hollywood-nails/
-shop: Kosmetik
+shop: beauty
 ---

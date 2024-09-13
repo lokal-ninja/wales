@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /cwmbran/poundland/
-shop: Kramladen
+shop: variety store
 ---

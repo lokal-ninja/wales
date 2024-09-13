@@ -1,5 +1,5 @@
 ---
 title: "Heather's"
 url: /castell-newydd-emlyn-newcastle-emlyn/heathers/
-shop: Friseur
+shop: hairdresser
 ---

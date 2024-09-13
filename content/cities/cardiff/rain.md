@@ -1,5 +1,5 @@
 ---
 title: "Rain"
 url: /cardiff/rain/
-shop: Friseur
+shop: hairdresser
 ---

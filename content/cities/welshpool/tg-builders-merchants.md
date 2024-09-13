@@ -1,5 +1,5 @@
 ---
 title: "TG Builder's Merchants"
 url: /welshpool/tg-builders-merchants/
-shop: Baustoffe
+shop: trade
 ---

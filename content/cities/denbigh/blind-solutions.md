@@ -1,5 +1,5 @@
 ---
 title: "Blind Solutions"
 url: /denbigh/blind-solutions/
-shop: Jalousien
+shop: window blind
 ---

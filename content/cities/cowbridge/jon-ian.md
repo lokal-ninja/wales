@@ -1,5 +1,5 @@
 ---
 title: "Jon Ian"
 url: /cowbridge/jon-ian/
-shop: Kleidung
+shop: clothes
 ---

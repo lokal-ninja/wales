@@ -1,5 +1,5 @@
 ---
 title: "Heavenly Brows"
 url: /pontypridd/heavenly-brows/
-shop: Kosmetik
+shop: beauty
 ---

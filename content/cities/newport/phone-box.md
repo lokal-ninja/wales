@@ -1,5 +1,5 @@
 ---
 title: "Phone Box"
 url: /newport/phone-box/
-shop: Handy
+shop: mobile phone
 ---

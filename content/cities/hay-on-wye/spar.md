@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /hay-on-wye/spar/
-shop: Lebensmittel
+shop: convenience
 ---

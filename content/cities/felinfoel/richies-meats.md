@@ -1,5 +1,5 @@
 ---
 title: "Richie's Meats"
 url: /felinfoel/richies-meats/
-shop: Metzgerei
+shop: butcher
 ---

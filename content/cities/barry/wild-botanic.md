@@ -1,5 +1,5 @@
 ---
 title: "Wild Botanic"
 url: /barry/wild-botanic/
-shop: Blumen
+shop: florist
 ---

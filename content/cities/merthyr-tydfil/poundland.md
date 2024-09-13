@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /merthyr-tydfil/poundland/
-shop: Kramladen
+shop: variety store
 ---

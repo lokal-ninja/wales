@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /carmarthen/cash-generator/
-shop: Leiher
+shop: pawnbroker
 ---

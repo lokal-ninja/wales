@@ -1,5 +1,5 @@
 ---
 title: "South Wales Hearing Health"
 url: /newport/south-wales-hearing-health/
-shop: Hörgeräte
+shop: hearing aids
 ---

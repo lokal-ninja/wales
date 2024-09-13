@@ -1,5 +1,5 @@
 ---
 title: "Autocolour Vehicle Repairs"
 url: /aberbeeg/autocolour-vehicle-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

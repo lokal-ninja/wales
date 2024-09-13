@@ -1,5 +1,5 @@
 ---
 title: "Diva's Beauty Lounge"
 url: /newport/divas-beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

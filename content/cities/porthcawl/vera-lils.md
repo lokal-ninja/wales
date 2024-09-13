@@ -1,5 +1,5 @@
 ---
 title: "Vera Lil's"
 url: /porthcawl/vera-lils/
-shop: Allgemein
+shop: shop
 ---

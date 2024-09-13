@@ -1,5 +1,5 @@
 ---
 title: "Lox Box"
 url: /colwyn-bay/lox-box/
-shop: Friseur
+shop: hairdresser
 ---

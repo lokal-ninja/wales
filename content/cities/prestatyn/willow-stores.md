@@ -1,5 +1,5 @@
 ---
 title: "Willow Stores"
 url: /prestatyn/willow-stores/
-shop: Lebensmittel
+shop: convenience
 ---

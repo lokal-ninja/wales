@@ -1,5 +1,5 @@
 ---
 title: "Moon Shop"
 url: /cardiff/moon-shop/
-shop: Allgemein
+shop: shop
 ---

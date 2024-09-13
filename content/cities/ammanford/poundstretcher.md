@@ -1,5 +1,5 @@
 ---
 title: "Poundstretcher"
 url: /ammanford/poundstretcher/
-shop: Supermarkt
+shop: supermarket
 ---

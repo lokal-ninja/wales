@@ -1,5 +1,5 @@
 ---
 title: "Pont News"
 url: /blackwood/pont-news/
-shop: Zeitungen
+shop: newsagent
 ---

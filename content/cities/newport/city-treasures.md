@@ -1,5 +1,5 @@
 ---
 title: "City Treasures"
 url: /newport/city-treasures/
-shop: Andenken
+shop: gift
 ---

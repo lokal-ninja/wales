@@ -1,5 +1,5 @@
 ---
 title: "Seagull"
 url: /cardigan-aberteifi/seagull/
-shop: Spielzeug
+shop: toys
 ---

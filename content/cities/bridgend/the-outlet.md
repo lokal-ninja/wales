@@ -1,5 +1,5 @@
 ---
 title: "The Outlet"
 url: /bridgend/the-outlet/
-shop: Kleidung
+shop: clothes
 ---

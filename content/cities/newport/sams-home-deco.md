@@ -1,5 +1,5 @@
 ---
 title: "Sam's Home Deco"
 url: /newport/sams-home-deco/
-shop: Raumausstattung
+shop: interior decoration
 ---

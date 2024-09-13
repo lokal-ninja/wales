@@ -1,5 +1,5 @@
 ---
 title: "Greggs"
 url: /caerfyrddin/greggs/
-shop: Allgemein
+shop: shop
 ---

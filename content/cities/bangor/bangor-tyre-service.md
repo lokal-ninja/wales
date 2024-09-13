@@ -1,5 +1,5 @@
 ---
 title: "Bangor Tyre Service"
 url: /bangor/bangor-tyre-service/
-shop: Autowerkstatt
+shop: car repair
 ---

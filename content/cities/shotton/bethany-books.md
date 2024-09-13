@@ -1,5 +1,5 @@
 ---
 title: "Bethany Books"
 url: /shotton/bethany-books/
-shop: Schreibwaren
+shop: office supplies
 ---

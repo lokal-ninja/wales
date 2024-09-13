@@ -1,5 +1,5 @@
 ---
 title: "Cardiff Nails"
 url: /cardiff/cardiff-nails/
-shop: Friseur
+shop: hairdresser
 ---

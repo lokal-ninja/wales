@@ -1,5 +1,5 @@
 ---
 title: "Discount Junction"
 url: /cardiff/discount-junction/
-shop: Kramladen
+shop: variety store
 ---

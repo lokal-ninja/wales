@@ -1,5 +1,5 @@
 ---
 title: "Number Two"
 url: /hereford/number-two/
-shop: Kleidung
+shop: clothes
 ---

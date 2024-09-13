@@ -1,5 +1,5 @@
 ---
 title: "Siop y Fro"
 url: /ruthin/siop-y-fro/
-shop: Lebensmittel
+shop: convenience
 ---

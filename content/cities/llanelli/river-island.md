@@ -1,5 +1,5 @@
 ---
 title: "River Island"
 url: /llanelli/river-island/
-shop: Kleidung
+shop: clothes
 ---

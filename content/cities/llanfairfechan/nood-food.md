@@ -1,5 +1,5 @@
 ---
 title: "Nood Food"
 url: /llanfairfechan/nood-food/
-shop: Allgemein
+shop: shop
 ---

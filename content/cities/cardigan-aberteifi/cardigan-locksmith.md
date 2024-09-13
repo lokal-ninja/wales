@@ -1,5 +1,5 @@
 ---
 title: "Cardigan Locksmith"
 url: /cardigan-aberteifi/cardigan-locksmith/
-shop: Schlüsseldienst
+shop: locksmith
 ---

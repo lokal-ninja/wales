@@ -1,5 +1,5 @@
 ---
 title: "Goldilocks"
 url: /rhyl/goldilocks/
-shop: Kosmetik
+shop: beauty
 ---

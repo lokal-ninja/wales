@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /caerphilly/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

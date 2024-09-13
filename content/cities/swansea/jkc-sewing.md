@@ -1,5 +1,5 @@
 ---
 title: "JKC Sewing"
 url: /swansea/jkc-sewing/
-shop: Nähzubehör
+shop: sewing
 ---

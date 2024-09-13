@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /merthyr-tydfil/savers/
-shop: Drogerie
+shop: chemist
 ---

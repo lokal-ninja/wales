@@ -1,5 +1,5 @@
 ---
 title: "Jollyes"
 url: /wrexham/jollyes/
-shop: Tiere
+shop: pet
 ---

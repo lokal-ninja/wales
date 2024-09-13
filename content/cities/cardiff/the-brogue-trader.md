@@ -1,5 +1,5 @@
 ---
 title: "The Brogue Trader"
 url: /cardiff/the-brogue-trader/
-shop: Schuhe
+shop: shoes
 ---

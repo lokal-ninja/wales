@@ -1,5 +1,5 @@
 ---
 title: "Hair Connection"
 url: /rhyl/hair-connection/
-shop: Friseur
+shop: hairdresser
 ---

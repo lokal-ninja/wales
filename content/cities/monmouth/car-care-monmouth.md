@@ -1,5 +1,5 @@
 ---
 title: "Car Care Monmouth"
 url: /monmouth/car-care-monmouth/
-shop: Autoteile
+shop: car parts
 ---

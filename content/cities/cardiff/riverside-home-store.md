@@ -1,5 +1,5 @@
 ---
 title: "Riverside Home Store"
 url: /cardiff/riverside-home-store/
-shop: Allgemein
+shop: shop
 ---

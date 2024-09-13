@@ -1,5 +1,5 @@
 ---
 title: "Sixteen Circles"
 url: /pontypridd/sixteen-circles/
-shop: Tattoo
+shop: tattoo
 ---

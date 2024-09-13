@@ -1,5 +1,5 @@
 ---
 title: "WHSmith"
 url: /bridgend/whsmith/
-shop: Bücher
+shop: books
 ---

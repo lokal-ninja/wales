@@ -1,5 +1,5 @@
 ---
 title: "Total Asia Food"
 url: /cardiff/total-asia-food/
-shop: Supermarkt
+shop: supermarket
 ---

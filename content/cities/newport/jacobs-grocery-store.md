@@ -1,5 +1,5 @@
 ---
 title: "Jacobs Grocery Store"
 url: /newport/jacobs-grocery-store/
-shop: Lebensmittel
+shop: convenience
 ---

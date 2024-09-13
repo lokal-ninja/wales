@@ -1,5 +1,5 @@
 ---
 title: "Cirro"
 url: /wrexham/cirro/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

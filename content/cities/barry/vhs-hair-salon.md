@@ -1,5 +1,5 @@
 ---
 title: "VHS Hair Salon"
 url: /barry/vhs-hair-salon/
-shop: Friseur
+shop: hairdresser
 ---

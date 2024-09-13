@@ -1,5 +1,5 @@
 ---
 title: "Johnsons"
 url: /abergavenny/johnsons/
-shop: Wäscherei
+shop: laundry
 ---

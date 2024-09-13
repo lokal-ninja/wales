@@ -1,5 +1,5 @@
 ---
 title: "Bershka"
 url: /cardiff/bershka/
-shop: Kleidung
+shop: clothes
 ---

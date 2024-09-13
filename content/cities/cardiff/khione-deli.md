@@ -1,5 +1,5 @@
 ---
 title: "Khione Deli"
 url: /cardiff/khione-deli/
-shop: Feinkost
+shop: deli
 ---

@@ -1,5 +1,5 @@
 ---
 title: "C R Motors"
 url: /bargoed/c-r-motors/
-shop: Autowerkstatt
+shop: car repair
 ---

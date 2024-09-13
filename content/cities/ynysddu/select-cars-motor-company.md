@@ -1,5 +1,5 @@
 ---
 title: "Select Cars Motor Company"
 url: /ynysddu/select-cars-motor-company/
-shop: Autohaus
+shop: car
 ---

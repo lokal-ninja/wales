@@ -1,5 +1,5 @@
 ---
 title: "Joules"
 url: /monmouth/joules/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vaped Out"
 url: /newport/vaped-out/
-shop: Leerstehend
+shop: vacant
 ---

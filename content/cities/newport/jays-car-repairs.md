@@ -1,5 +1,5 @@
 ---
 title: "Jays Car Repairs"
 url: /newport/jays-car-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

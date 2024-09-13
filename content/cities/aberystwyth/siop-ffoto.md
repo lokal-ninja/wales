@@ -1,5 +1,5 @@
 ---
 title: "Siop Ffoto"
 url: /aberystwyth/siop-ffoto/
-shop: Rahmen
+shop: frame
 ---

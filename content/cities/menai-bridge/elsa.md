@@ -1,5 +1,5 @@
 ---
 title: "Elsa"
 url: /menai-bridge/elsa/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Emlyn Garage"
 url: /castell-newydd-emlyn-newcastle-emlyn/emlyn-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

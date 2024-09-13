@@ -1,5 +1,5 @@
 ---
 title: "Travelsport"
 url: /denbigh/travelsport/
-shop: Reisebüro
+shop: travel agency
 ---

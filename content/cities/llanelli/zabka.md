@@ -1,5 +1,5 @@
 ---
 title: "Żabka"
 url: /llanelli/zabka/
-shop: Lebensmittel
+shop: convenience
 ---

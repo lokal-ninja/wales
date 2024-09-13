@@ -1,5 +1,5 @@
 ---
 title: "Arthur Cambrey"
 url: /llanelli/arthur-cambrey/
-shop: Bestattungen
+shop: funeral directors
 ---

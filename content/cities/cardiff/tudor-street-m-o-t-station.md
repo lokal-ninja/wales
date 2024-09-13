@@ -1,5 +1,5 @@
 ---
 title: "Tudor Street M.O.T. Station"
 url: /cardiff/tudor-street-m-o-t-station/
-shop: Autowerkstatt
+shop: car repair
 ---

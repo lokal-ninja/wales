@@ -1,5 +1,5 @@
 ---
 title: "Pure Pens"
 url: /newport/pure-pens/
-shop: Schreibwaren
+shop: office supplies
 ---

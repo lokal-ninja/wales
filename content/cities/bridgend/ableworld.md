@@ -1,5 +1,5 @@
 ---
 title: "Ableworld"
 url: /bridgend/ableworld/
-shop: Allgemein
+shop: shop
 ---

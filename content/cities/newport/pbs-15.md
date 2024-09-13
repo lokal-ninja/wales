@@ -1,5 +1,5 @@
 ---
 title: "PBS 15"
 url: /newport/pbs-15/
-shop: Friseur
+shop: hairdresser
 ---

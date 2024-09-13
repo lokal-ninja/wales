@@ -1,5 +1,5 @@
 ---
 title: "Freshfields Animal Rescue"
 url: /porthmadog/freshfields-animal-rescue/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "VM Stores"
 url: /cardiff/vm-stores/
-shop: Lebensmittel
+shop: convenience
 ---

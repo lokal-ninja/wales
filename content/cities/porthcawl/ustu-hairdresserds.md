@@ -1,5 +1,5 @@
 ---
 title: "USTU Hairdresserds"
 url: /porthcawl/ustu-hairdresserds/
-shop: Friseur
+shop: hairdresser
 ---

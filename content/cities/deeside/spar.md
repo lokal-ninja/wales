@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /deeside/spar/
-shop: Lebensmittel
+shop: convenience
 ---

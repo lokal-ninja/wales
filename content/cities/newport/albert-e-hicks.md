@@ -1,5 +1,5 @@
 ---
 title: "Albert E Hicks"
 url: /newport/albert-e-hicks/
-shop: Bestattungen
+shop: funeral directors
 ---

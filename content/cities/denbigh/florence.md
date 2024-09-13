@@ -1,5 +1,5 @@
 ---
 title: "Florence"
 url: /denbigh/florence/
-shop: Friseur
+shop: hairdresser
 ---

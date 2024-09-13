@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /llanberis/spar/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Havards"
 url: /newport/havards/
-shop: Eisenwaren
+shop: hardware
 ---

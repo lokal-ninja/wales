@@ -1,5 +1,5 @@
 ---
 title: "Pravins"
 url: /cardiff/pravins/
-shop: Schmuck
+shop: jewelry
 ---

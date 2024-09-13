@@ -1,5 +1,5 @@
 ---
 title: "Costcutter"
 url: /narberth/costcutter/
-shop: Lebensmittel
+shop: convenience
 ---

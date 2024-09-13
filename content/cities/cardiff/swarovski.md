@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /cardiff/swarovski/
-shop: Schmuck
+shop: jewelry
 ---

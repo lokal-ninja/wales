@@ -1,5 +1,5 @@
 ---
 title: "Geshmak"
 url: /newport/geshmak/
-shop: Leerstehend
+shop: vacant
 ---

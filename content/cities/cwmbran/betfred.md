@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /cwmbran/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Vanity Lounge"
 url: /newport/the-vanity-lounge/
-shop: Kosmetik
+shop: beauty
 ---

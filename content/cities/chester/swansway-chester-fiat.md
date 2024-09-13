@@ -1,5 +1,5 @@
 ---
 title: "Swansway Chester Fiat"
 url: /chester/swansway-chester-fiat/
-shop: Autohaus
+shop: car
 ---

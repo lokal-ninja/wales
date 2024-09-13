@@ -1,5 +1,5 @@
 ---
 title: "Modern Body Art"
 url: /haverfordwest/modern-body-art/
-shop: Tattoo
+shop: tattoo
 ---

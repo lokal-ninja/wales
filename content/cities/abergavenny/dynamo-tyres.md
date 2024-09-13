@@ -1,5 +1,5 @@
 ---
 title: "Dynamo Tyres"
 url: /abergavenny/dynamo-tyres/
-shop: Autowerkstatt
+shop: car repair
 ---

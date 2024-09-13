@@ -1,5 +1,5 @@
 ---
 title: "Green Flag Films"
 url: /newport/green-flag-films/
-shop: Allgemein
+shop: shop
 ---

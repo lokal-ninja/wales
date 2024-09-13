@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
 url: /porthcawl/betfred/
-shop: Wettbüro
+shop: bookmaker
 ---

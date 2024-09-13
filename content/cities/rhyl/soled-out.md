@@ -1,5 +1,5 @@
 ---
 title: "Soled Out"
 url: /rhyl/soled-out/
-shop: Schuhe
+shop: shoes
 ---

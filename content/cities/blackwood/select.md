@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /blackwood/select/
-shop: Kleidung
+shop: clothes
 ---

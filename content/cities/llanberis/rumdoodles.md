@@ -1,5 +1,5 @@
 ---
 title: "Rumdoodles"
 url: /llanberis/rumdoodles/
-shop: Outdoor
+shop: outdoor
 ---

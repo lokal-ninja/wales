@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /beaumaris/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Televes"
 url: /cwmbran/televes/
-shop: Elektronik
+shop: electronics
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Two"
 url: /swansea/salon-two/
-shop: Friseur
+shop: hairdresser
 ---

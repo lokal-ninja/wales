@@ -1,5 +1,5 @@
 ---
 title: "Prestige Motors"
 url: /cardiff/prestige-motors/
-shop: Autohaus
+shop: car
 ---

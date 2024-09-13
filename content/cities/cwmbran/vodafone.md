@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /cwmbran/vodafone/
-shop: Handy
+shop: mobile phone
 ---

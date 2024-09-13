@@ -1,5 +1,5 @@
 ---
 title: "Four Star Stores"
 url: /cardiff/four-star-stores/
-shop: Lebensmittel
+shop: convenience
 ---

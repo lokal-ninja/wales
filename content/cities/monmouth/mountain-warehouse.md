@@ -1,5 +1,5 @@
 ---
 title: "Mountain Warehouse"
 url: /monmouth/mountain-warehouse/
-shop: Outdoor
+shop: outdoor
 ---

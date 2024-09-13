@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /caernarfon/spar/
-shop: Lebensmittel
+shop: convenience
 ---

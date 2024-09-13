@@ -1,5 +1,5 @@
 ---
 title: "Brutons"
 url: /penarth/brutons/
-shop: Bäckerei
+shop: bakery
 ---

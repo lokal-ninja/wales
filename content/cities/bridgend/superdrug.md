@@ -1,5 +1,5 @@
 ---
 title: "Superdrug"
 url: /bridgend/superdrug/
-shop: Drogerie
+shop: chemist
 ---

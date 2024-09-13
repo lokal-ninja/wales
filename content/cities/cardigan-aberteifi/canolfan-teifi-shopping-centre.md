@@ -1,5 +1,5 @@
 ---
 title: "Canolfan Teifi Shopping Centre"
 url: /cardigan-aberteifi/canolfan-teifi-shopping-centre/
-shop: Einkaufszentrum
+shop: mall
 ---

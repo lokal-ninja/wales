@@ -1,5 +1,5 @@
 ---
 title: "Peacocks"
 url: /cardigan-aberteifi/peacocks/
-shop: Kleidung
+shop: clothes
 ---

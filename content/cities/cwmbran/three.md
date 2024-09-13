@@ -1,5 +1,5 @@
 ---
 title: "Three."
 url: /cwmbran/three/
-shop: Handy
+shop: mobile phone
 ---

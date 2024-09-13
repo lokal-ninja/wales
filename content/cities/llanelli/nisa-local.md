@@ -1,5 +1,5 @@
 ---
 title: "Nisa Local"
 url: /llanelli/nisa-local/
-shop: Lebensmittel
+shop: convenience
 ---

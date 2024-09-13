@@ -1,5 +1,5 @@
 ---
 title: "Crefft"
 url: /porthmadog/crefft/
-shop: Sammler
+shop: collector
 ---

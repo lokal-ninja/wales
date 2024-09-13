@@ -1,5 +1,5 @@
 ---
 title: "Card Centre"
 url: /barry/card-centre/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wish"
 url: /rhyl/wish/
-shop: Andenken
+shop: gift
 ---

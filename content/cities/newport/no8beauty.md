@@ -1,5 +1,5 @@
 ---
 title: "No8Beauty"
 url: /newport/no8beauty/
-shop: Kosmetik
+shop: beauty
 ---

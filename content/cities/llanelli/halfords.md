@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /llanelli/halfords/
-shop: Autoteile
+shop: car parts
 ---

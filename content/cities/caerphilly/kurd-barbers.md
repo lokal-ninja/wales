@@ -1,5 +1,5 @@
 ---
 title: "Kurd Barbers"
 url: /caerphilly/kurd-barbers/
-shop: Friseur
+shop: hairdresser
 ---

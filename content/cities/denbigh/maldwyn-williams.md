@@ -1,5 +1,5 @@
 ---
 title: "Maldwyn Williams"
 url: /denbigh/maldwyn-williams/
-shop: Autowerkstatt
+shop: car repair
 ---

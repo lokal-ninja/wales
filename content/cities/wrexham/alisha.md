@@ -1,5 +1,5 @@
 ---
 title: "Alisha"
 url: /wrexham/alisha/
-shop: Kleidung
+shop: clothes
 ---

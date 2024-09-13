@@ -1,5 +1,5 @@
 ---
 title: "Richards"
 url: /crickhowell/richards/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siop Aderyn"
 url: /cardigan-aberteifi/siop-aderyn/
-shop: Haushaltsartikel
+shop: houseware
 ---

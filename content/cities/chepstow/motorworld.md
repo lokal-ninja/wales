@@ -1,5 +1,5 @@
 ---
 title: "Motorworld"
 url: /chepstow/motorworld/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /cwmbran/next/
-shop: Kleidung
+shop: clothes
 ---

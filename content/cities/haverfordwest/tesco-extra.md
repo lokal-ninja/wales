@@ -1,5 +1,5 @@
 ---
 title: "Tesco Extra"
 url: /haverfordwest/tesco-extra/
-shop: Supermarkt
+shop: supermarket
 ---

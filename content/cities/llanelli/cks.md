@@ -1,5 +1,5 @@
 ---
 title: "CKs"
 url: /llanelli/cks/
-shop: Lebensmittel
+shop: convenience
 ---

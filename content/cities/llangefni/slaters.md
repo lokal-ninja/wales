@@ -1,5 +1,5 @@
 ---
 title: "Slaters"
 url: /llangefni/slaters/
-shop: Autohaus
+shop: car
 ---

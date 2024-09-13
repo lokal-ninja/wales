@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Beauty Zone"
 url: /newport/atlantic-beauty-zone/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wine Fiend"
 url: /cardiff/wine-fiend/
-shop: Wein
+shop: wine
 ---

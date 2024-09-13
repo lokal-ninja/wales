@@ -1,5 +1,5 @@
 ---
 title: "Fone Revive"
 url: /newport/fone-revive/
-shop: Handy
+shop: mobile phone
 ---

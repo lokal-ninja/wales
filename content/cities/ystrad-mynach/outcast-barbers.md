@@ -1,5 +1,5 @@
 ---
 title: "Outcast Barbers"
 url: /ystrad-mynach/outcast-barbers/
-shop: Friseur
+shop: hairdresser
 ---

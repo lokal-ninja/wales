@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cardiff/spar-merthyr-road/
-shop: Lebensmittel
+shop: convenience
 ---

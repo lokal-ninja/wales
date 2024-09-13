@@ -1,5 +1,5 @@
 ---
 title: "Star Premier"
 url: /denbigh/star-premier/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /bridgend/vodafone/
-shop: Handy
+shop: mobile phone
 ---

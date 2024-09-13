@@ -1,5 +1,5 @@
 ---
 title: "Gary Cooper Auto Repairs"
 url: /castell-newydd-emlyn-newcastle-emlyn/gary-cooper-auto-repairs/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tigers Eye"
 url: /cardigan-aberteifi/tigers-eye/
-shop: Andenken
+shop: gift
 ---

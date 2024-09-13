@@ -1,5 +1,5 @@
 ---
 title: "Warren James"
 url: /bridgend/warren-james/
-shop: Schmuck
+shop: jewelry
 ---

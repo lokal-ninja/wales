@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /blackwood/vodafone/
-shop: Handy
+shop: mobile phone
 ---

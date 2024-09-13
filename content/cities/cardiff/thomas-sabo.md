@@ -1,5 +1,5 @@
 ---
 title: "Thomas Sabo"
 url: /cardiff/thomas-sabo/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /cwmbran/card-factory/
-shop: Andenken
+shop: gift
 ---

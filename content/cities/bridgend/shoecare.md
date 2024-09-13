@@ -1,5 +1,5 @@
 ---
 title: "Shoecare"
 url: /bridgend/shoecare/
-shop: Schuhe
+shop: shoes
 ---

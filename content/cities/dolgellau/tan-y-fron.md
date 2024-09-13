@@ -1,5 +1,5 @@
 ---
 title: "Tan-y-fron"
 url: /dolgellau/tan-y-fron/
-shop: Allgemein
+shop: shop
 ---

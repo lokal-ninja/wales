@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /wrexham/lidl-powell-road/
-shop: Supermarkt
+shop: supermarket
 ---

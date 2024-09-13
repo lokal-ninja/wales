@@ -1,5 +1,5 @@
 ---
 title: "Spellbound"
 url: /aberystwyth/spellbound/
-shop: Partyzubehör
+shop: party
 ---

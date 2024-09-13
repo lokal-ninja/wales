@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /bridgend/select/
-shop: Kleidung
+shop: clothes
 ---

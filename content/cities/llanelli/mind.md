@@ -1,5 +1,5 @@
 ---
 title: "Mind"
 url: /llanelli/mind/
-shop: Gebrauchtwaren
+shop: charity
 ---

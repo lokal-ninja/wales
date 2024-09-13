@@ -1,5 +1,5 @@
 ---
 title: "CeX"
 url: /swansea/cex/
-shop: Elektronik
+shop: electronics
 ---

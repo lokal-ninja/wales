@@ -1,5 +1,5 @@
 ---
 title: "Clive Ranger"
 url: /swansea/clive-ranger/
-shop: Schmuck
+shop: jewelry
 ---

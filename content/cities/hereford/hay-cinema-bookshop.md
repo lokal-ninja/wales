@@ -1,5 +1,5 @@
 ---
 title: "Hay Cinema Bookshop"
 url: /hereford/hay-cinema-bookshop/
-shop: Bücher
+shop: books
 ---

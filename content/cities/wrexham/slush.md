@@ -1,5 +1,5 @@
 ---
 title: "Slush"
 url: /wrexham/slush/
-shop: Großhandel
+shop: wholesale
 ---

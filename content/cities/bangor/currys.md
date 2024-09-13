@@ -1,5 +1,5 @@
 ---
 title: "Currys"
 url: /bangor/currys/
-shop: Elektronik
+shop: electronics
 ---

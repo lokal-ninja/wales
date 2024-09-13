@@ -1,5 +1,5 @@
 ---
 title: "The Edinburgh Woollen Mill"
 url: /llandudno/the-edinburgh-woollen-mill/
-shop: Kleidung
+shop: clothes
 ---

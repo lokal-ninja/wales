@@ -1,5 +1,5 @@
 ---
 title: "Iceland"
 url: /holywell/iceland/
-shop: Tiefkühl
+shop: frozen food
 ---

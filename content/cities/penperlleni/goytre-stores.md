@@ -1,5 +1,5 @@
 ---
 title: "Goytre Stores"
 url: /penperlleni/goytre-stores/
-shop: Lebensmittel
+shop: convenience
 ---

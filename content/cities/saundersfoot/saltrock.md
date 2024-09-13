@@ -1,5 +1,5 @@
 ---
 title: "Saltrock"
 url: /saundersfoot/saltrock/
-shop: Kleidung
+shop: clothes
 ---

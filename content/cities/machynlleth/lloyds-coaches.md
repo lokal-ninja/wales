@@ -1,5 +1,5 @@
 ---
 title: "Lloyds Coaches"
 url: /machynlleth/lloyds-coaches/
-shop: Autowerkstatt
+shop: car repair
 ---

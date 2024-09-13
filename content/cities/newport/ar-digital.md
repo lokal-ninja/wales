@@ -1,5 +1,5 @@
 ---
 title: "AR Digital"
 url: /newport/ar-digital/
-shop: Computer
+shop: computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bettapets"
 url: /cwmbran/bettapets/
-shop: Tiere
+shop: pet
 ---

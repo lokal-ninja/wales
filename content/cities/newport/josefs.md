@@ -1,5 +1,5 @@
 ---
 title: "Josefs"
 url: /newport/josefs/
-shop: Friseur
+shop: hairdresser
 ---

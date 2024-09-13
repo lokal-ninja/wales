@@ -1,5 +1,5 @@
 ---
 title: "Annables"
 url: /rhyl/annables/
-shop: Zeitungen
+shop: newsagent
 ---

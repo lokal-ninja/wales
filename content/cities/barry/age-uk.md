@@ -1,5 +1,5 @@
 ---
 title: "Age UK"
 url: /barry/age-uk/
-shop: Gebrauchtwaren
+shop: charity
 ---

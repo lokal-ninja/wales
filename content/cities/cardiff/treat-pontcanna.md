@@ -1,5 +1,5 @@
 ---
 title: "Treat Pontcanna"
 url: /cardiff/treat-pontcanna/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
 url: /cardiff/specsavers-leckwith-road/
-shop: Optiker
+shop: optician
 ---

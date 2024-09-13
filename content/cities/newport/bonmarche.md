@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /newport/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

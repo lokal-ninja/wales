@@ -1,5 +1,5 @@
 ---
 title: "Lakeland"
 url: /llanelli/lakeland/
-shop: Haushaltsartikel
+shop: houseware
 ---

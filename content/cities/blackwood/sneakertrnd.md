@@ -1,5 +1,5 @@
 ---
 title: "Sneakertrnd"
 url: /blackwood/sneakertrnd/
-shop: Schuhe
+shop: shoes
 ---

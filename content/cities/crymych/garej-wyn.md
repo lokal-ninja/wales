@@ -1,5 +1,5 @@
 ---
 title: "Garej Wyn"
 url: /crymych/garej-wyn/
-shop: Autowerkstatt
+shop: car repair
 ---

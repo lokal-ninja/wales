@@ -1,5 +1,5 @@
 ---
 title: "Plumbase"
 url: /newport/plumbase/
-shop: Baustoffe
+shop: trade
 ---

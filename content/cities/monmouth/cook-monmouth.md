@@ -1,5 +1,5 @@
 ---
 title: "COOK Monmouth"
 url: /monmouth/cook-monmouth/
-shop: Tiefkühl
+shop: frozen food
 ---

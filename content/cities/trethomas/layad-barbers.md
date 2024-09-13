@@ -1,5 +1,5 @@
 ---
 title: "Layad Barbers"
 url: /trethomas/layad-barbers/
-shop: Friseur
+shop: hairdresser
 ---

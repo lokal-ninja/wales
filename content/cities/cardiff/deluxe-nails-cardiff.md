@@ -1,5 +1,5 @@
 ---
 title: "Deluxe Nails Cardiff"
 url: /cardiff/deluxe-nails-cardiff/
-shop: Kosmetik
+shop: beauty
 ---

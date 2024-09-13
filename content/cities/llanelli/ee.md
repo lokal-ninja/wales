@@ -1,5 +1,5 @@
 ---
 title: "EE"
 url: /llanelli/ee/
-shop: Handy
+shop: mobile phone
 ---

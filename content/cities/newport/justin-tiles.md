@@ -1,5 +1,5 @@
 ---
 title: "Justin Tiles"
 url: /newport/justin-tiles/
-shop: Fliesen
+shop: tiles
 ---

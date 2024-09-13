@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /cwmbran/pandora/
-shop: Schmuck
+shop: jewelry
 ---

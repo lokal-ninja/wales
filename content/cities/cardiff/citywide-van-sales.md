@@ -1,5 +1,5 @@
 ---
 title: "Citywide Van Sales"
 url: /cardiff/citywide-van-sales/
-shop: Autohaus
+shop: car
 ---

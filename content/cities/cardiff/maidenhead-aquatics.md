@@ -1,5 +1,5 @@
 ---
 title: "Maidenhead Aquatics"
 url: /cardiff/maidenhead-aquatics/
-shop: Tiere
+shop: pet
 ---

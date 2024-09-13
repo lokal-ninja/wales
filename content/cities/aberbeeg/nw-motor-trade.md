@@ -1,5 +1,5 @@
 ---
 title: "NW Motor Trade"
 url: /aberbeeg/nw-motor-trade/
-shop: Wohnwagen
+shop: caravan
 ---

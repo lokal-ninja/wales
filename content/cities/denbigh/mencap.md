@@ -1,5 +1,5 @@
 ---
 title: "Mencap"
 url: /denbigh/mencap/
-shop: Gebrauchtwaren
+shop: charity
 ---

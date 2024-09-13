@@ -1,5 +1,5 @@
 ---
 title: "Days"
 url: /carmarthen/days/
-shop: Warenhaus
+shop: department store
 ---

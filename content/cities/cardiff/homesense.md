@@ -1,5 +1,5 @@
 ---
 title: "HomeSense"
 url: /cardiff/homesense/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siop Kel"
 url: /y-bala/siop-kel/
-shop: Kramladen
+shop: variety store
 ---

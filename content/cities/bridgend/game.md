@@ -1,5 +1,5 @@
 ---
 title: "Game"
 url: /bridgend/game/
-shop: Videospiele
+shop: video games
 ---

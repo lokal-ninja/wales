@@ -1,5 +1,5 @@
 ---
 title: "Autofix"
 url: /newport/autofix/
-shop: Autowerkstatt
+shop: car repair
 ---

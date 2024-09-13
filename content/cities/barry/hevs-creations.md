@@ -1,5 +1,5 @@
 ---
 title: "Hev's Creations"
 url: /barry/hevs-creations/
-shop: Mieten
+shop: storage rental
 ---

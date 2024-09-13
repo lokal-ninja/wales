@@ -1,5 +1,5 @@
 ---
 title: "Samko"
 url: /newport/samko/
-shop: Autoteile
+shop: car parts
 ---

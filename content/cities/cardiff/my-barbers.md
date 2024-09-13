@@ -1,5 +1,5 @@
 ---
 title: "My Barbers"
 url: /cardiff/my-barbers/
-shop: Friseur
+shop: hairdresser
 ---

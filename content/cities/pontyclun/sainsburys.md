@@ -1,5 +1,5 @@
 ---
 title: "Sainsbury's"
 url: /pontyclun/sainsburys/
-shop: Supermarkt
+shop: supermarket
 ---

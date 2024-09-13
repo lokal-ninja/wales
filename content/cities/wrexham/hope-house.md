@@ -1,5 +1,5 @@
 ---
 title: "Hope House"
 url: /wrexham/hope-house/
-shop: Gebrauchtwaren
+shop: charity
 ---

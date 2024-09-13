@@ -1,5 +1,5 @@
 ---
 title: "Beverstock Ltd"
 url: /cwmbran/beverstock-ltd/
-shop: Werkzeuge
+shop: tools
 ---

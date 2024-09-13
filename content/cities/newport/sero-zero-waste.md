@@ -1,5 +1,5 @@
 ---
 title: "Sero Zero Waste"
 url: /newport/sero-zero-waste/
-shop: Allgemein
+shop: shop
 ---

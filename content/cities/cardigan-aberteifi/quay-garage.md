@@ -1,5 +1,5 @@
 ---
 title: "Quay Garage"
 url: /cardigan-aberteifi/quay-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

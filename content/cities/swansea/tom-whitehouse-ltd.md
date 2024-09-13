@@ -1,5 +1,5 @@
 ---
 title: "Tom Whitehouse Ltd."
 url: /swansea/tom-whitehouse-ltd/
-shop: Elektronik
+shop: electronics
 ---

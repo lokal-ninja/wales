@@ -1,5 +1,5 @@
 ---
 title: "Kwik Fit"
 url: /wrexham/kwik-fit/
-shop: Autowerkstatt
+shop: car repair
 ---

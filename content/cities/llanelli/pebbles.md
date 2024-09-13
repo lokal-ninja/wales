@@ -1,5 +1,5 @@
 ---
 title: "Pebbles"
 url: /llanelli/pebbles/
-shop: Allgemein
+shop: shop
 ---

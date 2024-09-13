@@ -1,5 +1,5 @@
 ---
 title: "Mayberry Pharmacy"
 url: /blackwood/mayberry-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

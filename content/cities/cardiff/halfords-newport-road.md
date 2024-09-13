@@ -1,5 +1,5 @@
 ---
 title: "Halfords"
 url: /cardiff/halfords-newport-road/
-shop: Autoteile
+shop: car parts
 ---

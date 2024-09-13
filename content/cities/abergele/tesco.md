@@ -1,5 +1,5 @@
 ---
 title: "Tesco"
 url: /abergele/tesco/
-shop: Supermarkt
+shop: supermarket
 ---

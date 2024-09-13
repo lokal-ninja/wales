@@ -1,5 +1,5 @@
 ---
 title: "Nicola Downie Florist"
 url: /caerphilly/nicola-downie-florist/
-shop: Blumen
+shop: florist
 ---

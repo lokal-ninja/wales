@@ -1,5 +1,5 @@
 ---
 title: "Bridge Street Barbers"
 url: /usk/bridge-street-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Queens"
 url: /denbigh/queens/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /blackwood/spar/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Siop Porthllwyd"
 url: /conwy/siop-porthllwyd/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jane's Decorative Interiors"
 url: /welshpool/janes-decorative-interiors/
-shop: Raumausstattung
+shop: interior decoration
 ---

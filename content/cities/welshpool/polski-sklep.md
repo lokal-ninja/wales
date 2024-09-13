@@ -1,5 +1,5 @@
 ---
 title: "Polski Sklep"
 url: /welshpool/polski-sklep/
-shop: Feinkost
+shop: deli
 ---

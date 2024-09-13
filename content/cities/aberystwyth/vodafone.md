@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
 url: /aberystwyth/vodafone/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coop Funeralcare"
 url: /colwyn-bay/coop-funeralcare/
-shop: Bestattungen
+shop: funeral directors
 ---

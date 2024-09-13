@@ -1,5 +1,5 @@
 ---
 title: "Model Bakery"
 url: /blaenau-ffestiniog/model-bakery/
-shop: Bäckerei
+shop: bakery
 ---

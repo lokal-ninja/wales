@@ -1,5 +1,5 @@
 ---
 title: "Ramsdens"
 url: /cardiff/ramsdens/
-shop: Leiher
+shop: pawnbroker
 ---

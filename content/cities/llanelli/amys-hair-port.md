@@ -1,5 +1,5 @@
 ---
 title: "Amy's Hair Port"
 url: /llanelli/amys-hair-port/
-shop: Friseur
+shop: hairdresser
 ---

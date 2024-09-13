@@ -1,5 +1,5 @@
 ---
 title: "Salon Iâl"
 url: /wrexham/salon-ial/
-shop: Kosmetik
+shop: beauty
 ---

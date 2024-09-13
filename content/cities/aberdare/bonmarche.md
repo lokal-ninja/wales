@@ -1,5 +1,5 @@
 ---
 title: "Bonmarché"
 url: /aberdare/bonmarche/
-shop: Kleidung
+shop: clothes
 ---

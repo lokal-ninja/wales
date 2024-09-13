@@ -1,5 +1,5 @@
 ---
 title: "White Dove Suzuki"
 url: /cardiff/white-dove-suzuki/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gwalia House"
 url: /abergele/gwalia-house/
-shop: Metzgerei
+shop: butcher
 ---

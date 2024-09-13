@@ -1,5 +1,5 @@
 ---
 title: "Crop Shop Two - Barbers"
 url: /penarth/crop-shop-two-barbers/
-shop: Friseur
+shop: hairdresser
 ---

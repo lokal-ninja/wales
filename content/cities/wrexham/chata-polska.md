@@ -1,5 +1,5 @@
 ---
 title: "Chata Polska"
 url: /wrexham/chata-polska/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Range"
 url: /wrexham/the-range/
-shop: Haushaltsartikel
+shop: houseware
 ---

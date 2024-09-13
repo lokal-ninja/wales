@@ -1,5 +1,5 @@
 ---
 title: "Ladbrokes"
 url: /cardiff/ladbrokes-leckwith-road/
-shop: Wettbüro
+shop: bookmaker
 ---

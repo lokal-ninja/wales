@@ -1,5 +1,5 @@
 ---
 title: "Brewers"
 url: /cardiff/brewers/
-shop: Raumausstattung
+shop: interior decoration
 ---

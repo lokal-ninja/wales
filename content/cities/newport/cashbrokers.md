@@ -1,5 +1,5 @@
 ---
 title: "Cashbrokers"
 url: /newport/cashbrokers/
-shop: Leiher
+shop: pawnbroker
 ---

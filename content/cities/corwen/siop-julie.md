@@ -1,5 +1,5 @@
 ---
 title: "Siop Julie"
 url: /corwen/siop-julie/
-shop: Lebensmittel
+shop: convenience
 ---

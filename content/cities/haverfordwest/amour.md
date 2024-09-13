@@ -1,5 +1,5 @@
 ---
 title: "Amour"
 url: /haverfordwest/amour/
-shop: Allgemein
+shop: shop
 ---

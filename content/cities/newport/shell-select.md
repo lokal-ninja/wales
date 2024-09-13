@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /newport/shell-select/
-shop: Lebensmittel
+shop: convenience
 ---

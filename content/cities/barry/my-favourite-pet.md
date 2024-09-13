@@ -1,5 +1,5 @@
 ---
 title: "My Favourite Pet"
 url: /barry/my-favourite-pet/
-shop: Tiere
+shop: pet
 ---

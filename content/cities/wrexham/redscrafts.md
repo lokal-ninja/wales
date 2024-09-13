@@ -1,5 +1,5 @@
 ---
 title: "Redscrafts"
 url: /wrexham/redscrafts/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fixitup"
 url: /blackwood/fixitup/
-shop: Handy
+shop: mobile phone
 ---

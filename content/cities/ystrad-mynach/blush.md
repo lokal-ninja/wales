@@ -1,5 +1,5 @@
 ---
 title: "Blush"
 url: /ystrad-mynach/blush/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dunelm"
 url: /llanelli/dunelm/
-shop: Raumausstattung
+shop: interior decoration
 ---

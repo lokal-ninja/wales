@@ -1,5 +1,5 @@
 ---
 title: "Pound Corner"
 url: /newport/pound-corner/
-shop: Kramladen
+shop: variety store
 ---

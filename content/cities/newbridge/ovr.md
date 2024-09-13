@@ -1,5 +1,5 @@
 ---
 title: "OVR"
 url: /newbridge/ovr/
-shop: Autowerkstatt
+shop: car repair
 ---

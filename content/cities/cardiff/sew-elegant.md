@@ -1,5 +1,5 @@
 ---
 title: "Sew Elegant"
 url: /cardiff/sew-elegant/
-shop: Schneiderei
+shop: tailor
 ---

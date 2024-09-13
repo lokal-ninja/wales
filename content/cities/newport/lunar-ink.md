@@ -1,5 +1,5 @@
 ---
 title: "Lunar Ink"
 url: /newport/lunar-ink/
-shop: Tattoo
+shop: tattoo
 ---

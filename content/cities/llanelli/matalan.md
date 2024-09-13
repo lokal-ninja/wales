@@ -1,5 +1,5 @@
 ---
 title: "Matalan"
 url: /llanelli/matalan/
-shop: Kleidung
+shop: clothes
 ---

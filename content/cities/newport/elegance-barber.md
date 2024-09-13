@@ -1,5 +1,5 @@
 ---
 title: "Elegance Barber"
 url: /newport/elegance-barber/
-shop: Friseur
+shop: hairdresser
 ---

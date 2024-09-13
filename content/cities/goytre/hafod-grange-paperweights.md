@@ -1,5 +1,5 @@
 ---
 title: "Hafod Grange Paperweights"
 url: /goytre/hafod-grange-paperweights/
-shop: Andenken
+shop: gift
 ---

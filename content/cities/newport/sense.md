@@ -1,5 +1,5 @@
 ---
 title: "Sense"
 url: /newport/sense/
-shop: Gebrauchtwaren
+shop: charity
 ---

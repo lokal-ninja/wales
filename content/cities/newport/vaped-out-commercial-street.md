@@ -1,5 +1,5 @@
 ---
 title: "Vaped Out"
 url: /newport/vaped-out-commercial-street/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

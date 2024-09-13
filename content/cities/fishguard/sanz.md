@@ -1,5 +1,5 @@
 ---
 title: "Sanz"
 url: /fishguard/sanz/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ranj Superstore"
 url: /newport/ranj-superstore/
-shop: Lebensmittel
+shop: convenience
 ---

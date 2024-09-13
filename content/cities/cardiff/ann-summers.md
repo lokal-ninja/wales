@@ -1,5 +1,5 @@
 ---
 title: "Ann Summers"
 url: /cardiff/ann-summers/
-shop: Erotik
+shop: erotic
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J Williams Butchers"
 url: /llanfairfechan/j-williams-butchers/
-shop: Metzgerei
+shop: butcher
 ---

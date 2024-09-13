@@ -1,5 +1,5 @@
 ---
 title: "Iechyd Da"
 url: /llandovery/iechyd-da/
-shop: Lebensmittel
+shop: convenience
 ---

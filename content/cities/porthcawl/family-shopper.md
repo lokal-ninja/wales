@@ -1,5 +1,5 @@
 ---
 title: "Family Shopper"
 url: /porthcawl/family-shopper/
-shop: Lebensmittel
+shop: convenience
 ---

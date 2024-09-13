@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /abertridwr/spar/
-shop: Lebensmittel
+shop: convenience
 ---

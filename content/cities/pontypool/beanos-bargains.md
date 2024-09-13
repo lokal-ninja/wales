@@ -1,5 +1,5 @@
 ---
 title: "Beano's Bargains"
 url: /pontypool/beanos-bargains/
-shop: Tiere
+shop: pet
 ---

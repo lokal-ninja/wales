@@ -1,5 +1,5 @@
 ---
 title: "Bladez Barbers"
 url: /pontypool/bladez-barbers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Awesome Wales Zero Waste"
 url: /barry/awesome-wales-zero-waste/
-shop: Allgemein
+shop: shop
 ---

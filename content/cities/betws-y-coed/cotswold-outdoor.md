@@ -1,5 +1,5 @@
 ---
 title: "Cotswold Outdoor"
 url: /betws-y-coed/cotswold-outdoor/
-shop: Outdoor
+shop: outdoor
 ---

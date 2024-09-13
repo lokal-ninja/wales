@@ -1,5 +1,5 @@
 ---
 title: "Go-RAW"
 url: /newport/go-raw/
-shop: Tiere
+shop: pet
 ---

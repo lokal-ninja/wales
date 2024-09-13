@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /rhyl/savers/
-shop: Drogerie
+shop: chemist
 ---

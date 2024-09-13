@@ -1,5 +1,5 @@
 ---
 title: "Toffee World"
 url: /colwyn-bay/toffee-world/
-shop: Süßwaren
+shop: confectionery
 ---

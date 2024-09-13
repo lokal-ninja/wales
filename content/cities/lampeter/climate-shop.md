@@ -1,5 +1,5 @@
 ---
 title: "Climate Shop"
 url: /lampeter/climate-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

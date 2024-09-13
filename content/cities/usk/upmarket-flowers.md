@@ -1,5 +1,5 @@
 ---
 title: "Upmarket Flowers"
 url: /usk/upmarket-flowers/
-shop: Blumen
+shop: florist
 ---

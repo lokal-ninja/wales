@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /llanberis/one-stop/
-shop: Lebensmittel
+shop: convenience
 ---

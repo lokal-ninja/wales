@@ -1,5 +1,5 @@
 ---
 title: "MaxiDeals"
 url: /newport/maxideals/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Savers"
 url: /newport/savers/
-shop: Drogerie
+shop: chemist
 ---

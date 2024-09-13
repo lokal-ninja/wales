@@ -1,5 +1,5 @@
 ---
 title: "Lush Hair Studio"
 url: /llanelli/lush-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

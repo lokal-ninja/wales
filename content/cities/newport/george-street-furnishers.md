@@ -1,5 +1,5 @@
 ---
 title: "George Street Furnishers"
 url: /newport/george-street-furnishers/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoe Zone"
 url: /cwmbran/shoe-zone/
-shop: Schuhe
+shop: shoes
 ---

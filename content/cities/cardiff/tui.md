@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /cardiff/tui/
-shop: Reisebüro
+shop: travel agency
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Deli Y Porc"
 url: /porthmadog/deli-y-porc/
-shop: Feinkost
+shop: deli
 ---

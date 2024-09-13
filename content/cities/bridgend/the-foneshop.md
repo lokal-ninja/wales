@@ -1,5 +1,5 @@
 ---
 title: "The Foneshop"
 url: /bridgend/the-foneshop/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cash Generator"
 url: /aberdare/cash-generator/
-shop: Gebrauchtwaren
+shop: charity
 ---

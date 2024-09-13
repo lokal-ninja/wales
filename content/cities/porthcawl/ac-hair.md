@@ -1,5 +1,5 @@
 ---
 title: "AC Hair"
 url: /porthcawl/ac-hair/
-shop: Friseur
+shop: hairdresser
 ---

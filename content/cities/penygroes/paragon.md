@@ -1,5 +1,5 @@
 ---
 title: "Paragon"
 url: /penygroes/paragon/
-shop: Bestattungen
+shop: funeral directors
 ---

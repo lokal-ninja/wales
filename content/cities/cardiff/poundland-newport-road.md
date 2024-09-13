@@ -1,5 +1,5 @@
 ---
 title: "Poundland"
 url: /cardiff/poundland-newport-road/
-shop: Kramladen
+shop: variety store
 ---

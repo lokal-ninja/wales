@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
 url: /wrexham/deichmann/
-shop: Schuhe
+shop: shoes
 ---

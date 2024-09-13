@@ -1,5 +1,5 @@
 ---
 title: "Card Factory"
 url: /aberdare/card-factory/
-shop: Andenken
+shop: gift
 ---

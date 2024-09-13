@@ -1,5 +1,5 @@
 ---
 title: "Queen's Bakery"
 url: /cardigan-aberteifi/queens-bakery/
-shop: Bäckerei
+shop: bakery
 ---

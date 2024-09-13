@@ -1,5 +1,5 @@
 ---
 title: "Select"
 url: /aberdare/select/
-shop: Kleidung
+shop: clothes
 ---

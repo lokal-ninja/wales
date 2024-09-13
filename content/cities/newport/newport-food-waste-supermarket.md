@@ -1,5 +1,5 @@
 ---
 title: "Newport Food Waste Supermarket"
 url: /newport/newport-food-waste-supermarket/
-shop: Supermarkt
+shop: supermarket
 ---

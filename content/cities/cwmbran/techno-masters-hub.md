@@ -1,5 +1,5 @@
 ---
 title: "Techno Masters Hub"
 url: /cwmbran/techno-masters-hub/
-shop: Allgemein
+shop: shop
 ---

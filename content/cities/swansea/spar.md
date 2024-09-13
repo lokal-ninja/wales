@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /swansea/spar/
-shop: Lebensmittel
+shop: convenience
 ---

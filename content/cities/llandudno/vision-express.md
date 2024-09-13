@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /llandudno/vision-express/
-shop: Optiker
+shop: optician
 ---

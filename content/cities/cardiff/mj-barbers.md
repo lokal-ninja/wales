@@ -1,5 +1,5 @@
 ---
 title: "MJ Barbers"
 url: /cardiff/mj-barbers/
-shop: Friseur
+shop: hairdresser
 ---

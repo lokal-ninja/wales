@@ -1,5 +1,5 @@
 ---
 title: "J. Pidgeon and Son"
 url: /cardiff/j-pidgeon-and-son/
-shop: Bestattungen
+shop: funeral directors
 ---

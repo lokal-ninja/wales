@@ -1,5 +1,5 @@
 ---
 title: "Chepstow station ticket office"
 url: /chepstow/chepstow-station-ticket-office/
-shop: Tickets
+shop: ticket
 ---

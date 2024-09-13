@@ -1,5 +1,5 @@
 ---
 title: "U Melt Me"
 url: /cardigan-aberteifi/u-melt-me/
-shop: Andenken
+shop: gift
 ---

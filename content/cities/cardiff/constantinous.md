@@ -1,5 +1,5 @@
 ---
 title: "Constantinous"
 url: /cardiff/constantinous/
-shop: Friseur
+shop: hairdresser
 ---

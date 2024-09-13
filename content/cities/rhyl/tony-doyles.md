@@ -1,5 +1,5 @@
 ---
 title: "Tony Doyles"
 url: /rhyl/tony-doyles/
-shop: Metzgerei
+shop: butcher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kash Crafts"
 url: /newport/kash-crafts/
-shop: Basteln
+shop: craft
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Butchers Hook"
 url: /cardiff/butchers-hook/
-shop: Metzgerei
+shop: butcher
 ---

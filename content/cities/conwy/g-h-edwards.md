@@ -1,5 +1,5 @@
 ---
 title: "G. H. Edwards"
 url: /conwy/g-h-edwards/
-shop: Zeitungen
+shop: newsagent
 ---

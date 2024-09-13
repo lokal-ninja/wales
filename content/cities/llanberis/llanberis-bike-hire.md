@@ -1,5 +1,5 @@
 ---
 title: "Llanberis Bike Hire"
 url: /llanberis/llanberis-bike-hire/
-shop: Mieten
+shop: storage rental
 ---

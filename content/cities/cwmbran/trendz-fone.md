@@ -1,5 +1,5 @@
 ---
 title: "Trendz Fone"
 url: /cwmbran/trendz-fone/
-shop: Handy
+shop: mobile phone
 ---

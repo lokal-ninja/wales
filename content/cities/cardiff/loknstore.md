@@ -1,5 +1,5 @@
 ---
 title: "Lok'nStore"
 url: /cardiff/loknstore/
-shop: Mieten
+shop: storage rental
 ---

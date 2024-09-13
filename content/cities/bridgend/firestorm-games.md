@@ -1,5 +1,5 @@
 ---
 title: "Firestorm Games"
 url: /bridgend/firestorm-games/
-shop: Spiele
+shop: games
 ---

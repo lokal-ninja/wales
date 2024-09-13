@@ -1,5 +1,5 @@
 ---
 title: "Delikatesy"
 url: /newport/delikatesy/
-shop: Feinkost
+shop: deli
 ---

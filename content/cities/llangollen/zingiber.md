@@ -1,5 +1,5 @@
 ---
 title: "Zingiber"
 url: /llangollen/zingiber/
-shop: Lebensmittel
+shop: convenience
 ---

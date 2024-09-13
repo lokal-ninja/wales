@@ -1,5 +1,5 @@
 ---
 title: "Spartan"
 url: /barry/spartan/
-shop: Autoteile
+shop: car parts
 ---

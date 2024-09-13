@@ -1,5 +1,5 @@
 ---
 title: "Browbar"
 url: /barry/browbar/
-shop: Kosmetik
+shop: beauty
 ---

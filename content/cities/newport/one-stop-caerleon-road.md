@@ -1,5 +1,5 @@
 ---
 title: "One Stop"
 url: /newport/one-stop-caerleon-road/
-shop: Lebensmittel
+shop: convenience
 ---

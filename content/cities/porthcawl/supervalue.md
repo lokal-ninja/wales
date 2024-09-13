@@ -1,5 +1,5 @@
 ---
 title: "SuperValue"
 url: /porthcawl/supervalue/
-shop: Lebensmittel
+shop: convenience
 ---

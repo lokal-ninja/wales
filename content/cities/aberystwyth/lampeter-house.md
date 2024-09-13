@@ -1,5 +1,5 @@
 ---
 title: "Lampeter House"
 url: /aberystwyth/lampeter-house/
-shop: Gardinen
+shop: curtain
 ---

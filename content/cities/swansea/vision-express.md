@@ -1,5 +1,5 @@
 ---
 title: "Vision Express"
 url: /swansea/vision-express/
-shop: Optiker
+shop: optician
 ---

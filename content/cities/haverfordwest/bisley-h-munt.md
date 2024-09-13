@@ -1,5 +1,5 @@
 ---
 title: "Bisley H Munt"
 url: /haverfordwest/bisley-h-munt/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citywide Autocentres"
 url: /cardiff/citywide-autocentres/
-shop: Autowerkstatt
+shop: car repair
 ---

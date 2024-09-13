@@ -1,5 +1,5 @@
 ---
 title: "Scruffy Dogs"
 url: /cardiff/scruffy-dogs/
-shop: Tiersalon
+shop: pet grooming
 ---
