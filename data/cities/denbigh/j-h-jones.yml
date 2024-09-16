@@ -1,11 +1,11 @@
 id: 386396168
-type: way
+type: node
 latitude: 53.18595
 longitude: -3.41357
-postcode: "LL16 3BW"
+postcode: LL16 3BW
 city: Denbigh
-street: "Vale Street"
-housenumber: 92
+street: Vale Street
+housenumber: "92"
 phone: ""
 opening_hours: ""
 website: ""

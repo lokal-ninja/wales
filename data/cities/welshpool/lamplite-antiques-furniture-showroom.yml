@@ -1,11 +1,11 @@
 id: 509568195
-type: way
+type: node
 latitude: 52.66057
 longitude: -3.14806
-postcode: "SY21 7SA"
+postcode: SY21 7SA
 city: Welshpool
-street: "Boot Street"
-housenumber: 7
+street: Boot Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

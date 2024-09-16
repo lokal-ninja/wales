@@ -1,11 +1,11 @@
 id: 26320797
-type: way
+type: node
 latitude: 51.57752
 longitude: -3.215
-postcode: "CF83 1XP"
+postcode: CF83 1XP
 city: Caerphilly
-street: "Castle Street"
-housenumber: 44
+street: Castle Street
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/268/caerphilly"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/268/caerphilly

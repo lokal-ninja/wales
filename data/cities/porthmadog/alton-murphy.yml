@@ -1,11 +1,11 @@
 id: 688056099
-type: way
+type: node
 latitude: 52.92766
 longitude: -4.13332
-postcode: "LL49 9NW"
+postcode: LL49 9NW
 city: Porthmadog
-street: "High Street"
-housenumber: 128
+street: High Street
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Sa 09:00-16:30"
-website: "https://www.altonmurphy.co.uk/"
+opening_hours: Mo-Sa 09:00-16:30
+website: https://www.altonmurphy.co.uk/

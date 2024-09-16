@@ -1,11 +1,11 @@
 id: 230562207
-type: way
+type: node
 latitude: 52.99475
 longitude: -3.93457
-postcode: "LL41 3AG"
+postcode: LL41 3AG
 city: Blaenau Ffestiniog
-street: "Stryd Fawr"
-housenumber: 
+street: Stryd Fawr
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/LL41-3AG/high-street"
+opening_hours: Mo-Sa 06:00-23:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/LL41-3AG/high-street

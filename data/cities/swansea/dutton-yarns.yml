@@ -1,11 +1,11 @@
 id: 540424246
-type: way
+type: node
 latitude: 51.61938
 longitude: -3.94534
-postcode: "SA1 3PE"
+postcode: SA1 3PE
 city: Swansea
-street: "Swansea Market"
-housenumber: 17
+street: Swansea Market
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

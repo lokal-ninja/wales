@@ -1,11 +1,11 @@
 id: 232341726
-type: way
+type: node
 latitude: 51.67189
 longitude: -4.69934
-postcode: "SA70 7AA"
+postcode: SA70 7AA
 city: Tenby
-street: "High Street"
-housenumber: 46
+street: High Street
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

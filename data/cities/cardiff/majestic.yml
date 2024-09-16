@@ -1,11 +1,11 @@
 id: 94702977
-type: way
+type: node
 latitude: 51.45401
 longitude: -3.18616
-postcode: "CF11 0SR"
+postcode: CF11 0SR
 city: Cardiff
-street: "Dunleavy Drive"
-housenumber: 
-phone: "+44 29 2022 8806"
-opening_hours: "Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:00-19:00; Su,PH 10:00-17:00"
-website: "https://www.majestic.co.uk/stores/cardiff-bay"
+street: Dunleavy Drive
+housenumber: ""
+phone: +44 29 2022 8806
+opening_hours: Mo-We 10:00-19:00; Th-Fr 10:00-20:00; Sa 09:00-19:00; Su,PH 10:00-17:00
+website: https://www.majestic.co.uk/stores/cardiff-bay

@@ -2,10 +2,11 @@ id: 11461178298
 type: node
 latitude: 51.66656
 longitude: -3.19548
-postcode: "NP12 1AB"
+postcode: NP12 1AB
 city: Blackwood
 street: ""
-housenumber: 
-phone: "+44 1495 805 022"
-opening_hours: "Mo-Tu 09:15-17:30; We 10:00-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00; Su 11:00-16:00"
-website: "https://www.haystravel.co.uk/branches/blackwood/"
+housenumber: ""
+phone: +44 1495 805 022
+opening_hours: Mo-Tu 09:15-17:30; We 10:00-17:30; Th-Fr 09:15-17:30; Sa 09:15-17:00;
+    Su 11:00-16:00
+website: https://www.haystravel.co.uk/branches/blackwood/

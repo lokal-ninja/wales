@@ -1,11 +1,11 @@
 id: 224876524
-type: way
+type: node
 latitude: 51.61831
 longitude: -3.98619
-postcode: "SA2 9BZ"
+postcode: SA2 9BZ
 city: Swansea
-street: "Gower Road"
-housenumber: 102
+street: Gower Road
+housenumber: "102"
 phone: ""
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.coop.co.uk/store-finder/SA2-9BZ/gower-road"
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.coop.co.uk/store-finder/SA2-9BZ/gower-road

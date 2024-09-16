@@ -1,11 +1,11 @@
 id: 100727325
-type: way
+type: node
 latitude: 51.40568
 longitude: -3.26806
 postcode: ""
 city: Barry
-street: "Holton Road"
-housenumber: 98
-phone: "+44 1446 745483"
+street: Holton Road
+housenumber: "98"
+phone: +44 1446 745483
 opening_hours: ""
-website: "https://www.sibellesalon.co.uk/"
+website: https://www.sibellesalon.co.uk/

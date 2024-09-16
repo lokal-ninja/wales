@@ -1,11 +1,11 @@
 id: 166981334
-type: way
+type: node
 latitude: 53.32172
 longitude: -3.82231
-postcode: "LL30 1PX"
+postcode: LL30 1PX
 city: Llandudno
-street: "Conway Road"
-housenumber: 
+street: Conway Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 11:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1137948328
-type: way
+type: node
 latitude: 51.76756
 longitude: -3.1602
-postcode: "NP13 3XB"
+postcode: NP13 3XB
 city: Blaina
-street: "High Street"
-housenumber: 53
-phone: "+44 1495 290 321"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/NP13-3XB/53-high-street"
+street: High Street
+housenumber: "53"
+phone: +44 1495 290 321
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/NP13-3XB/53-high-street

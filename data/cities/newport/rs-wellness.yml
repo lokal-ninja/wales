@@ -2,10 +2,11 @@ id: 11077295253
 type: node
 latitude: 51.57455
 longitude: -2.96733
-postcode: "NP19 4ED"
+postcode: NP19 4ED
 city: Newport
-street: "Corporation Road"
-housenumber: 
+street: Corporation Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo Off; Tu 08:30-14:30; We Off; Th Off; Fr 09:00-14:00; Sa Off; Su Off"
-website: "https://www.rswellness.co.uk/"
+opening_hours: Mo Off; Tu 08:30-14:30; We Off; Th Off; Fr 09:00-14:00; Sa Off; Su
+    Off
+website: https://www.rswellness.co.uk/

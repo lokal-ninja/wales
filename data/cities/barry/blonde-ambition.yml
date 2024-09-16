@@ -1,11 +1,11 @@
 id: 956080277
-type: way
+type: node
 latitude: 51.39983
 longitude: -3.28839
-postcode: "CF62 6HD"
+postcode: CF62 6HD
 city: Barry
-street: "Park Crescent"
-housenumber: 117
-phone: "+44 1446 738674"
-opening_hours: "Tu-Sa 09:00-18:30"
-website: "https://www.blondeinbarry.co.uk/"
+street: Park Crescent
+housenumber: "117"
+phone: +44 1446 738674
+opening_hours: Tu-Sa 09:00-18:30
+website: https://www.blondeinbarry.co.uk/

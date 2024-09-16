@@ -2,10 +2,10 @@ id: 12050957910
 type: node
 latitude: 51.73124
 longitude: -3.1345
-postcode: "NP13 1DB"
+postcode: NP13 1DB
 city: Abertillery
-street: "Church Street"
-housenumber: 37
+street: Church Street
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

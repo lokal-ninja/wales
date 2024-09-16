@@ -1,11 +1,11 @@
 id: 24516098
-type: way
+type: node
 latitude: 51.52405
 longitude: -3.24263
-postcode: "CF14 7EW"
+postcode: CF14 7EW
 city: Cardiff
-street: "Longwood Drive"
-housenumber: 
+street: Longwood Drive
+housenumber: ""
 phone: ""
-opening_hours: "Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00"
+opening_hours: Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-22:00; Su 10:00-16:00
 website: ""

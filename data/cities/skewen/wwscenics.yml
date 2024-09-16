@@ -1,11 +1,11 @@
 id: 111659084
-type: way
+type: node
 latitude: 51.66149
 longitude: -3.85384
-postcode: "SA10 6RP"
+postcode: SA10 6RP
 city: Skewen
-street: "Graig Road"
-housenumber: 30
-phone: "+441792 815841"
+street: Graig Road
+housenumber: "30"
+phone: +441792 815841
 opening_hours: ""
-website: "https://www.wwscenics.com/"
+website: https://www.wwscenics.com/

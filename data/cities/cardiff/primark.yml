@@ -1,11 +1,11 @@
 id: 90518617
-type: way
+type: node
 latitude: 51.4819
 longitude: -3.17608
-postcode: "CF10 2GQ"
+postcode: CF10 2GQ
 city: Cardiff
-street: "Queen Street"
-housenumber: 48
+street: Queen Street
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-17:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00; Su 10:30-17:00
 website: ""

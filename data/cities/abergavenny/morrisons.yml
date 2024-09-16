@@ -1,11 +1,11 @@
 id: 727735173
-type: way
+type: node
 latitude: 51.82418
 longitude: -3.01661
-postcode: "NP7 5TR"
+postcode: NP7 5TR
 city: Abergavenny
-street: "Park Road"
-housenumber: 1
+street: Park Road
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/468/abergavenny"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/468/abergavenny

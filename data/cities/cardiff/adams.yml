@@ -1,11 +1,11 @@
 id: 947202098
-type: way
+type: node
 latitude: 51.48939
 longitude: -3.17393
-postcode: "CF24 4AE"
+postcode: CF24 4AE
 city: Cardiff
-street: "Salisbury Road"
-housenumber: 114
+street: Salisbury Road
+housenumber: "114"
 phone: ""
 opening_hours: ""
 website: ""

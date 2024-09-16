@@ -2,10 +2,11 @@ id: 8119403269
 type: node
 latitude: 51.61608
 longitude: -3.00584
-postcode: "NP20 6LA"
+postcode: NP20 6LA
 city: Newport
-street: "Larch Grove"
-housenumber: 169
-phone: "+44 1633 855 480"
-opening_hours: "Mo off; Tu 09:00-16:00; We 09:00-17:00; Th 09:00-18:00; Fr 09:00-17:00; Sa 08:30-12:00; Su off; PH off"
-website: "https://www.facebook.com/Hairtek-Malpas-104502977994435/"
+street: Larch Grove
+housenumber: "169"
+phone: +44 1633 855 480
+opening_hours: Mo off; Tu 09:00-16:00; We 09:00-17:00; Th 09:00-18:00; Fr 09:00-17:00;
+    Sa 08:30-12:00; Su off; PH off
+website: https://www.facebook.com/Hairtek-Malpas-104502977994435/

@@ -1,11 +1,11 @@
 id: 1051357330
-type: way
+type: node
 latitude: 52.92749
 longitude: -4.13237
-postcode: "LL49 9EU"
+postcode: LL49 9EU
 city: Porthmadog
-street: "High Street"
-housenumber: 109
+street: High Street
+housenumber: "109"
 phone: ""
-opening_hours: "Mo-Su 10:00-16:00"
+opening_hours: Mo-Su 10:00-16:00
 website: ""

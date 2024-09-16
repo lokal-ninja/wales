@@ -1,11 +1,11 @@
 id: 943344286
-type: way
+type: node
 latitude: 53.04701
 longitude: -2.99511
 postcode: ""
 city: Wrexham
-street: "Lord Street"
-housenumber: 30
+street: Lord Street
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

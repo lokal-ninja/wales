@@ -1,11 +1,11 @@
 id: 439710497
-type: way
+type: node
 latitude: 51.82423
 longitude: -3.0184
-postcode: "NP7 5AJ"
+postcode: NP7 5AJ
 city: Abergavenny
-street: "Cibi Walk"
-housenumber: 8
+street: Cibi Walk
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-18:00; Su 10:00-16:00
 website: ""

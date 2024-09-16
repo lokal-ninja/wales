@@ -1,11 +1,11 @@
 id: 513087464
-type: way
+type: node
 latitude: 53.31938
 longitude: -3.49324
 postcode: ""
 city: Rhyl
-street: "Bedford Street"
-housenumber: 28
+street: Bedford Street
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 89249664
-type: way
+type: node
 latitude: 51.99542
 longitude: -3.78938
-postcode: "SA20 0RA"
+postcode: SA20 0RA
 city: Llandovery
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/SA20-0RA/high-street"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/SA20-0RA/high-street

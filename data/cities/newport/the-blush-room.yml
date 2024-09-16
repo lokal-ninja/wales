@@ -2,10 +2,11 @@ id: 9173321866
 type: node
 latitude: 51.59108
 longitude: -2.99036
-postcode: "NP19 0AH"
+postcode: NP19 0AH
 city: Newport
-street: "Clarence Place"
-housenumber: 42
-phone: "+44 7768 228 422"
-opening_hours: "Mo 09:00-18:00; Tu off; We off; Th off; Fr 09:00-18:00; Sa 08:00-17:00; Su 12:00-16:00"
-website: "https://www.facebook.com/theblushroomstudio/"
+street: Clarence Place
+housenumber: "42"
+phone: +44 7768 228 422
+opening_hours: Mo 09:00-18:00; Tu off; We off; Th off; Fr 09:00-18:00; Sa 08:00-17:00;
+    Su 12:00-16:00
+website: https://www.facebook.com/theblushroomstudio/

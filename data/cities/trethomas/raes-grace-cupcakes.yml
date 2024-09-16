@@ -2,10 +2,11 @@ id: 10102143273
 type: node
 latitude: 51.59136
 longitude: -3.18426
-postcode: "CF83 8BU"
+postcode: CF83 8BU
 city: Trethomas
-street: "Newport Road"
-housenumber: 3
-phone: "+44 7950 504 480"
-opening_hours: "Mo Off; Tu 09:00-16:00; We-Th 09:00-15:00; Fr 09:30-15:00; Sa Off; Su Off§"
-website: "https://www.facebook.com/raesgracecakes/"
+street: Newport Road
+housenumber: "3"
+phone: +44 7950 504 480
+opening_hours: Mo Off; Tu 09:00-16:00; We-Th 09:00-15:00; Fr 09:30-15:00; Sa Off;
+    Su Off§
+website: https://www.facebook.com/raesgracecakes/

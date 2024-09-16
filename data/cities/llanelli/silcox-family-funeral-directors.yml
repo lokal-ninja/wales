@@ -1,11 +1,11 @@
 id: 160826537
-type: way
+type: node
 latitude: 51.68771
 longitude: -4.16892
-postcode: "SA15 3DS"
+postcode: SA15 3DS
 city: Llanelli
-street: "New Road"
-housenumber: 83
-phone: "+44 1554 773120"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.silcoxfamilyfunerals.com"
+street: New Road
+housenumber: "83"
+phone: +44 1554 773120
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.silcoxfamilyfunerals.com

@@ -1,11 +1,11 @@
 id: 1236569268
-type: way
+type: node
 latitude: 51.61944
 longitude: -3.958
-postcode: "SA1 5QF"
+postcode: SA1 5QF
 city: Swansea
-street: "Walter Road"
-housenumber: 104
-phone: "+44 1792805002"
+street: Walter Road
+housenumber: "104"
+phone: +44 1792805002
 opening_hours: ""
-website: "https://www.jmentertainment.co.uk/"
+website: https://www.jmentertainment.co.uk/

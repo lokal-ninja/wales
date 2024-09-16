@@ -1,11 +1,11 @@
 id: 1270367170
-type: way
+type: node
 latitude: 51.68137
 longitude: -4.16163
-postcode: "SA15 1YL"
+postcode: SA15 1YL
 city: Llanelli
-street: "Cowell Precinct"
-housenumber: 5
+street: Cowell Precinct
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

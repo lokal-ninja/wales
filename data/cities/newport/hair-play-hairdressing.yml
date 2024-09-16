@@ -2,10 +2,11 @@ id: 8583418934
 type: node
 latitude: 51.58741
 longitude: -2.99884
-postcode: "NP20 4BP"
+postcode: NP20 4BP
 city: Newport
-street: "Baneswell Road"
-housenumber: 19
-phone: "+44 1633 220 550"
-opening_hours: "Mo 10:00-16:00; Tu off; We 09:00-17:00; Th 09:00-21:00; Fr 09:00-17:00; Sa 08:30-16:30; Su off"
-website: "http://www.hairplayhairdressing.co.uk/"
+street: Baneswell Road
+housenumber: "19"
+phone: +44 1633 220 550
+opening_hours: Mo 10:00-16:00; Tu off; We 09:00-17:00; Th 09:00-21:00; Fr 09:00-17:00;
+    Sa 08:30-16:30; Su off
+website: http://www.hairplayhairdressing.co.uk/

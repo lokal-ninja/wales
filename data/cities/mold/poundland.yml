@@ -1,11 +1,11 @@
 id: 89501703
-type: way
+type: node
 latitude: 53.16554
 longitude: -3.14263
-postcode: "CH7 1NH"
+postcode: CH7 1NH
 city: Mold
-street: "New Street"
-housenumber: 
+street: New Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

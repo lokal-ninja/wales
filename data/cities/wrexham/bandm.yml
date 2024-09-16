@@ -1,11 +1,11 @@
 id: 900168136
-type: way
+type: node
 latitude: 53.04778
 longitude: -2.98507
-postcode: "LL13 8HL"
+postcode: LL13 8HL
 city: Wrexham
 street: ""
-housenumber: 
-phone: "+44 330 838 9745"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
+housenumber: ""
+phone: +44 330 838 9745
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
 website: ""

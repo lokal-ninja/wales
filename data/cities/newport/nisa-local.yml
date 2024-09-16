@@ -2,10 +2,10 @@ id: 7200017558
 type: node
 latitude: 51.58655
 longitude: -2.94565
-postcode: "NP19 9RZ"
+postcode: NP19 9RZ
 city: Newport
-street: "Aberthaw Rise"
-housenumber: 1
-phone: "+44 1633 280 900"
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-21:00"
-website: "https://www.londis.co.uk/our-stores/pricewise-supermarket"
+street: Aberthaw Rise
+housenumber: "1"
+phone: +44 1633 280 900
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-21:00
+website: https://www.londis.co.uk/our-stores/pricewise-supermarket

@@ -1,11 +1,11 @@
 id: 32228085
-type: way
+type: node
 latitude: 53.05043
 longitude: -2.98615
-postcode: "LL13 8HL"
+postcode: LL13 8HL
 city: Wrexham
-street: "Holt Road"
-housenumber: 
+street: Holt Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo 08:00-22:00; Tu-Sa 06:00-22:00; Su 10:00-16:00"
+opening_hours: Mo 08:00-22:00; Tu-Sa 06:00-22:00; Su 10:00-16:00
 website: ""

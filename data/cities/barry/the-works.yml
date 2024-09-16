@@ -1,11 +1,11 @@
 id: 950290169
-type: way
+type: node
 latitude: 51.40588
 longitude: -3.26743
 postcode: ""
 city: Barry
-street: "Holton Road"
-housenumber: 
+street: Holton Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0641"
+website: https://www.theworks.co.uk/Store?storeId=0641

@@ -1,11 +1,11 @@
 id: 605888537
-type: way
+type: node
 latitude: 52.07938
 longitude: -4.65735
-postcode: "SA43 3AG"
+postcode: SA43 3AG
 city: Cardigan / Aberteifi
 street: ""
-housenumber: 14
-phone: "+44 1239 621906"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00"
-website: "https://www.wolseley.co.uk/branch/cardigan/"
+housenumber: "14"
+phone: +44 1239 621906
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00
+website: https://www.wolseley.co.uk/branch/cardigan/

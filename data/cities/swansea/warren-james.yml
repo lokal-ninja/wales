@@ -1,11 +1,11 @@
 id: 541157439
-type: way
+type: node
 latitude: 51.6196
 longitude: -3.9443
-postcode: "SA1 3AA"
+postcode: SA1 3AA
 city: Swansea
-street: "Whitewalls"
-housenumber: 10
+street: Whitewalls
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

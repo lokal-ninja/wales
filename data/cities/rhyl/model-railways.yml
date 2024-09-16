@@ -1,11 +1,11 @@
 id: 513060996
-type: way
+type: node
 latitude: 53.31891
 longitude: -3.4932
 postcode: ""
 city: Rhyl
-street: "Wellington Road"
-housenumber: 44
+street: Wellington Road
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

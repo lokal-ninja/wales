@@ -1,11 +1,11 @@
 id: 621438220
-type: way
+type: node
 latitude: 51.57732
 longitude: -2.95541
-postcode: "NP19 4NJ"
+postcode: NP19 4NJ
 city: Newport
-street: "Nash Road"
-housenumber: 83
+street: Nash Road
+housenumber: "83"
 phone: ""
 opening_hours: ""
 website: ""

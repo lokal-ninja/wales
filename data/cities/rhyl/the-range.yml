@@ -1,11 +1,11 @@
 id: 511350291
-type: way
+type: node
 latitude: 53.31553
 longitude: -3.50479
-postcode: "LL18 5AX"
+postcode: LL18 5AX
 city: Rhyl
-street: "Marina Quay"
-housenumber: 1
+street: Marina Quay
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.therange.co.uk/stores/rhyl"
+website: https://www.therange.co.uk/stores/rhyl

@@ -1,11 +1,11 @@
 id: 951310202
-type: way
+type: node
 latitude: 51.40484
 longitude: -3.27116
 postcode: ""
 city: Barry
-street: "Holton Road"
-housenumber: 29
-phone: "+44 1446 733844"
+street: Holton Road
+housenumber: "29"
+phone: +44 1446 733844
 opening_hours: ""
-website: "https://www.rjfunerals.co.uk/"
+website: https://www.rjfunerals.co.uk/

@@ -1,11 +1,11 @@
 id: 159540534
-type: way
+type: node
 latitude: 53.28023
 longitude: -3.82698
-postcode: "LL32 8LD"
+postcode: LL32 8LD
 city: Conwy
-street: "Rose Hill Street"
-housenumber: 5
+street: Rose Hill Street
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Su 10:00-16:30"
+opening_hours: Mo-Su 10:00-16:30
 website: ""

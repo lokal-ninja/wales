@@ -1,11 +1,11 @@
 id: 899981755
-type: way
+type: node
 latitude: 51.46995
 longitude: -3.19572
-postcode: "CF11 8AF"
+postcode: CF11 8AF
 city: Cardiff
-street: "Sloper Road"
-housenumber: 145
-phone: "+44 2920 387477"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Sloper Road
+housenumber: "145"
+phone: +44 2920 387477
+opening_hours: Mo-Su 06:00-23:00
 website: ""

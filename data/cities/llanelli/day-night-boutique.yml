@@ -1,11 +1,11 @@
 id: 1225654743
-type: way
+type: node
 latitude: 51.68178
 longitude: -4.1611
-postcode: "SA15 1YF"
+postcode: SA15 1YF
 city: Llanelli
-street: "Market Precinct"
-housenumber: 1
-phone: "+44 7854 832754"
+street: Market Precinct
+housenumber: "1"
+phone: +44 7854 832754
 opening_hours: ""
-website: "https://daynightboutique.co.uk"
+website: https://daynightboutique.co.uk

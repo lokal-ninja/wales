@@ -1,11 +1,11 @@
 id: 513061023
-type: way
+type: node
 latitude: 53.32002
 longitude: -3.49276
 postcode: ""
 city: Rhyl
-street: "Water Street"
-housenumber: 26
+street: Water Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 8924051540
 type: node
 latitude: 51.58991
 longitude: -2.9782
-postcode: "NP19 8GE"
+postcode: NP19 8GE
 city: Newport
-street: "Chepstow Road"
-housenumber: 139
-phone: "+447852 309476"
-opening_hours: "Mo-Sa 09:00-18:00"
+street: Chepstow Road
+housenumber: "139"
+phone: +447852 309476
+opening_hours: Mo-Sa 09:00-18:00
 website: ""

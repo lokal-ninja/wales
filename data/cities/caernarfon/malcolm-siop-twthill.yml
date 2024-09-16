@@ -1,11 +1,11 @@
 id: 319109879
-type: way
+type: node
 latitude: 53.14106
 longitude: -4.26982
-postcode: "LL55 1PN"
+postcode: LL55 1PN
 city: Caernarfon
-street: "Stryd Victoria"
-housenumber: 1
+street: Stryd Victoria
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

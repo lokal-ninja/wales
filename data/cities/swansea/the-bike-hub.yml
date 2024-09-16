@@ -1,11 +1,11 @@
 id: 1266106085
-type: way
+type: node
 latitude: 51.61604
 longitude: -3.95691
-postcode: "SA1 4BQ"
+postcode: SA1 4BQ
 city: Swansea
-street: "Saint Helen's Road"
-housenumber: 78
+street: Saint Helen's Road
+housenumber: "78"
 phone: ""
 opening_hours: ""
 website: ""

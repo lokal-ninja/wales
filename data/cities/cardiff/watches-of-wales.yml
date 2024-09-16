@@ -2,10 +2,10 @@ id: 5556559787
 type: node
 latitude: 51.47883
 longitude: -3.17723
-postcode: "CF10 1AF"
+postcode: CF10 1AF
 city: Cardiff
-street: "Morgan Arcade"
-housenumber: 35
-phone: "+44 29 2023 3691"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.watchesofwales.co.uk/"
+street: Morgan Arcade
+housenumber: "35"
+phone: +44 29 2023 3691
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.watchesofwales.co.uk/

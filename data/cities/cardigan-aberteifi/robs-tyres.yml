@@ -1,11 +1,11 @@
 id: 712519479
-type: way
+type: node
 latitude: 52.08531
 longitude: -4.66103
-postcode: "SA43 1JY"
+postcode: SA43 1JY
 city: Cardigan / Aberteifi
-street: "Bath House Road"
-housenumber: 
-phone: "+44 7838 826 201"
-opening_hours: "by appointment only"
-website: "https://www.robstyres.co.uk/"
+street: Bath House Road
+housenumber: ""
+phone: +44 7838 826 201
+opening_hours: '"by appointment only"'
+website: https://www.robstyres.co.uk/

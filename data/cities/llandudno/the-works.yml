@@ -1,11 +1,11 @@
 id: 694032263
-type: way
+type: node
 latitude: 53.32455
 longitude: -3.83067
-postcode: "LL30 2SB"
+postcode: LL30 2SB
 city: Llandudno
-street: "Mostyn Street"
-housenumber: 70
+street: Mostyn Street
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.theworks.co.uk/Store?storeId=0334"
+website: https://www.theworks.co.uk/Store?storeId=0334

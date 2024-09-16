@@ -1,11 +1,11 @@
 id: 27157747
-type: way
+type: node
 latitude: 51.46135
 longitude: -3.19808
-postcode: "CF11 8TU"
+postcode: CF11 8TU
 city: Cardiff
 street: ""
-housenumber: 242
-phone: ""
-opening_hours: ""
-website: "https://dreams.co.uk/store/cardiff-penarth-road"
+housenumber: "242"
+phone: +44 29 2002 4815
+opening_hours: Mo-Tu 10:00-19:00; We-Fr 10:00-18:00; Sa 09:00-18:00; Su 11:00-17:00
+website: https://www.dreams.co.uk/store/cardiff-penarth-road

@@ -1,11 +1,11 @@
 id: 557075519
-type: way
+type: node
 latitude: 51.73407
 longitude: -3.36958
-postcode: "CF48 1YB"
+postcode: CF48 1YB
 city: Merthyr Tydfil
-street: "Pentrebach Road"
-housenumber: 10
-phone: "+44 1685 722773"
-opening_hours: "Mo-Fr 08:30-17:30; Sa 08:30-14:00; Su 10:30-14:00"
-website: "https://dealer.citroen.co.uk/merthyr-tydfil"
+street: Pentrebach Road
+housenumber: "10"
+phone: +44 1685 722773
+opening_hours: Mo-Fr 08:30-17:30; Sa 08:30-14:00; Su 10:30-14:00
+website: https://dealer.citroen.co.uk/merthyr-tydfil

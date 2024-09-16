@@ -2,10 +2,10 @@ id: 7285504987
 type: node
 latitude: 52.4156
 longitude: -4.08393
-postcode: "SY23 2BJ"
+postcode: SY23 2BJ
 city: Aberystwyth
-street: "Stryd y Popty / Baker Street"
-housenumber: 15
-phone: "+44 1970 611555"
-opening_hours: "Mo-Tu 09:00-17:30; We 09:00-13:00; Th-Fr 09:00-17:30; Sa 09:00-13:00"
-website: "https://probertandwilliams.co.uk/"
+street: Stryd y Popty / Baker Street
+housenumber: "15"
+phone: +44 1970 611555
+opening_hours: Mo-Tu 09:00-17:30; We 09:00-13:00; Th-Fr 09:00-17:30; Sa 09:00-13:00
+website: https://probertandwilliams.co.uk/

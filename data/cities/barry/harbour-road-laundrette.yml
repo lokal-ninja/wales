@@ -1,11 +1,11 @@
 id: 956331458
-type: way
+type: node
 latitude: 51.398
 longitude: -3.28764
-postcode: "CF62 5SA"
+postcode: CF62 5SA
 city: Barry
-street: "Harbour Road"
-housenumber: 49
-phone: "+44 1446 421800"
-opening_hours: "Mo-Sa 08:30-17:45, Su 10:00-16:00"
+street: Harbour Road
+housenumber: "49"
+phone: +44 1446 421800
+opening_hours: Mo-Sa 08:30-17:45, Su 10:00-16:00
 website: ""

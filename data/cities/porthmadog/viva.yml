@@ -1,11 +1,11 @@
 id: 1051357338
-type: way
+type: node
 latitude: 52.92776
 longitude: -4.13284
 postcode: ""
 city: Porthmadog
-street: "High Street"
-housenumber: 125
+street: High Street
+housenumber: "125"
 phone: ""
 opening_hours: ""
-website: "https://www.arloesigwyneddwledig.cymru/en/prosiectau/ffiws/"
+website: https://www.arloesigwyneddwledig.cymru/en/prosiectau/ffiws/

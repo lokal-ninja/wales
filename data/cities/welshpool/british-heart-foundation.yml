@@ -1,11 +1,11 @@
 id: 305422371
-type: way
+type: node
 latitude: 52.65964
 longitude: -3.14751
-postcode: "SY21 7RW"
+postcode: SY21 7RW
 city: Welshpool
-street: "Broad Street"
-housenumber: 26
+street: Broad Street
+housenumber: "26"
 phone: ""
 opening_hours: ""
-website: "https://www.bhf.org.uk/what-we-do/find-bhf-near-you/welshpool-bhf-shop"
+website: https://www.bhf.org.uk/what-we-do/find-bhf-near-you/welshpool-bhf-shop

@@ -1,11 +1,11 @@
 id: 951310191
-type: way
+type: node
 latitude: 51.4043
 longitude: -3.27098
-postcode: "CF63 4HD"
+postcode: CF63 4HD
 city: Barry
-street: "Holton Road"
-housenumber: 18
-phone: "+44 1446 728225"
+street: Holton Road
+housenumber: "18"
+phone: +44 1446 728225
 opening_hours: ""
-website: "https://greenpoint-it.co.uk/"
+website: https://greenpoint-it.co.uk/

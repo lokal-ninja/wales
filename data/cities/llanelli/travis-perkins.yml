@@ -1,11 +1,11 @@
 id: 156859801
-type: way
+type: node
 latitude: 51.67378
 longitude: -4.14256
-postcode: "SA14 9RA"
+postcode: SA14 9RA
 city: Llanelli
-street: "Trostre Road"
-housenumber: 
-phone: "+44 1554 741741"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed"
-website: "https://www.travisperkins.co.uk/branch-locator/3005"
+street: Trostre Road
+housenumber: ""
+phone: +44 1554 741741
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-12:00; Su closed
+website: https://www.travisperkins.co.uk/branch-locator/3005

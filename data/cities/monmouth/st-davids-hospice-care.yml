@@ -2,10 +2,10 @@ id: 11282234679
 type: node
 latitude: 51.80996
 longitude: -2.71863
-postcode: "NP25 3EQ"
+postcode: NP25 3EQ
 city: Monmouth
-street: "Monnow Street"
-housenumber: 98
-phone: "+44 1600 775 501"
-opening_hours: "Mo-Sa 08:45-16:00; Su Off"
-website: "https://stdavidshospicecare.org/shop/"
+street: Monnow Street
+housenumber: "98"
+phone: +44 1600 775 501
+opening_hours: Mo-Sa 08:45-16:00; Su Off
+website: https://stdavidshospicecare.org/shop/

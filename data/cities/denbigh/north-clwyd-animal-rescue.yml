@@ -2,10 +2,10 @@ id: 8255518261
 type: node
 latitude: 53.18345
 longitude: -3.41903
-postcode: "LL16 3RY"
+postcode: LL16 3RY
 city: Denbigh
-street: "High Street"
-housenumber: 24
+street: High Street
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://ncar.org.uk/charityshops/"
+website: https://ncar.org.uk/charityshops/

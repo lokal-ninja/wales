@@ -1,11 +1,11 @@
 id: 944848837
-type: way
+type: node
 latitude: 53.04704
 longitude: -2.9974
-postcode: "LL11 1RY"
+postcode: LL11 1RY
 city: Wrexham
-street: "Regent Street"
-housenumber: 41
-phone: "+44 1978501962"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.poundstretcher.co.uk/wrexham-248"
+street: Regent Street
+housenumber: "41"
+phone: +44 1978501962
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.poundstretcher.co.uk/wrexham-248

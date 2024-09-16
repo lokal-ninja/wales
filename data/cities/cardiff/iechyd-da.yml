@@ -2,10 +2,11 @@ id: 9370957185
 type: node
 latitude: 51.51204
 longitude: -3.21821
-postcode: "CF14 1DD"
+postcode: CF14 1DD
 city: Cardiff
-street: "Merthyr Road"
+street: Merthyr Road
 housenumber: 53c
-phone: "+44 2920 617 474"
-opening_hours: "Mo off; Tu-We 09:00-17:00; Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-17:00; Su off"
-website: "http://www.iechyddacf14.co.uk/"
+phone: +44 2920 617 474
+opening_hours: Mo off; Tu-We 09:00-17:00; Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-17:00;
+    Su off
+website: http://www.iechyddacf14.co.uk/

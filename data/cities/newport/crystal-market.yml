@@ -2,10 +2,10 @@ id: 9863774328
 type: node
 latitude: 51.57907
 longitude: -2.98974
-postcode: "NP20 2PE"
+postcode: NP20 2PE
 city: Newport
-street: "Commercial Road"
-housenumber: 55
+street: Commercial Road
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

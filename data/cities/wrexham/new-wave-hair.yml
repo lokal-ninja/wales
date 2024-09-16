@@ -1,11 +1,11 @@
 id: 913005694
-type: way
+type: node
 latitude: 53.04522
 longitude: -2.99078
-postcode: "LL13 8BT"
+postcode: LL13 8BT
 city: Wrexham
-street: "Charles Street"
-housenumber: 25
-phone: "+44 1978290700"
-opening_hours: "Mo-Tu 09:00-17:30; We-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.newwavewrexham.co.uk/"
+street: Charles Street
+housenumber: "25"
+phone: +44 1978290700
+opening_hours: Mo-Tu 09:00-17:30; We-Th 09:00-21:00; Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.newwavewrexham.co.uk/

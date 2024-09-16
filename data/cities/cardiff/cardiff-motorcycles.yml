@@ -1,11 +1,11 @@
 id: 27591465
-type: way
+type: node
 latitude: 51.45435
 longitude: -3.19646
-postcode: "CF11 8JQ"
+postcode: CF11 8JQ
 city: Cardiff
-street: "Penarth Road"
-housenumber: 
-phone: "+44 29 2070 0700"
-opening_hours: "9:00-17:00"
+street: Penarth Road
+housenumber: ""
+phone: +44 29 2070 0700
+opening_hours: 9:00-17:00
 website: ""

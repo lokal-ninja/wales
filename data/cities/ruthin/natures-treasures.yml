@@ -2,10 +2,10 @@ id: 5432922905
 type: node
 latitude: 53.11362
 longitude: -3.30578
-postcode: "LL15 1AG"
+postcode: LL15 1AG
 city: Ruthin
-street: "Well Street"
-housenumber: 65
+street: Well Street
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

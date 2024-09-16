@@ -1,11 +1,11 @@
 id: 114537997
-type: way
+type: node
 latitude: 51.50148
 longitude: -3.1894
 postcode: ""
 city: Cardiff
-street: "Whitchurch Road"
-housenumber: 11
-phone: "+44 29 2021 2474"
+street: Whitchurch Road
+housenumber: "11"
+phone: +44 29 2021 2474
 opening_hours: ""
 website: ""

@@ -2,10 +2,10 @@ id: 11463540329
 type: node
 latitude: 51.59025
 longitude: -2.98945
-postcode: "NP19 0AS"
+postcode: NP19 0AS
 city: Newport
-street: "Grafton Road"
+street: Grafton Road
 housenumber: 2a
-phone: "+44 7816 228 060"
-opening_hours: "Mo Off; Tu-Fr 10:30-16:30; Sa 12:30-16:00 delivery only; Su Off"
+phone: +44 7816 228 060
+opening_hours: Mo Off; Tu-Fr 10:30-16:30; Sa 12:30-16:00 "delivery only"; Su Off
 website: ""

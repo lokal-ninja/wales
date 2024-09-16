@@ -1,11 +1,11 @@
 id: 155792715
-type: way
+type: node
 latitude: 53.14449
 longitude: -4.27286
-postcode: "LL55 1BA"
+postcode: LL55 1BA
 city: Caernarfon
-street: "Ffordd Y Gogledd"
-housenumber: 
-phone: "+44 1286 676617"
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://my.morrisons.com/storefinder/267/caernarfon"
+street: Ffordd Y Gogledd
+housenumber: ""
+phone: +44 1286 676617
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://my.morrisons.com/storefinder/267/caernarfon

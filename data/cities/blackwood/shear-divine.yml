@@ -2,10 +2,11 @@ id: 11460179584
 type: node
 latitude: 51.66688
 longitude: -3.19562
-postcode: "NP12 1AF"
+postcode: NP12 1AF
 city: Blackwood
-street: "High Street"
-housenumber: 96
-phone: "+44 1495 226 200"
-opening_hours: "Mo Off; Tu 09:00-17:00; We 09:00-14:00; Th-Fr 09:00-17:00; Sa 08:30-14:00; Su Off"
-website: "https://www.sheardivine.co.uk"
+street: High Street
+housenumber: "96"
+phone: +44 1495 226 200
+opening_hours: Mo Off; Tu 09:00-17:00; We 09:00-14:00; Th-Fr 09:00-17:00; Sa 08:30-14:00;
+    Su Off
+website: https://www.sheardivine.co.uk

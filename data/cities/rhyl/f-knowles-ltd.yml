@@ -1,11 +1,11 @@
 id: 513181363
-type: way
+type: node
 latitude: 53.31929
 longitude: -3.48969
 postcode: ""
 city: Rhyl
-street: "Bodfor Street"
-housenumber: 32
+street: Bodfor Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

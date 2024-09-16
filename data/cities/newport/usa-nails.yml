@@ -2,10 +2,10 @@ id: 6873725787
 type: node
 latitude: 51.5846
 longitude: -2.99375
-postcode: "NP20 1LQ"
+postcode: NP20 1LQ
 city: Newport
-street: "Commercial Street"
-housenumber: 62
-phone: "+44 1633 256663"
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
+street: Commercial Street
+housenumber: "62"
+phone: +44 1633 256663
+opening_hours: Mo-Sa 09:00-18:00; Su off
 website: ""

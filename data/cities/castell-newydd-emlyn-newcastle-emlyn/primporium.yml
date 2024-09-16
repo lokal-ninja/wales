@@ -1,11 +1,12 @@
 id: 788996560
-type: way
+type: node
 latitude: 52.03891
 longitude: -4.4674
-postcode: "SA38 9AP"
+postcode: SA38 9AP
 city: Castell Newydd Emlyn / Newcastle Emlyn
-street: "Heol Sycamorwydden / Sycamore Street"
-housenumber: 
-phone: "+44 1239 711737"
-opening_hours: "Tu 09:00-17:00; We 09:00-15:00; Th 09:00-17:00; Fr 09:00-19:00; Sa 09:00-13:00"
+street: Heol Sycamorwydden / Sycamore Street
+housenumber: ""
+phone: +44 1239 711737
+opening_hours: Tu 09:00-17:00; We 09:00-15:00; Th 09:00-17:00; Fr 09:00-19:00; Sa
+    09:00-13:00
 website: ""

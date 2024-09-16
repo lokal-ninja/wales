@@ -1,11 +1,11 @@
 id: 951520717
-type: way
+type: node
 latitude: 51.40805
 longitude: -3.25803
-postcode: "CF63 4HW"
+postcode: CF63 4HW
 city: Barry
-street: "Holton Road"
-housenumber: 292
-phone: "+44 1446 311451"
+street: Holton Road
+housenumber: "292"
+phone: +44 1446 311451
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 317238487
-type: way
+type: node
 latitude: 51.6577
 longitude: -3.50554
 postcode: ""
 city: Treorchy
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/CF42-6UA/station-road"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/CF42-6UA/station-road

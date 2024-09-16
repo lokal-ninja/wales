@@ -1,11 +1,11 @@
 id: 807067800
-type: way
+type: node
 latitude: 51.46708
 longitude: -3.19202
-postcode: "CF11 8NN"
+postcode: CF11 8NN
 city: Cardiff
-street: "Penarth Road"
-housenumber: 218
+street: Penarth Road
+housenumber: "218"
 phone: "+442920020225"
-opening_hours: "Mo-Th 09:00-18:00; Fr-Sa 08:30-17:00; Su 10:00-16:00"
-website: "https://www.nathanielcars.co.uk/"
+opening_hours: Mo-Th 09:00-18:00; Fr-Sa 08:30-17:00; Su 10:00-16:00
+website: https://www.nathanielcars.co.uk/

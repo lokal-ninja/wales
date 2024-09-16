@@ -2,10 +2,10 @@ id: 9864212433
 type: node
 latitude: 51.57934
 longitude: -2.99025
-postcode: "NP20 2PL"
+postcode: NP20 2PL
 city: Newport
-street: "Commercial Road"
-housenumber: 168
+street: Commercial Road
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

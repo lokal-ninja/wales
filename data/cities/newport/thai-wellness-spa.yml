@@ -2,10 +2,10 @@ id: 12163563313
 type: node
 latitude: 51.59746
 longitude: -2.99708
-postcode: "NP20 5NG"
+postcode: NP20 5NG
 city: Newport
-street: "Albany Street"
-housenumber: 12
+street: Albany Street
+housenumber: "12"
 phone: "+441633481839"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.thaiwellness.co.uk"
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.thaiwellness.co.uk

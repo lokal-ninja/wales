@@ -1,11 +1,11 @@
 id: 955834998
-type: way
+type: node
 latitude: 51.40599
 longitude: -3.26386
 postcode: ""
 city: Barry
-street: "St Mary's Avenue"
-housenumber: 3
+street: St Mary's Avenue
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

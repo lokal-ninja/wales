@@ -1,11 +1,11 @@
 id: 1209112696
-type: way
+type: node
 latitude: 51.85634
 longitude: -4.30717
-postcode: "SA31 1PN"
+postcode: SA31 1PN
 city: Carmarthen
-street: "Guildhall Square"
-housenumber: 1
+street: Guildhall Square
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

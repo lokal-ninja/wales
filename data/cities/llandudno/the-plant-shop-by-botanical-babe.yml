@@ -1,11 +1,11 @@
 id: 694032260
-type: way
+type: node
 latitude: 53.32443
 longitude: -3.83048
-postcode: "LL30 2SB"
+postcode: LL30 2SB
 city: Llandudno
-street: "Mostyn Street"
-housenumber: 66
+street: Mostyn Street
+housenumber: "66"
 phone: ""
 opening_hours: ""
 website: ""

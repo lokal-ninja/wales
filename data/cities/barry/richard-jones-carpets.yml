@@ -1,11 +1,11 @@
 id: 945823066
-type: way
+type: node
 latitude: 51.39914
 longitude: -3.28299
 postcode: ""
 city: Barry
-street: "Broad Street Parade"
-housenumber: 25
-phone: "+44 1446 740235"
+street: Broad Street Parade
+housenumber: "25"
+phone: +44 1446 740235
 opening_hours: ""
 website: ""

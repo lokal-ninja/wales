@@ -2,10 +2,11 @@ id: 377735011
 type: node
 latitude: 51.46279
 longitude: -3.59184
-postcode: "CF32 0SB"
+postcode: CF32 0SB
 city: Bridgend
-street: "Ewenny Road"
-housenumber: 
+street: Ewenny Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo 09:00-17:00; Tu 09:00-13:00; We 09:00-17:00; Th 13:00-17:00; Fr 09:00-17:00; Sa Off; S…"
-website: "https://www.postoffice.co.uk/branch-finder/3476111/st-brides-major"
+opening_hours: Mo 09:00-17:00; Tu 09:00-13:00; We 09:00-17:00; Th 13:00-17:00; Fr
+    09:00-17:00; Sa Off; S…
+website: https://www.postoffice.co.uk/branch-finder/3476111/st-brides-major

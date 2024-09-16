@@ -2,10 +2,10 @@ id: 10090646311
 type: node
 latitude: 51.58688
 longitude: -2.98265
-postcode: "NP19 0BJ"
+postcode: NP19 0BJ
 city: Newport
-street: "Corporation Road"
-housenumber: 163
-phone: "+44 1633 258 651"
-opening_hours: "Mo-Sa 05:00-20:00; Su 05:00-17:00"
-website: "https://www.premier-stores.co.uk/our-stores/top-ups-convenience-store"
+street: Corporation Road
+housenumber: "163"
+phone: +44 1633 258 651
+opening_hours: Mo-Sa 05:00-20:00; Su 05:00-17:00
+website: https://www.premier-stores.co.uk/our-stores/top-ups-convenience-store

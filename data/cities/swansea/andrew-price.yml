@@ -1,11 +1,11 @@
 id: 781846300
-type: way
+type: node
 latitude: 51.62018
 longitude: -3.94897
-postcode: "SA1 5JY"
+postcode: SA1 5JY
 city: Swansea
-street: "The Kingsway"
-housenumber: 19
-phone: "+44 1792 641333"
+street: The Kingsway
+housenumber: "19"
+phone: +44 1792 641333
 opening_hours: ""
-website: "https://www.andrewpricegroup.com/"
+website: https://www.andrewpricegroup.com/

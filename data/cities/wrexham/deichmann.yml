@@ -1,11 +1,11 @@
 id: 944848833
-type: way
+type: node
 latitude: 53.04693
 longitude: -2.99722
-postcode: "LL11 1RY"
+postcode: LL11 1RY
 city: Wrexham
-street: "Regent Street"
-housenumber: 35
-phone: "+44 1978264247"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
-website: "https://www.deichmann.com/"
+street: Regent Street
+housenumber: "35"
+phone: +44 1978264247
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
+website: https://www.deichmann.com/

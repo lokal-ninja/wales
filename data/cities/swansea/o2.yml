@@ -1,11 +1,11 @@
 id: 1195023616
-type: way
+type: node
 latitude: 51.61948
 longitude: -3.94525
-postcode: "SA1 3AF"
+postcode: SA1 3AF
 city: Swansea
-street: "Oxford Street"
-housenumber: 807
+street: Oxford Street
+housenumber: "807"
 phone: ""
 opening_hours: ""
-website: "https://stores.o2.co.uk/o2-store-swansea-oxford-street"
+website: https://stores.o2.co.uk/o2-store-swansea-oxford-street

@@ -1,11 +1,11 @@
 id: 305430219
-type: way
+type: node
 latitude: 52.66002
 longitude: -3.14784
-postcode: "SY21 7SD"
+postcode: SY21 7SD
 city: Welshpool
-street: "Broad Street"
-housenumber: 14
+street: Broad Street
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

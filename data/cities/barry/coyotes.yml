@@ -1,11 +1,11 @@
 id: 951426514
-type: way
+type: node
 latitude: 51.40438
 longitude: -3.269
 postcode: ""
 city: Barry
-street: "Thompson Street"
-housenumber: 19
-phone: "+44 1446 403530"
+street: Thompson Street
+housenumber: "19"
+phone: +44 1446 403530
 opening_hours: ""
 website: ""

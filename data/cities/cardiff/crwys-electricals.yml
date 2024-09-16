@@ -1,11 +1,11 @@
 id: 202286046
-type: way
+type: node
 latitude: 51.49471
 longitude: -3.17604
-postcode: "CF24 4NL"
+postcode: CF24 4NL
 city: Cardiff
-street: "Crwys Road"
-housenumber: 32
+street: Crwys Road
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

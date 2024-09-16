@@ -1,11 +1,11 @@
 id: 1241228132
-type: way
+type: node
 latitude: 51.52529
 longitude: -3.16538
-postcode: "CF23 6RZ"
+postcode: CF23 6RZ
 city: Cardiff
-street: "Cyncoed Road"
-housenumber: 360
-phone: "02920 763309"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CF23-6RZ/360-cyncoed-road"
+street: Cyncoed Road
+housenumber: "360"
+phone: 02920 763309
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/CF23-6RZ/360-cyncoed-road

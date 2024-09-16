@@ -1,11 +1,11 @@
 id: 1239508254
-type: way
+type: node
 latitude: 51.68203
 longitude: -4.16212
-postcode: "SA15 3TR"
+postcode: SA15 3TR
 city: Llanelli
-street: "Stepney Street"
-housenumber: 52
+street: Stepney Street
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

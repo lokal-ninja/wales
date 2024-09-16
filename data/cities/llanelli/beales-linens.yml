@@ -1,11 +1,11 @@
 id: 1225654740
-type: way
+type: node
 latitude: 51.68174
 longitude: -4.16073
-postcode: "SA15 1YF"
+postcode: SA15 1YF
 city: Llanelli
-street: "Market Precinct"
-housenumber: 4
+street: Market Precinct
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

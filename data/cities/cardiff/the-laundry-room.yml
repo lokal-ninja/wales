@@ -1,11 +1,11 @@
 id: 1062414436
-type: way
+type: node
 latitude: 51.4705
 longitude: -3.18646
-postcode: "CF11 6RX"
+postcode: CF11 6RX
 city: Cardiff
-street: "Clare Road"
-housenumber: 164
+street: Clare Road
+housenumber: "164"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 951271484
-type: way
+type: node
 latitude: 51.40589
 longitude: -3.26509
 postcode: ""
 city: Barry
-street: "Holton Road"
-housenumber: 150
+street: Holton Road
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

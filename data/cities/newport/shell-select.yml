@@ -2,10 +2,12 @@ id: 10273834126
 type: node
 latitude: 51.59748
 longitude: -2.99983
-postcode: "NP20 5PA"
+postcode: NP20 5PA
 city: Newport
-street: "Malpas Road"
-housenumber: 1
-phone: "+44 1633 850033"
-opening_hours: "addr:city=Newport addr:housenumber=1 addr:postcode=NP20 5PA addr:street=Malpas Road amenity=fuel brand=Shell brand:wikidata=Q110716465 brand:wikipedia=en:Royal Dutch Shell name=Shell operator=Shell phone=+44 1633 850033 ref:navads=NVDS353_10019063"
+street: Malpas Road
+housenumber: "1"
+phone: +44 1633 850033
+opening_hours: addr:city=Newport addr:housenumber=1 addr:postcode=NP20 5PA addr:street=Malpas
+    Road amenity=fuel brand=Shell brand:wikidata=Q110716465 brand:wikipedia=en:Royal
+    Dutch Shell name=Shell operator=Shell phone=+44 1633 850033 ref:navads=NVDS353_10019063
 website: ""

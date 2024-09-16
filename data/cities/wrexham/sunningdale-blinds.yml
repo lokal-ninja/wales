@@ -1,11 +1,11 @@
 id: 904730590
-type: way
+type: node
 latitude: 53.0459
 longitude: -2.99223
-postcode: "LL13 8AD"
+postcode: LL13 8AD
 city: Wrexham
-street: "Henblas Street"
-housenumber: 27
+street: Henblas Street
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

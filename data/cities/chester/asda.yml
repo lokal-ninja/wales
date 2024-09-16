@@ -1,11 +1,11 @@
 id: 45791748
-type: way
+type: node
 latitude: 53.17977
 longitude: -2.91899
-postcode: "CH4 8RH"
+postcode: CH4 8RH
 city: Chester
-street: "River Lane"
-housenumber: 
+street: River Lane
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

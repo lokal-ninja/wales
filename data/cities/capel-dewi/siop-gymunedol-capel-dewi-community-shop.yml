@@ -1,11 +1,11 @@
 id: 662081969
-type: way
+type: node
 latitude: 52.05896
 longitude: -4.26017
-postcode: "SA44 4PH"
+postcode: SA44 4PH
 city: Capel Dewi
 street: ""
-housenumber: 
-phone: "+44 1559 362028"
-opening_hours: "Mo, Tu, Th, Fr 10:00-16:30; We 10:00-14:00; Sa 10:00-12:30"
-website: "https://www.capeldewishop.org/"
+housenumber: ""
+phone: +44 1559 362028
+opening_hours: Mo, Tu, Th, Fr 10:00-16:30; We 10:00-14:00; Sa 10:00-12:30
+website: https://www.capeldewishop.org/

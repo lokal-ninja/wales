@@ -1,11 +1,11 @@
 id: 1131057013
-type: way
+type: node
 latitude: 53.32059
 longitude: -3.49351
-postcode: "LL18 1SR"
+postcode: LL18 1SR
 city: Rhyl
-street: "Water Street"
-housenumber: 43
+street: Water Street
+housenumber: "43"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 972105795
-type: way
+type: node
 latitude: 51.48641
 longitude: -3.20039
-postcode: "CF11 9DH"
+postcode: CF11 9DH
 city: Cardiff
-street: "Pontcanna Mews"
-housenumber: 6
+street: Pontcanna Mews
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.yellow.wales"
+website: https://www.yellow.wales

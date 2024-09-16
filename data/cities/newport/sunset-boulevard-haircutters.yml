@@ -2,10 +2,10 @@ id: 9723440363
 type: node
 latitude: 51.58961
 longitude: -2.99577
-postcode: "NP20 1DA"
+postcode: NP20 1DA
 city: Newport
-street: "Upper Dock Street"
-housenumber: 198
-phone: "+44 1633 258 185"
-opening_hours: "Mo-Tu 09:00-17:30; We off; Th-Sa 09:00-17:30; Su off"
+street: Upper Dock Street
+housenumber: "198"
+phone: +44 1633 258 185
+opening_hours: Mo-Tu 09:00-17:30; We off; Th-Sa 09:00-17:30; Su off
 website: ""

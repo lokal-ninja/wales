@@ -1,11 +1,11 @@
 id: 509564121
-type: way
+type: node
 latitude: 52.65998
 longitude: -3.14701
-postcode: "SY21 7DL"
+postcode: SY21 7DL
 city: Welshpool
-street: "Church Street"
-housenumber: 7
+street: Church Street
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

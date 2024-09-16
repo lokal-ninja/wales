@@ -1,11 +1,11 @@
 id: 785732584
-type: way
+type: node
 latitude: 53.28079
 longitude: -3.82988
-postcode: "LL32 8DE"
+postcode: LL32 8DE
 city: Conwy
-street: "High Street"
-housenumber: 35
+street: High Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

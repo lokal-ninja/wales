@@ -1,11 +1,11 @@
 id: 1298337660
-type: way
+type: node
 latitude: 52.91979
 longitude: -4.23177
-postcode: "LL52 0HB"
+postcode: LL52 0HB
 city: Criccieth
-street: "Stryd Fawr"
-housenumber: 60
+street: Stryd Fawr
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

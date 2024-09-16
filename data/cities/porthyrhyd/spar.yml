@@ -1,11 +1,11 @@
 id: 1216362570
-type: way
+type: node
 latitude: 51.8222
 longitude: -4.14929
-postcode: "SA32 8PL"
+postcode: SA32 8PL
 city: Porthyrhyd
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-13:00; Su 10:00-13:00"
-website: "https://www.spar.co.uk/store-locator/afb23612-spar-porthyrhyd/"
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-13:00; Su 10:00-13:00
+website: https://www.spar.co.uk/store-locator/afb23612-spar-porthyrhyd/

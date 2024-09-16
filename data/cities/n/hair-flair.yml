@@ -1,11 +1,11 @@
 id: 958404364
-type: way
+type: node
 latitude: 51.4083
 longitude: -3.26625
 postcode: ""
-city: N
-street: "Maes-y-Cwm Street"
-housenumber: 31
+city: "N"
+street: Maes-y-Cwm Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

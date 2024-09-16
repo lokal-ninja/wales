@@ -2,10 +2,11 @@ id: 4781249571
 type: node
 latitude: 51.60873
 longitude: -3.10083
-postcode: "NP11 6BU"
+postcode: NP11 6BU
 city: Newport
-street: "Tredegar Street"
-housenumber: 30
+street: Tredegar Street
+housenumber: "30"
 phone: ""
-opening_hours: "Fr 09:00-18:00; Sa 09:00-18:00; Su 10:00-16:00; Mo 09:00-18:00; Tu 09:00-18:00; We 09:00-18:00; Th 09:00-18:00"
+opening_hours: Fr 09:00-18:00; Sa 09:00-18:00; Su 10:00-16:00; Mo 09:00-18:00; Tu
+    09:00-18:00; We 09:00-18:00; Th 09:00-18:00
 website: ""

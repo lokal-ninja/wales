@@ -2,10 +2,10 @@ id: 3015542464
 type: node
 latitude: 51.5154
 longitude: -3.25126
-postcode: "CF15 8AA"
+postcode: CF15 8AA
 city: Cardiff
-street: "Station Road"
-housenumber: 2
+street: Station Road
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CF15-8AA/4-station-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/CF15-8AA/4-station-road

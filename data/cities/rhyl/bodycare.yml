@@ -1,11 +1,11 @@
 id: 512698238
-type: way
+type: node
 latitude: 53.32069
 longitude: -3.48984
-postcode: "LL18 1TH"
+postcode: LL18 1TH
 city: Rhyl
-street: "High Street"
-housenumber: 75
+street: High Street
+housenumber: "75"
 phone: ""
 opening_hours: ""
 website: ""

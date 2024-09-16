@@ -2,10 +2,10 @@ id: 4702266958
 type: node
 latitude: 51.50737
 longitude: -3.22829
-postcode: "CF14 2FE"
+postcode: CF14 2FE
 city: Cardiff
-street: "Station Road"
-housenumber: 143
+street: Station Road
+housenumber: "143"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/CF14-2FF/143-station-road"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/CF14-2FF/143-station-road

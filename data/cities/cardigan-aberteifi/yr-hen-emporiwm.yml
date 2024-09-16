@@ -1,11 +1,11 @@
 id: 557699416
-type: way
+type: node
 latitude: 52.08531
 longitude: -4.65955
-postcode: "SA43 1JT"
+postcode: SA43 1JT
 city: Cardigan / Aberteifi
-street: "Pendre"
-housenumber: 22
-phone: "+44 1239 614888"
-opening_hours: "Mo-Sa 09:00-17:30; Su 10:00-16:00"
+street: Pendre
+housenumber: "22"
+phone: +44 1239 614888
+opening_hours: Mo-Sa 09:00-17:30; Su 10:00-16:00
 website: ""

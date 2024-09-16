@@ -1,11 +1,11 @@
 id: 227776440
-type: way
+type: node
 latitude: 52.96897
 longitude: -3.16716
-postcode: "LL20 8HN"
+postcode: LL20 8HN
 city: Llangollen
-street: "Regent Street"
-housenumber: 
+street: Regent Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.coop.co.uk/store-finder/LL20-8HN/regent-street"
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.coop.co.uk/store-finder/LL20-8HN/regent-street

@@ -1,11 +1,11 @@
 id: 727252747
-type: way
+type: node
 latitude: 51.94792
 longitude: -3.3927
-postcode: "LD3 9AF"
+postcode: LD3 9AF
 city: Brecon
-street: "Ship Street"
-housenumber: 10
-phone: "+44 1874 622296"
+street: Ship Street
+housenumber: "10"
+phone: +44 1874 622296
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 107057093
-type: way
+type: node
 latitude: 51.49753
 longitude: -3.14328
-postcode: "CF23 9AD"
+postcode: CF23 9AD
 city: Cardiff
-street: "Newport Road"
-housenumber: 501
+street: Newport Road
+housenumber: "501"
 phone: ""
 opening_hours: ""
-website: "https://www.currys.co.uk/store-finder/cardiff-newport-road-2154.html"
+website: https://www.currys.co.uk/store-finder/cardiff-newport-road-2154.html

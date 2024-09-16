@@ -1,11 +1,11 @@
 id: 513167791
-type: way
+type: node
 latitude: 53.31887
 longitude: -3.49005
 postcode: ""
 city: Rhyl
-street: "Kinmel Street"
-housenumber: 21
+street: Kinmel Street
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

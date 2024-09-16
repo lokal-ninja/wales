@@ -1,11 +1,11 @@
 id: 1188933275
-type: way
+type: node
 latitude: 51.81591
 longitude: -5.07929
-postcode: "SA62 3NP"
+postcode: SA62 3NP
 city: Haverfordwest
-street: "Nolton Cross"
-housenumber: 
-phone: "+44 7792 586810"
-opening_hours: "closed"
+street: Nolton Cross
+housenumber: ""
+phone: +44 7792 586810
+opening_hours: closed
 website: ""

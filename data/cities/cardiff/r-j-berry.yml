@@ -1,11 +1,11 @@
 id: 90683197
-type: way
+type: node
 latitude: 51.48163
 longitude: -3.20015
-postcode: "CF11 9ND"
+postcode: CF11 9ND
 city: Cardiff
-street: "Cowbridge Road East"
-housenumber: 144
+street: Cowbridge Road East
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

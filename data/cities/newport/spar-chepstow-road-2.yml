@@ -1,11 +1,11 @@
 id: 513012775
-type: way
+type: node
 latitude: 51.60775
 longitude: -2.89649
-postcode: "NP18 2JN"
+postcode: NP18 2JN
 city: Newport
-street: "Chepstow Road"
-housenumber: 
-phone: "+44 1633 412 058"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.spar.co.uk/store-locator/afb19350-spar-chepstow-road/"
+street: Chepstow Road
+housenumber: ""
+phone: +44 1633 412 058
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.spar.co.uk/store-locator/afb19350-spar-chepstow-road/

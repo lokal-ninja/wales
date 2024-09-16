@@ -1,11 +1,11 @@
 id: 963437450
-type: way
+type: node
 latitude: 51.58478
 longitude: -2.98198
-postcode: "NP19 0DS"
+postcode: NP19 0DS
 city: Newport
-street: "Coverack Road"
-housenumber: 
+street: Coverack Road
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.pinkstorage.co.uk/newport.html"
+opening_hours: 24/7
+website: https://www.pinkstorage.co.uk/newport.html

@@ -2,10 +2,10 @@ id: 10102143260
 type: node
 latitude: 51.59173
 longitude: -3.18333
-postcode: "CF83 8BY"
+postcode: CF83 8BY
 city: Trethomas
-street: "Newport Road"
-housenumber: 3
-phone: "+44 2920 885 336"
-opening_hours: "Mo-Sa 07:00-18:00; Su 07:00-16:00"
+street: Newport Road
+housenumber: "3"
+phone: +44 2920 885 336
+opening_hours: Mo-Sa 07:00-18:00; Su 07:00-16:00
 website: ""

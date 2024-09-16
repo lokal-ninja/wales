@@ -1,11 +1,11 @@
 id: 904730583
-type: way
+type: node
 latitude: 53.04591
 longitude: -2.99175
 postcode: ""
 city: Wrexham
-street: "Henblas Street"
-housenumber: 33
+street: Henblas Street
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

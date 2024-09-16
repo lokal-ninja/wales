@@ -1,11 +1,11 @@
 id: 949467851
-type: way
+type: node
 latitude: 51.40007
 longitude: -3.28316
 postcode: ""
 city: Barry
-street: "High Street"
-housenumber: 89
+street: High Street
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

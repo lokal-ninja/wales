@@ -1,11 +1,11 @@
 id: 904889064
-type: way
+type: node
 latitude: 53.04597
 longitude: -2.99241
 postcode: ""
 city: Wrexham
-street: "Henblas Street"
-housenumber: 26
+street: Henblas Street
+housenumber: "26"
 phone: "+441978312140"
 opening_hours: ""
-website: "https://www.goldilocks-cottage.co.uk/"
+website: https://www.goldilocks-cottage.co.uk/

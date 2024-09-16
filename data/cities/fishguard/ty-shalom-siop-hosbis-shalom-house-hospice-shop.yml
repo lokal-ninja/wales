@@ -1,11 +1,11 @@
 id: 854358248
-type: way
+type: node
 latitude: 51.99556
 longitude: -4.97943
-postcode: "SA65 9NQ"
+postcode: SA65 9NQ
 city: Fishguard
-street: "West Street"
-housenumber: 44
+street: West Street
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

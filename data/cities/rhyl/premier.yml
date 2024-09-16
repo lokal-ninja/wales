@@ -1,11 +1,11 @@
 id: 170139192
-type: way
+type: node
 latitude: 53.31676
 longitude: -3.4963
-postcode: "LL18 1LE"
+postcode: LL18 1LE
 city: Rhyl
-street: "Wellington Road"
-housenumber: 135
+street: Wellington Road
+housenumber: "135"
 phone: ""
 opening_hours: ""
-website: "https://www.premier-stores.co.uk/our-stores/darbeys-convenience-store"
+website: https://www.premier-stores.co.uk/our-stores/darbeys-convenience-store

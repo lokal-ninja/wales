@@ -1,11 +1,11 @@
 id: 951310183
-type: way
+type: node
 latitude: 51.40466
 longitude: -3.27035
 postcode: ""
 city: Barry
-street: "Holton Road"
-housenumber: 36
-phone: "+44 1446 677486"
+street: Holton Road
+housenumber: "36"
+phone: +44 1446 677486
 opening_hours: ""
-website: "https://www.salonevolve.co.uk/"
+website: https://www.salonevolve.co.uk/

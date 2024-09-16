@@ -1,11 +1,11 @@
 id: 955830892
-type: way
+type: node
 latitude: 51.40405
 longitude: -3.27114
 postcode: ""
 city: Barry
-street: "Greenwood Street"
-housenumber: 17
+street: Greenwood Street
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

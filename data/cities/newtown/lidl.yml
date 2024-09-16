@@ -1,11 +1,11 @@
 id: 199543699
-type: way
+type: node
 latitude: 52.51007
 longitude: -3.31988
-postcode: "SY16 1ET"
+postcode: SY16 1ET
 city: Newtown
-street: "Llanidloes Road"
-housenumber: 
+street: Llanidloes Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/newtown/llanidloes-road/"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/newtown/llanidloes-road/

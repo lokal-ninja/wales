@@ -1,11 +1,11 @@
 id: 912187310
-type: way
+type: node
 latitude: 53.04666
 longitude: -2.99156
-postcode: "LL13 8BB"
+postcode: LL13 8BB
 city: Wrexham
-street: "North Arcade"
-housenumber: 1
-phone: "+44 1978291002"
-opening_hours: "Mo-Fr 09:00-16:30; Sa 09:00-13:00"
+street: North Arcade
+housenumber: "1"
+phone: +44 1978291002
+opening_hours: Mo-Fr 09:00-16:30; Sa 09:00-13:00
 website: ""

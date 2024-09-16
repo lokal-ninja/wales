@@ -1,11 +1,11 @@
 id: 889331859
-type: way
+type: node
 latitude: 52.1495
 longitude: -3.40147
-postcode: "LD2 3DN"
+postcode: LD2 3DN
 city: Builth Wells
-street: "High Street"
-housenumber: 3
+street: High Street
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

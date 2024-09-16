@@ -1,11 +1,11 @@
 id: 140176214
-type: way
+type: node
 latitude: 53.25587
 longitude: -3.44841
-postcode: "LL17 0ED"
+postcode: LL17 0ED
 city: St Asaph
-street: "Lower Denbigh Road"
-housenumber: 
+street: Lower Denbigh Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/LL17-0ED/lower-denbigh-road"
+opening_hours: Mo-Sa 06:00-22:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/LL17-0ED/lower-denbigh-road

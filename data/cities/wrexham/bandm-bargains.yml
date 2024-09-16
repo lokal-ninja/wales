@@ -1,11 +1,11 @@
 id: 900168142
-type: way
+type: node
 latitude: 53.04729
 longitude: -3.00115
-postcode: "LL13 7SU"
+postcode: LL13 7SU
 city: Wrexham
-street: "Central Retail Park"
+street: Central Retail Park
 housenumber: Unit 6
-phone: "+44 330 838 9128"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:00-16:00"
+phone: +44 330 838 9128
+opening_hours: Mo-Sa 08:00-21:00; Su 10:00-16:00
 website: ""

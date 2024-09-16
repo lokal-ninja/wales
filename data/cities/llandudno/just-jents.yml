@@ -2,10 +2,10 @@ id: 705138102
 type: node
 latitude: 53.32149
 longitude: -3.82821
-postcode: "LL30 2NQ"
+postcode: LL30 2NQ
 city: Llandudno
-street: "Trinity Avenue"
-housenumber: 2
-phone: "+44 1492879779"
-opening_hours: "Mo-We 09:00-17:30; Fr 08:30-18:30; Sa 08:00-16:00"
-website: "https://justjents.nearcut.com/"
+street: Trinity Avenue
+housenumber: "2"
+phone: +44 1492879779
+opening_hours: Mo-We 09:00-17:30; Fr 08:30-18:30; Sa 08:00-16:00
+website: https://justjents.nearcut.com/

@@ -1,11 +1,11 @@
 id: 593047943
-type: way
+type: node
 latitude: 51.70838
 longitude: -4.94756
-postcode: "SA73 1TF"
+postcode: SA73 1TF
 city: Milford Haven
-street: "High Street"
-housenumber: 44
+street: High Street
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.coop.co.uk/store-finder/SA73-1TF/44-high-street"
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.coop.co.uk/store-finder/SA73-1TF/44-high-street

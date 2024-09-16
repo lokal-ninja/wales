@@ -1,11 +1,11 @@
 id: 1195023623
-type: way
+type: node
 latitude: 51.61993
 longitude: -3.94585
-postcode: "SA1 3BP"
+postcode: SA1 3BP
 city: Swansea
-street: "Oxford Street"
-housenumber: 257
+street: Oxford Street
+housenumber: "257"
 phone: ""
 opening_hours: ""
 website: ""

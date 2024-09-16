@@ -1,11 +1,11 @@
 id: 440460949
-type: way
+type: node
 latitude: 53.30974
 longitude: -3.7413
-postcode: "LL28 4RB"
+postcode: LL28 4RB
 city: Colwyn Bay
-street: "Colwyn Avenue"
-housenumber: 37
+street: Colwyn Avenue
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Su 06:30-23:00"
-website: "https://www.spar.co.uk/store-locator/afb22256-spar-rhos-on-sea/"
+opening_hours: Mo-Su 06:30-23:00
+website: https://www.spar.co.uk/store-locator/afb22256-spar-rhos-on-sea/

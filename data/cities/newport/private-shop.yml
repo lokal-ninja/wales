@@ -2,10 +2,10 @@ id: 9741154902
 type: node
 latitude: 51.58202
 longitude: -2.99303
-postcode: "NP20 2ED"
+postcode: NP20 2ED
 city: Newport
-street: "Cardiff Road"
-housenumber: 16
-phone: "+44 1633 841 095"
-opening_hours: "Mo-Sa 10:00-18:00; Su off"
+street: Cardiff Road
+housenumber: "16"
+phone: +44 1633 841 095
+opening_hours: Mo-Sa 10:00-18:00; Su off
 website: ""

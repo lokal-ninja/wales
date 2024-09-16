@@ -1,11 +1,11 @@
 id: 839930240
-type: way
+type: node
 latitude: 51.46196
 longitude: -3.44874
-postcode: "CF71 7AG"
+postcode: CF71 7AG
 city: Cowbridge
-street: "High Street"
-housenumber: 42
+street: High Street
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.jonian.shop/"
+website: https://www.jonian.shop/

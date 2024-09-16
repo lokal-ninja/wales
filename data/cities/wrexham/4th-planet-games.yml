@@ -1,11 +1,11 @@
 id: 904889059
-type: way
+type: node
 latitude: 53.0458
 longitude: -2.99274
 postcode: ""
 city: Wrexham
-street: "Bank Street"
-housenumber: 11
+street: Bank Street
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

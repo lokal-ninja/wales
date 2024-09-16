@@ -2,10 +2,10 @@ id: 11026716200
 type: node
 latitude: 51.62276
 longitude: -3.93282
-postcode: "SA1 8BT"
+postcode: SA1 8BT
 city: Swansea
-street: "Delhi Street"
-housenumber: 4
+street: Delhi Street
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 09:30-21:30; Su 09:30-19:00"
+opening_hours: Mo-Sa 09:30-21:30; Su 09:30-19:00
 website: ""

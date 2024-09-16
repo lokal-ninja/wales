@@ -1,11 +1,11 @@
 id: 527582262
-type: way
+type: node
 latitude: 51.5731
 longitude: -3.22038
-postcode: "CF83 1FP"
+postcode: CF83 1FP
 city: Caerphilly
-street: "Cardiff Road"
-housenumber: 67
+street: Cardiff Road
+housenumber: "67"
 phone: ""
 opening_hours: ""
 website: ""

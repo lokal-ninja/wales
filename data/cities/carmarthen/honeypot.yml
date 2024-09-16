@@ -1,11 +1,11 @@
 id: 1209112715
-type: way
+type: node
 latitude: 51.85603
 longitude: -4.30798
-postcode: "SA31 3LE"
+postcode: SA31 3LE
 city: Carmarthen
-street: "Blue Street"
-housenumber: 32
+street: Blue Street
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

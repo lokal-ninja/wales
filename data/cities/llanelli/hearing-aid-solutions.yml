@@ -1,11 +1,11 @@
 id: 1204431938
-type: way
+type: node
 latitude: 51.68491
 longitude: -4.16098
 postcode: ""
 city: Llanelli
-street: "Thomas Street"
-housenumber: 35
+street: Thomas Street
+housenumber: "35"
 phone: ""
 opening_hours: ""
 website: ""

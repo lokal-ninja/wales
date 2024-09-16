@@ -1,11 +1,11 @@
 id: 526258728
-type: way
+type: node
 latitude: 52.08435
 longitude: -4.66036
-postcode: "SA43 1JS"
+postcode: SA43 1JS
 city: Cardigan / Aberteifi
-street: "Pendre"
-housenumber: 52
-phone: "+44 1239 612412"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-15:00"
+street: Pendre
+housenumber: "52"
+phone: +44 1239 612412
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-15:00
 website: ""

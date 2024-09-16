@@ -1,11 +1,11 @@
 id: 160606759
-type: way
+type: node
 latitude: 51.49592
 longitude: -3.56886
-postcode: "CF31 3XX"
+postcode: CF31 3XX
 city: Bridgend
 street: ""
-housenumber: 
-phone: "+44 330 838 9364"
-opening_hours: "Mo-Sa 08:00-21:00; Su 10:30-16:30"
+housenumber: ""
+phone: +44 330 838 9364
+opening_hours: Mo-Sa 08:00-21:00; Su 10:30-16:30
 website: ""

@@ -1,11 +1,11 @@
 id: 915674315
-type: way
+type: node
 latitude: 53.04714
 longitude: -2.99595
-postcode: "LL11 1LW"
+postcode: LL11 1LW
 city: Wrexham
-street: "Egerton Street"
-housenumber: 9
-phone: "+44 1978314643"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:00-16:30"
-website: "https://thezoneonlinebooking.setmore.com/"
+street: Egerton Street
+housenumber: "9"
+phone: +44 1978314643
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:00-16:30
+website: https://thezoneonlinebooking.setmore.com/

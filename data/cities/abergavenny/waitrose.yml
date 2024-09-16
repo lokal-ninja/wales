@@ -1,11 +1,11 @@
 id: 88879178
-type: way
+type: node
 latitude: 51.81631
 longitude: -3.02899
-postcode: "NP7 9LL"
+postcode: NP7 9LL
 city: Abergavenny
-street: "Merthyr Road"
-housenumber: 
+street: Merthyr Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th,Sa 08:00-20:00; Fr 08:00-21:00; Su 10:00-16:00"
-website: "https://www.waitrose.com/find-a-store/abergavenny"
+opening_hours: Mo-Th,Sa 08:00-20:00; Fr 08:00-21:00; Su 10:00-16:00
+website: https://www.waitrose.com/find-a-store/abergavenny

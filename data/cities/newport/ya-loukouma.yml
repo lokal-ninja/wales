@@ -2,10 +2,11 @@ id: 9512405011
 type: node
 latitude: 51.58887
 longitude: -2.9961
-postcode: "NP20 1FX"
+postcode: NP20 1FX
 city: Newport
-street: "High Street"
-housenumber: 
+street: High Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo Off; Tu Off; We 09:00-17:30; Th 09:00-19:00; Fr-Sa 09:00-18:00; Su 10:00-16:00"
-website: "https://www.instagram.com/yasouvlakicardiff/"
+opening_hours: Mo Off; Tu Off; We 09:00-17:30; Th 09:00-19:00; Fr-Sa 09:00-18:00;
+    Su 10:00-16:00
+website: https://www.instagram.com/yasouvlakicardiff/

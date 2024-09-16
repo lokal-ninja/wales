@@ -1,11 +1,11 @@
 id: 951441943
-type: way
+type: node
 latitude: 51.407
 longitude: -3.26171
 postcode: ""
 city: Barry
-street: "Holton Road"
-housenumber: 220
-phone: "+44 1446 738677"
+street: Holton Road
+housenumber: "220"
+phone: +44 1446 738677
 opening_hours: ""
 website: ""

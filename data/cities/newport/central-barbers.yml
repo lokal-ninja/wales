@@ -2,10 +2,11 @@ id: 9445014481
 type: node
 latitude: 51.58232
 longitude: -2.99209
-postcode: "NP20 2PA"
+postcode: NP20 2PA
 city: Newport
-street: "Commercial Road"
+street: Commercial Road
 housenumber: 1a
-phone: "+44 7367 481 661"
-opening_hours: "Mo-Tu 08:00-17:00; We 09:00-15:00; Th-Fr 08:00-17:00; Sa 08:00-15:00; Su off"
+phone: +44 7367 481 661
+opening_hours: Mo-Tu 08:00-17:00; We 09:00-15:00; Th-Fr 08:00-17:00; Sa 08:00-15:00;
+    Su off
 website: ""

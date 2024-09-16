@@ -2,10 +2,11 @@ id: 10956026656
 type: node
 latitude: 51.64537
 longitude: -3.02192
-postcode: "NP44 3JU"
+postcode: NP44 3JU
 city: Cwmbran
-street: "Oldbury Road"
-housenumber: 
-phone: "+44 7850 679 673"
-opening_hours: "Mo Off; Tu Off; We-Th 09:30-15:00; Fr 10:00-18:00; Sa 09:00-13:00; Su Off"
+street: Oldbury Road
+housenumber: ""
+phone: +44 7850 679 673
+opening_hours: Mo Off; Tu Off; We-Th 09:30-15:00; Fr 10:00-18:00; Sa 09:00-13:00;
+    Su Off
 website: ""

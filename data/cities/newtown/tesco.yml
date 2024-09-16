@@ -1,11 +1,11 @@
 id: 199543701
-type: way
+type: node
 latitude: 52.51428
 longitude: -3.30566
-postcode: "SY16 1DW"
+postcode: SY16 1DW
 city: Newtown
-street: "Pool Road"
-housenumber: 
+street: Pool Road
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 10:00-16:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 10:00-16:00
 website: ""

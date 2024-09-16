@@ -1,11 +1,11 @@
 id: 913005709
-type: way
+type: node
 latitude: 53.04559
 longitude: -2.98982
-postcode: "LL13 8BT"
+postcode: LL13 8BT
 city: Wrexham
-street: "Charles Street"
-housenumber: 10
-phone: "+44 1978448928"
+street: Charles Street
+housenumber: "10"
+phone: +44 1978448928
 opening_hours: ""
 website: ""

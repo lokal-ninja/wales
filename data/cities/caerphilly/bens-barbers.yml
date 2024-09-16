@@ -2,10 +2,11 @@ id: 11453977012
 type: node
 latitude: 51.66578
 longitude: -3.1444
-postcode: "NP11 4ET"
+postcode: NP11 4ET
 city: Caerphilly
-street: "Victoria Terrace"
-housenumber: 19
-phone: "+44 7946 862 897"
-opening_hours: "Mo 09:00-16:30; Tu 09:00-17:00; We-Th 09:00-19:00; Fr 09:00-17:00; Sa 06:00-15:00; Su Off"
-website: "https://www.fresha.com/lvp/bens-barbers-newbridge-victoria-terrace-newbridge-jbYXn1"
+street: Victoria Terrace
+housenumber: "19"
+phone: +44 7946 862 897
+opening_hours: Mo 09:00-16:30; Tu 09:00-17:00; We-Th 09:00-19:00; Fr 09:00-17:00;
+    Sa 06:00-15:00; Su Off
+website: https://www.fresha.com/lvp/bens-barbers-newbridge-victoria-terrace-newbridge-jbYXn1

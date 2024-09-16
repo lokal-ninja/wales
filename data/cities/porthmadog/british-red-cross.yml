@@ -1,11 +1,11 @@
 id: 1051357336
-type: way
+type: node
 latitude: 52.92775
 longitude: -4.13262
-postcode: "LL49 9HA"
+postcode: LL49 9HA
 city: Porthmadog
-street: "High Street"
-housenumber: 119
+street: High Street
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Sa 08:00-16:00"
-website: "https://www.redcross.org.uk/shop/find-a-charity-shop/porthmadog"
+opening_hours: Mo-Sa 08:00-16:00
+website: https://www.redcross.org.uk/shop/find-a-charity-shop/porthmadog

@@ -1,11 +1,11 @@
 id: 33104416
-type: way
+type: node
 latitude: 51.60523
 longitude: -3.09987
-postcode: "NP11 6AW"
+postcode: NP11 6AW
 city: Risca
-street: "Commercial Street"
-housenumber: 
+street: Commercial Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00, Su 10:00-16:00"
-website: "https://www.lidl.co.uk/s/en-GB/store-finder/risca/commercial-street/"
+opening_hours: Mo-Sa 08:00-21:00, Su 10:00-16:00
+website: https://www.lidl.co.uk/s/en-GB/store-finder/risca/commercial-street/

@@ -1,11 +1,11 @@
 id: 552430506
-type: way
+type: node
 latitude: 52.08379
 longitude: -4.66139
-postcode: "SA43 1LL"
+postcode: SA43 1LL
 city: Cardigan / Aberteifi
-street: "College Row"
-housenumber: 4
-phone: "+44 1239 615995"
+street: College Row
+housenumber: "4"
+phone: +44 1239 615995
 opening_hours: ""
 website: ""

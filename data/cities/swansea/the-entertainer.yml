@@ -1,11 +1,11 @@
 id: 538642651
-type: way
+type: node
 latitude: 51.61806
 longitude: -3.94614
-postcode: "SA1 3QW"
+postcode: SA1 3QW
 city: Swansea
-street: "The Quadrant Shopping Centre"
-housenumber: 12
-phone: "+44 1792 475896"
+street: The Quadrant Shopping Centre
+housenumber: "12"
+phone: +44 1792 475896
 opening_hours: ""
 website: ""

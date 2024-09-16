@@ -2,10 +2,11 @@ id: 11747420763
 type: node
 latitude: 51.5858
 longitude: -2.99444
-postcode: "NP20 1HR"
+postcode: NP20 1HR
 city: Newport
-street: "Llanarth Street"
-housenumber: 42
+street: Llanarth Street
+housenumber: "42"
 phone: "+441633546400"
-opening_hours: "Mo-Tu 09:00-17:30; We 10:30-18:30; Th 09:00-17:30; Fr-Sa 09:00-18:00; Su Off"
-website: "https://www.salonabba.com/contact-us"
+opening_hours: Mo-Tu 09:00-17:30; We 10:30-18:30; Th 09:00-17:30; Fr-Sa 09:00-18:00;
+    Su Off
+website: https://www.salonabba.com/contact-us

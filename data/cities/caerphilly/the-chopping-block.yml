@@ -1,11 +1,11 @@
 id: 106447774
-type: way
+type: node
 latitude: 51.57382
 longitude: -3.21977
-postcode: "CF83 1FW"
+postcode: CF83 1FW
 city: Caerphilly
-street: "Windsor Street"
-housenumber: 25
+street: Windsor Street
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 586089096
-type: way
+type: node
 latitude: 52.07921
 longitude: -4.65693
-postcode: "SA43 3AG"
+postcode: SA43 3AG
 city: Cardigan / Aberteifi
 street: ""
-housenumber: 27
-phone: "+44 1239 613749"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-16:00"
-website: "https://www.duluxdecoratorcentre.co.uk"
+housenumber: "27"
+phone: +44 1239 613749
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-16:00
+website: https://www.duluxdecoratorcentre.co.uk

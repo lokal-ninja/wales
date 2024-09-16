@@ -2,10 +2,10 @@ id: 9876916440
 type: node
 latitude: 51.57836
 longitude: -2.94372
-postcode: "NP19 4QQ"
+postcode: NP19 4QQ
 city: Newport
-street: "Seven Stiles Avenue"
-housenumber: 5
+street: Seven Stiles Avenue
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

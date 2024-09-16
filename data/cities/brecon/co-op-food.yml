@@ -1,11 +1,11 @@
 id: 305043830
-type: way
+type: node
 latitude: 51.9485
 longitude: -3.39074
-postcode: "LD3 7HY"
+postcode: LD3 7HY
 city: Brecon
-street: "Lion Street"
-housenumber: 
+street: Lion Street
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 10:00-16:00"
-website: "https://www.coop.co.uk/store-finder/LD3-7HY/lion-street"
+opening_hours: Mo-Sa 07:30-21:00; Su 10:00-16:00
+website: https://www.coop.co.uk/store-finder/LD3-7HY/lion-street

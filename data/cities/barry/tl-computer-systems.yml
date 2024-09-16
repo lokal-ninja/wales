@@ -1,11 +1,11 @@
 id: 951310180
-type: way
+type: node
 latitude: 51.40472
 longitude: -3.27022
-postcode: "CF63 4HD"
+postcode: CF63 4HD
 city: Barry
-street: "Holton Road"
-housenumber: 40
-phone: "+44 1446 747702"
-opening_hours: "Mo-Fr 09:30-17:30; Sa 09:30-14:30"
-website: "https://www.tlsystems.co.uk"
+street: Holton Road
+housenumber: "40"
+phone: +44 1446 747702
+opening_hours: Mo-Fr 09:30-17:30; Sa 09:30-14:30
+website: https://www.tlsystems.co.uk

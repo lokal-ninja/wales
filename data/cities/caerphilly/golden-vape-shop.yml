@@ -2,10 +2,10 @@ id: 11453977037
 type: node
 latitude: 51.665
 longitude: -3.14412
-postcode: "NP11 4EY"
+postcode: NP11 4EY
 city: Caerphilly
-street: "High Street"
-housenumber: 8
+street: High Street
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""
