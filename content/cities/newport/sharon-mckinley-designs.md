@@ -1,5 +1,5 @@
 ---
-title: "Sharon Mckinley Designs"
+title: "Sharon McKinley Designs"
 url: /newport/sharon-mckinley-designs/
-shop: gift
+shop: jewelry
 ---
