@@ -1,6 +1,6 @@
 ---
 title: Maesteg
 url: /maesteg/
-latitude: 51.607
-longitude: -3.656
+latitude: 51.61
+longitude: -3.658
 ---
