@@ -1,6 +1,6 @@
 ---
 title: Tywyn
 url: /tywyn/
-latitude: 52.586
-longitude: -4.092
+latitude: 52.587
+longitude: -4.088
 ---

@@ -1,5 +1,5 @@
 ---
-title: "partridge and parr luxury outfittets"
+title: "Partridge and Parr Luxury Outfittets"
 url: /aberaeron/partridge-and-parr-luxury-outfittets/
 shop: clothes
 ---
