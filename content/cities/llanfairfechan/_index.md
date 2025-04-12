@@ -1,6 +1,6 @@
 ---
 title: Llanfairfechan
 url: /llanfairfechan/
-latitude: 53.254
-longitude: -3.978
+latitude: 53.253
+longitude: -3.976
 ---

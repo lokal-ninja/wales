@@ -1,6 +1,6 @@
 ---
 title: Lampeter
 url: /lampeter/
-latitude: 52.121
-longitude: -4.078
+latitude: 52.113
+longitude: -4.079
 ---
