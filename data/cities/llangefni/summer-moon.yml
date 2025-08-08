@@ -7,5 +7,5 @@ city: Llangefni
 street: High street
 housenumber: "51"
 phone: ""
-opening_hours: Mo 10:00-16:00; Tu-Fr 10:00-16:00
+opening_hours: Mo 10:00-16:00;Tu-Fr 10:00-16:00;Mo-Sa 10:00-16:00, Sa 10:00-14:00
 website: ""

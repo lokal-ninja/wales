@@ -1,6 +1,6 @@
 ---
 title: Abergavenny
 url: /abergavenny/
-latitude: 51.824
-longitude: -3.014
+latitude: 51.838
+longitude: -3.083
 ---

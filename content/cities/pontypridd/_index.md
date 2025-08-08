@@ -1,6 +1,6 @@
 ---
 title: Pontypridd
 url: /pontypridd/
-latitude: 51.604
-longitude: -3.34
+latitude: 51.594
+longitude: -3.328
 ---

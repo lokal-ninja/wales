@@ -1,6 +1,6 @@
 ---
 title: Benllech
 url: /benllech/
-latitude: 53.318
-longitude: -4.228
+latitude: 53.316
+longitude: -4.226
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bethaney And Co"
+title: "Bethaney & Co"
 url: /carmarthen/bethaney-and-co/
-shop: clothes
+shop: hairdresser
 ---
