@@ -1,6 +1,6 @@
 ---
 title: Ystrad
 url: /ystrad/
-latitude: 51.645
-longitude: -3.466
+latitude: 51.646
+longitude: -3.471
 ---

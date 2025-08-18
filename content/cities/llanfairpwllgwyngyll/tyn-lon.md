@@ -1,5 +1,5 @@
 ---
-title: "Tyn Lon"
+title: "Tyn Lôn"
 url: /llanfairpwllgwyngyll/tyn-lon/
 shop: car
 ---

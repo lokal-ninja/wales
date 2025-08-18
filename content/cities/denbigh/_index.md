@@ -1,6 +1,6 @@
 ---
 title: Denbigh
 url: /denbigh/
-latitude: 53.179
-longitude: -3.597
+latitude: 53.187
+longitude: -3.411
 ---
