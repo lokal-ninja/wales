@@ -2,10 +2,11 @@ id: 9829545208
 type: node
 latitude: 51.58698
 longitude: -3.00375
-postcode: NP20 4PB
+postcode: NP20 4PB;NP20 4NZ
 city: Newport
 street: Clytha Park Road
 housenumber: "8"
 phone: ""
-opening_hours: ""
-website: https://www.facebook.com/No8BeautySalon/
+opening_hours: Mo-Tu 09:30-17:00; We 09:30-19:00; Th 09:30-20:00; Fr 09:30-19:00;
+    Sa 09:00-15:15; Su Off
+website: https://www.facebook.com/No8BeautySalon/;https://www.fresha.com/a/no8beauty-newport-uk-8-clytha-park-road-a9r0ezb7
