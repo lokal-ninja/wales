@@ -7,5 +7,5 @@ city: Brecon
 street: Ship Street
 housenumber: "10"
 phone: +44 1874 622296
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 08:30-17:00; We 08:30-13:00; Sa 08:30-16:00; Su off
 website: ""
