@@ -1,6 +1,6 @@
 ---
 title: Caergybi/Holyhead
 url: /caergybi-holyhead/
-latitude: 53.301
-longitude: -4.616
+latitude: 53.298
+longitude: -4.619
 ---

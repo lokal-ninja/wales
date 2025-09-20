@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /cardiff/spar-merthyr-road/
+url: /newport/spar-larch-grove/
 shop: convenience
 ---
