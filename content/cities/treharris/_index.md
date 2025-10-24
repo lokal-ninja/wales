@@ -1,6 +1,6 @@
 ---
 title: Treharris
 url: /treharris/
-latitude: 51.705
-longitude: -3.319
+latitude: 51.703
+longitude: -3.311
 ---

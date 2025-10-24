@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /colwyn-bay/spar/
+url: /newport/spar-larch-grove/
 shop: convenience
 ---
