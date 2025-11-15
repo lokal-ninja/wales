@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /beaumaris/spar-castle-street/
+url: /tredegar/spar/
 shop: convenience
 ---
