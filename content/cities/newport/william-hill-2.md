@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /newport/william-hill-aberthaw-rise/
+url: /newport/william-hill-2/
 shop: bookmaker
 ---
