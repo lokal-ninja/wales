@@ -1,5 +1,5 @@
 ---
 title: "Betfred"
-url: /llandudno/betfred-mostyn-street/
+url: /llandudno/betfred-lloyd-street/
 shop: bookmaker
 ---
