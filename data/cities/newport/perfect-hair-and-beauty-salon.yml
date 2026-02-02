@@ -7,6 +7,6 @@ city: Newport
 street: Somerton Road
 housenumber: "100"
 phone: "+441633282382"
-opening_hours: Mo Off; Tu 10:00-16:00; We 10:00-16:00; Th 09:30-19:00; Fr 09:30-17:00;
-    Sa Off; Su Off
+opening_hours: Mo off; Tu 10:00-16:00; We 10:00-16:00; Th 09:30-19:00; Fr 09:30-17:00;
+    Sa off; Su off
 website: ""

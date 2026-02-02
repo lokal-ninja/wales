@@ -1,6 +1,6 @@
 ---
 title: Bodedern
 url: /bodedern/
-latitude: 53.294
+latitude: 53.293
 longitude: -4.502
 ---
