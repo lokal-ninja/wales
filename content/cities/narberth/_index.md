@@ -1,6 +1,6 @@
 ---
 title: Narberth
 url: /narberth/
-latitude: 51.798
-longitude: -4.742
+latitude: 51.8
+longitude: -4.744
 ---

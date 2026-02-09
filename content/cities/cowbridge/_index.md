@@ -1,6 +1,6 @@
 ---
 title: Cowbridge
 url: /cowbridge/
-latitude: 51.46
-longitude: -3.422
+latitude: 51.461
+longitude: -3.447
 ---
