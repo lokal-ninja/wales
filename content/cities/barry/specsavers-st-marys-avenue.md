@@ -1,5 +1,5 @@
 ---
 title: "Specsavers"
-url: /barry/specsavers-holton-road/
+url: /barry/specsavers-st-marys-avenue/
 shop: optician
 ---
