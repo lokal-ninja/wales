@@ -1,5 +1,5 @@
 ---
 title: "Tesco Express"
-url: /neath-port-talbot/tesco-express/
+url: /neath/tesco-express/
 shop: convenience
 ---

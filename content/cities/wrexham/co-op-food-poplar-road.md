@@ -1,5 +1,5 @@
 ---
 title: "Co-op Food"
-url: /wrexham/co-op-food-lord-street/
+url: /wrexham/co-op-food-poplar-road/
 shop: convenience
 ---
