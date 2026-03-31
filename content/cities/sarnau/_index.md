@@ -1,6 +1,6 @@
 ---
 title: Sarnau
 url: /sarnau/
-latitude: 52.131
-longitude: -4.465
+latitude: 52.127
+longitude: -4.48
 ---
