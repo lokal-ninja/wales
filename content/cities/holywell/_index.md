@@ -1,6 +1,6 @@
 ---
 title: Holywell
 url: /holywell/
-latitude: 53.273
-longitude: -3.22
+latitude: 53.272
+longitude: -3.219
 ---
