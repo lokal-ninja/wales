@@ -1,6 +1,6 @@
 ---
 title: Saundersfoot
 url: /saundersfoot/
-latitude: 51.703
-longitude: -4.721
+latitude: 51.711
+longitude: -4.699
 ---
