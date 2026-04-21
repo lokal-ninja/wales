@@ -1,5 +1,5 @@
 ---
 title: "Blaenafon Cheddar Company"
-url: /blaenavon/blaenafon-cheddar-company/
+url: /pontypool/blaenafon-cheddar-company/
 shop: cheese
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Morrisons Daily"
-url: /bagillt/morrisons-daily/
+url: /flint/morrisons-daily/
 shop: convenience
 ---
