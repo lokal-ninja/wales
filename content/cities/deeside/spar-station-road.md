@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /deeside/spar-welsh-road/
+url: /deeside/spar-station-road/
 shop: convenience
 ---
