@@ -1,5 +1,5 @@
 ---
 title: "William Hill"
-url: /barry/william-hill-holton-road/
+url: /colwyn-bay/william-hill-rhos-road/
 shop: bookmaker
 ---

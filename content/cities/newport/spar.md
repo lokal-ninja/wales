@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /newport/spar/
-shop: convenience
+shop: supermarket
 ---
