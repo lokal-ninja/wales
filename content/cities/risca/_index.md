@@ -1,6 +1,6 @@
 ---
 title: Risca
 url: /risca/
-latitude: 51.606
-longitude: -3.099
+latitude: 51.61
+longitude: -3.101
 ---
