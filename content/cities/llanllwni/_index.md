@@ -1,6 +1,6 @@
 ---
 title: Llanllwni
 url: /llanllwni/
-latitude: 52.033
-longitude: -4.204
+latitude: 52.03
+longitude: -4.208
 ---
