@@ -1,5 +1,5 @@
 ---
-title: "Gwalia"
+title: "gwalia"
 url: /llangefni/gwalia/
-shop: deli
+shop: bakery
 ---
