@@ -1,5 +1,5 @@
 ---
-title: "Watson & Pratts"
+title: "Watson & Pratt's"
 url: /lampeter/watson-and-pratts/
-shop: shop
+shop: greengrocer
 ---

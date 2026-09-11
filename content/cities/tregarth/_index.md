@@ -1,6 +1,6 @@
 ---
 title: Tregarth
 url: /tregarth/
-latitude: 53.188
-longitude: -4.098
+latitude: 53.19
+longitude: -4.093
 ---
