@@ -7,5 +7,6 @@ city: Llangollen
 street: Castle Street
 housenumber: "27"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-We 08:00-20:00; Th 08:00-21:00; Fr 08:00-22:30; Sa 08:00-23:00;
+    Su 09:00-19:00
 website: ""

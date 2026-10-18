@@ -7,5 +7,5 @@ city: Ebbw Vale
 street: School Road
 housenumber: "13"
 phone: ""
-opening_hours: Mo[-4]/4 10:00-12:00; Tu-Su closed
+opening_hours: Mo[-4] 10:00-12:00; Mo[4] 10:00-12:00; Tu-Su off
 website: ""

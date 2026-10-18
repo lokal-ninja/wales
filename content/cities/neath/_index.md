@@ -1,6 +1,6 @@
 ---
 title: Neath
 url: /neath/
-latitude: 51.673
-longitude: -3.82
+latitude: 51.615
+longitude: -3.805
 ---
