@@ -1,5 +1,5 @@
 ---
-title: "Armstrong And North"
+title: "Armstrong & North"
 url: /newport/armstrong-and-north/
-shop: hearing aids
+shop: optician
 ---
